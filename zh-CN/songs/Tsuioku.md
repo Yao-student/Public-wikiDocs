@@ -6,40 +6,32 @@
   <p>「はらり、空に散った」</p>
 </div>
 
-<script>
-var parameter = {
-    songName: '追憶',
-    alias: ['追忆'],
-    composer: '<a onclick="Jump(\'composerList#PIKASONIC\')">PIKASONIC</a> & <a onclick="Jump(\'composerList#Nakontanmaru\')">なこたんまる</a>',
-    duration: '03:03',
-    bpm: 303,
-    chapter: '<a onclick="Jump(\'chapterList#main-story-1\')">主线一·晴雨之遇</a>',
-    diff: {
-        sy: 5.3,
-        ez: 3.0
-    },
-    notenum: {
-        sy: 509,
-        ez: 458
-    },
-    charter: {
-        sy: '<a onclick="Jump(\'charterList#XyX\')">八樱盒</a> feat. <a onclick="Jump(\'charterList#Fyato\')">Fyato</a>',
-        ez: '<a onclick="Jump(\'charterList#XyX\')">八樱盒</a> (<a onclick="Jump(\'charterList#HXDan\')">活性氮</a> modified)'
-    },
-    update: [
-        {version: '第一次游戏性测试', date: Date(2023, 4, 2), platform: 'Steam'},
-        {version: 'v2.0.0', date: Date(2024, 3, 2), platform: 'TapTap'},
-        {version: 'v2.2.1', date: Date(2024, 4, 28), platform: 'iOS外区'}
-    ],
-    illust: '',
-    illustrator: '<a onclick="Jump(\'illustratorList#Yubai\')">于白</a>'
-};
-songinfo(parameter);
-</script>
+<a id="song-info"></a>
 
-<div id="songinfo"></div>
+## 曲目信息
 
-<a id="unlock-condition"></a>
+| 信息 | 内容 |
+| :-: | :-: |
+| 曲名 | 追憶 |
+| 别名 | 无 |
+| 原创 | 否 |
+| 曲师 | [PIKASONIC](./wiki?p=composer_list#PIKASONIC) & [なこたんまる](./wiki?p=composer_list#Nakontanmaru) |
+| 时长 | 03:03 |
+| BPM | 303 |
+| 章节 | [主线一·晴雨之遇](./wiki?p=chapters/Main_Story_I) |
+| 曲绘 | [于白](./wiki?p=illustrator_list#Yubai) |
+
+<a id="chart-info"></a>
+
+## 谱面信息
+
+| 信息 | SY | EZ | TL |
+| :-: | :-: | :-: | :-: |
+| 定数 | 5.4 | 3.0 | ? |
+| 物量 | 509 | 458 | 351 |
+| 谱师 | [八樱盒](./wiki?p=charter_list#XyX) feat. [Fyato](./wiki?p=charter_list#Fyato) | [八樱盒](./wiki?p=charter_list#XyX) ([活性氮](./wiki?p=charter_list#HXDan) modified) | [XyX](./wiki?p=charter_list#XyX) |
+
+<a id="unlock-method"></a>
 
 ## 解锁方法
 
@@ -49,13 +41,18 @@ songinfo(parameter);
 
 | 时间 | 版本 | 内容 |
 | :-: | :-: | :-: |
-| 2023/05/02 | 第一次游戏性测试 | 上线曲目 |
+| 2023/05/02 | 第一次游戏性测试 | Steam侧上线曲目 |
 | 202?/??/?? | ??? | 更改曲绘 |
 | 2025/03/29 | v2.0.0 | SY难度定数由5.8改为5.3<br>EZ难度定数由3.4改为3.0 |
+| 2025/04/02 | v2.0.0 | TapTap侧上线曲目 |
+| 2025/05/28 | v2.2.1 | App Store外区侧上线曲目 |
+| 2025/07/21 | v2.4.1 | App Store国区侧上线曲目 |
+| 2025/08/16 | v2.5.0 | SY难度定数由5.3改为5.4 |
+| 2025/09/13 | v2.5.1 | 增加TL难度 |
 
 ## 游戏相关
 
-- 本曲在游戏中有删减。
+- 本曲在游戏中有删改。
 
 ## 攻略
 
@@ -71,37 +68,37 @@ songinfo(parameter);
 
 ### 原文
 
-何か忘れている気がしたんだ
-夏の音が鼓動を急かしていく
-空の青さが
-眩しすぎたんだ
+何か忘れている気がしたんだ<br>
+夏の音が鼓動を急かしていく<br>
+空の青さが<br>
+眩しすぎたんだ<br>
 僕は夜に溶けていく
 
-いつもいつも
-君の背中を
-見て追いかけては
+いつもいつも<br>
+君の背中を<br>
+見て追いかけては<br>
 彷徨いを繰り返して
 
-明るい姿形見とれてしまうから
-暗い夜空にも
+明るい姿形見とれてしまうから<br>
+暗い夜空にも<br>
 気付かずにいれたのかな
 
-愛は哀に
-肺は灰に
-声は遠くなっていって
-見つけたって
-思ってた君は
+愛は哀に<br>
+肺は灰に<br>
+声は遠くなっていって<br>
+見つけたって<br>
+思ってた君は<br>
 いなくなっていってさ
 
-知らないって
-見えないって
-そんなこと言ったって
+知らないって<br>
+見えないって<br>
+そんなこと言ったって<br>
 季節は巡って
 
-何か忘れている気がしたんだ
-夏の音が鼓動を急かしていく
-掴もうとしたら消えていくから
-君は言葉になっていく
+何か忘れている気がしたんだ<br>
+夏の音が鼓動を急かしていく<br>
+掴もうとしたら消えていくから<br>
+君は言葉になっていく<br>
 はらり空に散った
 
 <div class="NoticeBoard">
@@ -122,57 +119,56 @@ songinfo(parameter);
       </p>
     </details>
   </font>
-  <br>
 </div>
 
-何か覚えてる気がしたんだ
-遥かこの匂いとこの温度
-重なる記憶と
-邪魔な蝉時雨
+何か覚えてる気がしたんだ<br>
+遥かこの匂いとこの温度<br>
+重なる記憶と<br>
+邪魔な蝉時雨<br>
 戻れない　戻らない
 
-何か失くしたような気がしてたんだ
-既に思い出に君はいなくて
-僕の目の中に映る全てが
-もう儚く感じたんだ
-はらり空に散った
+何か失くしたような気がしてたんだ<br>
+既に思い出に君はいなくて<br>
+僕の目の中に映る全てが<br>
+もう儚く感じたんだ<br>
+はらり空に散った<br>
 僕の心に散った
 
 ### 翻译
 
 - 翻译：[希望终焉](https://music.163.com/#/user/home?id=81334699)
 
-感觉好像忘记了什么
-随着夏日的声音加快了心跳
-天空的湛然蔚蓝
-实在是太过耀眼了
+感觉好像忘记了什么<br>
+随着夏日的声音加快了心跳<br>
+天空的湛然蔚蓝<br>
+实在是太过耀眼了<br>
 让我消融于苍茫夜晚吧
 
-一直以来
-总是追逐着
-你的背影
+一直以来<br>
+总是追逐着<br>
+你的背影<br>
 在彷徨中周而复始
 
-因为那样的身影令人如痴如醉
-即使是在漆黑一团的夜空中
+因为那样的身影令人如痴如醉<br>
+即使是在漆黑一团的夜空中<br>
 是否仍未注意到呢
 
-爱是悲伤的
-肺是灰烬的
-声音渐渐远去
-就算找到了
-曾经以为的你
+爱是悲伤的<br>
+肺是灰烬的<br>
+声音渐渐远去<br>
+就算找到了<br>
+曾经以为的你<br>
 也已经不在了
 
-你说你不知道
-看不见
-说了那样的话
+你说你不知道<br>
+看不见<br>
+说了那样的话<br>
 季节轮回
 
-感觉好像忘记了什么
-随着夏日的声音加快了心跳
-想要将它紧握，却悄然消失
-你会变成语言般
+感觉好像忘记了什么<br>
+随着夏日的声音加快了心跳<br>
+想要将它紧握，却悄然消失<br>
+你会变成语言般<br>
 轻轻地散落在空中
 
 <div class="NoticeBoard">
@@ -193,34 +189,32 @@ songinfo(parameter);
       </p>
     </details>
   </font>
-  <br>
 </div>
 
-好像还记得什么
-遥远的味道和温度
-交错重叠的记忆
-喋喋不休的蝉时雨
+好像还记得什么<br>
+遥远的味道和温度<br>
+交错重叠的记忆<br>
+喋喋不休的蝉时雨<br>
 回不去 回不去啊
 
-感觉好像失去了什么
-回忆里已经没有你
-映在我眼中的全部
-在转瞬即逝的感觉中
-轻轻地散落在空中
+感觉好像失去了什么<br>
+回忆里已经没有你<br>
+映在我眼中的全部<br>
+在转瞬即逝的感觉中<br>
+轻轻地散落在空中<br>
 散落在我心中
 
 ## 音乐
 
-- <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1869161372&auto=0&height=66"></iframe>[^1]
+- <span class="netease-cloud-music-icon"></span>[追憶 (feat. nakotanmaru) - PIKASONIC / なこたんまる - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1869161372)[^1]
 - <span class="youtube-icon"></span>[PIKASONIC - 追憶 (feat.nakotanmaru)](https://www.youtube.com/watch?v=8TpMs2oS5u0)[^1]
 - <span class="bilibili-icon"></span>[PIKASONIC - 追憶 (feat.nakotanmaru)](https://www.bilibili.com/video/BV1C3411R7c2/)[^1]
 
 ## 相关视频
 
-- <span class="bilibili-icon"></span>[【Notanote谱面保管室】追憶 [SY 5.3] 谱面演示](https://www.bilibili.com/video/BV1negZzrECL/)
+- <span class="bilibili-icon"></span>[【Notanote谱面保管室】追憶 [SY 5.4] 谱面演示](https://www.bilibili.com/video/BV1negZzrECL/)
 - <span class="bilibili-icon"></span>[【Notanote谱面保管室】追憶 [EZ 3.0] 谱面演示](https://www.bilibili.com/video/BV1pYgZzGEcM/)
 - <span class="bilibili-icon"></span>[追憶谱面难度同框对比](https://www.bilibili.com/video/BV1fcwRemEf1/)
-- <span class="bilibili-icon"></span>[【Notanote】追憶首杀](https://www.bilibili.com/video/BV1Vh411T7kN/)（玩家：[徊貓](https://space.bilibili.com/1763325847/)）
 
 ## 注释
 
