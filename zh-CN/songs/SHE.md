@@ -1,6 +1,7 @@
 # "SHE"
 
 <div class="NoticeBoard">
+  <br>
   <p>新人初见杀长条</p>
 </div>
 
@@ -13,11 +14,11 @@
 | 曲名 | "SHE" |
 | 别名 | 无 |
 | 原创 | 否 |
-| 曲师 | <a href="./wiki?p=composer_list#ΓИ7AL">ΓИ7AL</a> |
+| 曲师 | <a href="?p=composer_list#ΓИ7AL">ΓИ7AL</a> |
 | 时长 | 02:03 |
 | BPM | 88 |
-| 章节 | [主线一·晴雨之遇](./wiki?p=chapters/Main_Story_I) |
-| 曲绘 | [故离](./wiki?p=illustrator_list#Guli) |
+| 章节 | [主线一·晴雨之遇](?p=chapters/Main_Story_I) |
+| 曲绘 | [故离](?p=illustrator_list#Guli) |
 
 <a id="chart-info"></a>
 
@@ -27,11 +28,11 @@
 | :-: | :-: | :-: |
 | 定数 | 3.5 | ? |
 | 物量 | 122 | 450 |
-| 谱师 | [流星嘤](./wiki?p=charter_list#XyX) | [XyX](./wiki?p=charter_list#XyX) |
+| 谱师 | [流星嘤](?p=charter_list#XyX) | [XyX](?p=charter_list#XyX) |
 
 ## 解锁方法
 
-阅读剧情收集品[「追憶」](./wiki?p=collectible_list#Tsuioku)解锁。
+阅读剧情收集品[「追憶」](?p=collectible_list#Tsuioku)解锁。
 
 ## 更新记录
 
@@ -50,7 +51,7 @@
 - 本曲为厂牌[流星体](https://space.bilibili.com/3546611869288986/)的曲目。
 - 本曲收录于专辑[Words Fall Through Me](https://music.163.com/#/album?id=134870826)中。
 - 本曲的曲名在各音乐平台上、预告[动态](https://t.bilibili.com/893039699582517273)与[视频](https://www.bilibili.com/video/BV15u4y1Q7X3/)中，皆为「"She"」，但游戏内曲名为「"SHE"」。
-- 本曲为<a href="./wiki?p=chapters/Main_Story_I">主线一·晴雨之遇</a>中唯一一个不于第一次游戏性测试更新，而是于第二次游戏性测试更新的曲目。
+- 本曲为<a href="?p=chapters/Main_Story_I">主线一·晴雨之遇</a>中唯一一个不于第一次游戏性测试更新，而是于第二次游戏性测试更新的曲目。
 - 本曲SY难度谱师名义“流星嘤”中的“流星”指本曲所属厂牌流星体。
 
 ## 攻略
@@ -101,9 +102,9 @@ And not have to remember you never belonged to me
 
 ## 音乐
 
-- <span class="netease-cloud-music-icon"></span>["She" - ΓИ7AL - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1887473162)
+- <img class="netease-cloud-music-icon" />["She" - ΓИ7AL - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1887473162)
 
 ## 相关视频
 
-- <span class="bilibili-icon"></span>[【Notanote谱面保管室】"SHE" [SY 3.5] 谱面演示](https://www.bilibili.com/video/BV16igZzgEif/)
-- <span class="bilibili-icon"></span>[【Notanote/移动端测试】"SHE" SY4 All Perfect](https://www.bilibili.com/video/BV1pP4wePEwu/) （玩家：[CMR_音律浪](https://space.bilibili.com/549751251/)）
+- <img class="bilibili-icon" />[【Notanote谱面保管室】"SHE" [SY 3.5] 谱面演示](https://www.bilibili.com/video/BV16igZzgEif/)
+- <img class="bilibili-icon" />[【Notanote/移动端测试】"SHE" SY4 All Perfect](https://www.bilibili.com/video/BV1pP4wePEwu/) （玩家：[CMR_音律浪](https://space.bilibili.com/549751251/)）

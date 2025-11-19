@@ -1,6 +1,7 @@
 # End Time
 
 <div class="NoticeBoard">
+  <br>
   <p>Every "END" is a new "BEGINNING"</p>
 </div>
 
@@ -11,11 +12,11 @@
 | 曲名 | End Time |
 | 别名 | ET、烂烂的楼 |
 | 原创 | 否 |
-| 曲师 | [Cres.](./wiki?p=composer_list#Cres.) |
+| 曲师 | [Cres.](?p=composer_list#Cres.) |
 | 时长 | 02:11 |
 | BPM | 180 |
-| 章节 | [主线二·无尽回廊](./wiki?p=chapters/Main_Story_II) |
-| 曲绘 | [Taiyo Yamamoto](./wiki?p=illustrator_list#Taiyo_Yamamoto) |
+| 章节 | [主线二·无尽回廊](?p=chapters/Main_Story_II) |
+| 曲绘 | [Taiyo Yamamoto](?p=illustrator_list#Taiyo_Yamamoto) |
 
 ## 谱面信息
 
@@ -23,11 +24,11 @@
 | :-: | :-: | :-: | :-: |
 | 定数 | 9.4 | 10.4 | 3.0 |
 | 物量 | 1019 | 1081 | 855 |
-| 谱师 | [KNY](./wiki?p=charter_list#JMY)[ORG](./wiki?p=charter_list#SiLENTORANGE) | [qm](./wiki?p=charter_list#qm) vs [KNY](./wiki?p=charter_list#JMY)[ORG](./wiki?p=charter_list#SiLENTORANGE) | [KNY](./wiki?p=charter_list#JMY)[ORG](./wiki?p=charter_list#SiLENTORANGE) |
+| 谱师 | [KNY](?p=charter_list#JMY)[ORG](?p=charter_list#SiLENTORANGE) | [qm](?p=charter_list#qm) vs [KNY](?p=charter_list#JMY)[ORG](?p=charter_list#SiLENTORANGE) | [KNY](?p=charter_list#JMY)[ORG](?p=charter_list#SiLENTORANGE) |
 
 ## 解锁方法
 
-阅读剧情收集品[「i」](./wiki?p=collectibles#i)解锁。
+阅读剧情收集品[「i」](?p=collectibles#i)解锁。
 
 ## 更新记录
 
@@ -40,7 +41,7 @@
 
 - 本曲是BOF2006个人战第37名。
 - 本曲是Notanote第一个拥有谱面异象的曲目。在解锁过程中，游玩Moondread后再游玩End Time即可触发异象。
-- 本曲的三张谱面为[JMY](./wiki?p=charter_list#JMY)与[SiLENTORANGE](./wiki?p=charter_list#SiLENTORANGE)在Notanote中第一次亮相的谱面。
+- 本曲的三张谱面为[JMY](?p=charter_list#JMY)与[SiLENTORANGE](?p=charter_list#SiLENTORANGE)在Notanote中第一次亮相的谱面。
 
 ## 攻略
 
@@ -58,14 +59,12 @@
 
 ## 音乐
 
-- <span class="netease-cloud-music-icon"></span>[End Time - Cres. - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2079867339)
-- <span class="bilibili-icon"></span>[【BOF2006】Cres. - End Time [SEGA高画质REMAKE For maimai]](https://www.bilibili.com/video/BV1at411F7nS/)
+- <img class="netease-cloud-music-icon" />[End Time - Cres. - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2079867339)
+- <img class="bilibili-icon" />[【BOF2006】Cres. - End Time [SEGA高画质REMAKE For maimai]](https://www.bilibili.com/video/BV1at411F7nS/)
 
 ## 相关视频
 
-- <span class="bilibili-icon"></span>[【Notanote谱面保管室】End Time [SY 9.4] 谱面演示](https://www.bilibili.com/video/BV1EYeizKEfv/)
-- <span class="bilibili-icon"></span>[【Notanote谱面保管室】End Time [SY+ 10.4] 谱面演示](https://www.bilibili.com/video/BV1EYeizKEfv/)
-- <span class="bilibili-icon"></span>[【Notanote谱面保管室】End Time [EZ 3.0] 谱面演示](https://www.bilibili.com/video/BV1EYeizKEfv/)
-- <span class="bilibili-icon"></span>[End Time 谱面难度同框对比](https://www.bilibili.com/video/BV1tvYkzNEWP/)
-- <span class="bilibili-icon"></span>[（异象）End Time? 谱面难度同框对比](https://www.bilibili.com/video/BV16kY4z5ERd/)
-- <span class="bilibili-icon"></span>[【Notanote/手把手教你爆打烂烂的楼】End Time [SY+ 10] All Perfect Rank X！](https://www.bilibili.com/video/BV13oegz9E21/)（玩家：[九段不合格](https://space.bilibili.com/1633653929/)）
+- <img class="bilibili-icon" />[【Notanote谱面保管室】End Time [SY 9.4] 谱面演示](https://www.bilibili.com/video/BV1EYeizKEfv/)
+- <img class="bilibili-icon" />[【Notanote谱面保管室】End Time [SY+ 10.4] 谱面演示](https://www.bilibili.com/video/BV1EYeizKEfv/)
+- <img class="bilibili-icon" />[【Notanote谱面保管室】End Time [EZ 3.0] 谱面演示](https://www.bilibili.com/video/BV1EYeizKEfv/)
+- <img class="bilibili-icon" />[【Notanote/手把手教你爆打烂烂的楼】End Time [SY+ 10] All Perfect Rank X！](https://www.bilibili.com/video/BV13oegz9E21/)（玩家：[九段不合格](https://space.bilibili.com/1633653929/)）

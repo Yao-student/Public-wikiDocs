@@ -1,6 +1,7 @@
 # Reimei
 
 <div class="NoticeBoard">
+  <br>
   <p><s>Furry曲绘是极好的</s></p>
 </div>
 
@@ -11,11 +12,11 @@
 | 曲名 | Reimei |
 | 别名 | 黎明 |
 | 原创 | 否 |
-| 曲师 | [影虎。](./wiki?p=composer_list#Kagetora) |
+| 曲师 | [影虎。](?p=composer_list#Kagetora) |
 | 时长 | 02:28 |
 | BPM | 185 |
-| 章节 | [单曲](./wiki?p=chapters/Singles) |
-| 曲绘 | [影虎。](./wiki?p=composer_list#Kagetora) |
+| 章节 | [单曲](?p=chapters/Singles) |
+| 曲绘 | [影虎。](?p=composer_list#Kagetora) |
 
 ## 谱面信息
 
@@ -23,7 +24,7 @@
 | :-: | :-: | :-: |
 | 定数 | 7.7 | 3.0 |
 | 物量 | 878 | 617 |
-| 谱师 | [小嘤箱](./wiki?p=charter_list#XyX) | [小嘤箱](./wiki?p=charter_list#XyX) |
+| 谱师 | [小嘤箱](?p=charter_list#XyX) | [小嘤箱](?p=charter_list#XyX) |
 
 ## 解锁方法
 
@@ -52,11 +53,10 @@
 
 ## 音乐
 
-- <span class="netease-cloud-music-icon"></span>[Reimei（黎明） - 影虎。 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1396181979)
-- <span class="bilibili-icon"></span>[影虎。[Kagetora.] / Reimei](https://www.bilibili.com/video/BV1C44y1r7KH/)
+- <img class="netease-cloud-music-icon" />[Reimei（黎明） - 影虎。 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1396181979)
+- <img class="bilibili-icon" />[影虎。[Kagetora.] / Reimei](https://www.bilibili.com/video/BV1C44y1r7KH/)
 
 ## 相关视频
 
-- <span class="bilibili-icon"></span>[【Notanote谱面保管室】Reimei [SY 7.7] 谱面演示](https://www.bilibili.com/video/BV1ugHAzfEXX/)
-- <span class="bilibili-icon"></span>[【Notanote谱面保管室】Reimei [EZ 3.0] 谱面演示](https://www.bilibili.com/video/BV1TLHAzxEcu/)
-- <span class="bilibili-icon"></span>[Reimei 谱面难度同框对比](https://www.bilibili.com/video/BV1VAHNzGEia/)
+- <img class="bilibili-icon" />[【Notanote谱面保管室】Reimei [SY 7.7] 谱面演示](https://www.bilibili.com/video/BV1ugHAzfEXX/)
+- <img class="bilibili-icon" />[【Notanote谱面保管室】Reimei [EZ 3.0] 谱面演示](https://www.bilibili.com/video/BV1TLHAzxEcu/)

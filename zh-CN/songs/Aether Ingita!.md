@@ -1,6 +1,7 @@
 # Aether Ingita!
 
 <div class="NoticeBoard">
+  <br>
   <p>苏喂苏喂</p>
 </div>
 
@@ -11,11 +12,11 @@
 | 曲名 | Aether Ingita! |
 | 别名 | AI |
 | 原创 | 是 |
-| 曲师 | [ZAWA](./wiki?p=composer_list#ZAWA) |
+| 曲师 | [ZAWA](?p=composer_list#ZAWA) |
 | 时长 | 03:24 |
 | BPM | 202.4 |
-| 章节 | [Soul Note](./wiki?p=chapters/Soul_Notes) |
-| 曲绘 | [// 半界](./wiki?p=illustrator_list#Banjie) |
+| 章节 | [Soul Note](?p=chapters/Soul_Notes) |
+| 曲绘 | [// 半界](?p=illustrator_list#Semiryoiki) |
 
 ## 谱面信息
 
@@ -23,11 +24,11 @@
 | :-: | :-: | :-: |
 | 定数 | 10.5 | 5.5 |
 | 物量 | 1315 | 844 |
-| 谱师 | [Nota](./wiki?p=charter_list#Fulu)[note](./wiki?p=charter_list#qm) [Char](./wiki?p=charter_list#XyX)[ting](./wiki?p=charter_list#zecolost) [Te](./wiki?p=charter_list#wxy)[am](./wiki?p=charter_list#Arthur) | [Nota](./wiki?p=charter_list#Fulu)[note](./wiki?p=charter_list#qm) [Char](./wiki?p=charter_list#XyX)[ting](./wiki?p=charter_list#zecolost) [Te](./wiki?p=charter_list#wxy)[am](./wiki?p=charter_list#Arthur) |
+| 谱师 | [Nota](?p=charter_list#Fulu)[note](?p=charter_list#qm) [Char](?p=charter_list#XyX)[ting](?p=charter_list#zecolost) [Te](?p=charter_list#wxy)[am](?p=charter_list#Arthur) | [Nota](?p=charter_list#Fulu)[note](?p=charter_list#qm) [Char](?p=charter_list#XyX)[ting](?p=charter_list#zecolost) [Te](?p=charter_list#wxy)[am](?p=charter_list#Arthur) |
 
 ## 解锁方法
 
-游玩[「Star Chain」](./wiki?p=songs/Star_Chain)的谱面，并使用500糖果解锁
+游玩[「Star Chain」](?p=songs/Star_Chain)的谱面，并使用500糖果解锁
 
 ## 更新记录
 
@@ -55,12 +56,11 @@
 
 ## 音乐
 
-- <span class="netease-cloud-music-icon"></span>[Aether Ingita!!!!! - ZAWA/Notanote - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2714634340)
-- <span class="bilibili-icon"></span>[【Notanote x Soul Notes】Aether Ingita! - ZAWA](https://www.bilibili.com/video/BV1uFPCeqEJD/)
+- <img class="netease-cloud-music-icon" />[Aether Ingita!!!!! - ZAWA/Notanote - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2714634340)
+- <img class="bilibili-icon" />[【Notanote x Soul Notes】Aether Ingita! - ZAWA](https://www.bilibili.com/video/BV1uFPCeqEJD/)
 
 ## 相关视频
 
-- <span class="bilibili-icon"></span>[【Notanote谱面保管室】Aether Ingita! [SY 10.5] 谱面演示](https://www.bilibili.com/video/BV1wyZRYyEUF/)
-- <span class="bilibili-icon"></span>[【Notanote谱面保管室】Aether Ingita! [EZ 5.5] 谱面演示](https://www.bilibili.com/video/BV1S6GzzrEp7/)
-- <span class="bilibili-icon"></span>[Aether Ingita谱面难度同框对比](https://www.bilibili.com/video/BV1rdZBYwE9e/)
-- <span class="bilibili-icon"></span>[【Notanote/全球首杀/屏元】Notanote第二难曲 Aether Ingita! [SY 10] All Perfect Rank X！](https://www.bilibili.com/video/BV1zMhNz3E5M/)（玩家：[九段不合格](https://space.bilibili.com/1633653929/)）
+- <img class="bilibili-icon" />[【Notanote谱面保管室】Aether Ingita! [SY 10.5] 谱面演示](https://www.bilibili.com/video/BV1wyZRYyEUF/)
+- <img class="bilibili-icon" />[【Notanote谱面保管室】Aether Ingita! [EZ 5.5] 谱面演示](https://www.bilibili.com/video/BV1S6GzzrEp7/)
+- <img class="bilibili-icon" />[【Notanote/全球首杀/屏元】Notanote第二难曲 Aether Ingita! [SY 10] All Perfect Rank X！](https://www.bilibili.com/video/BV1zMhNz3E5M/)（玩家：[九段不合格](https://space.bilibili.com/1633653929/)）

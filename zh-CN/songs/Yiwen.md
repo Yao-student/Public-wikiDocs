@@ -1,8 +1,8 @@
 # 异闻
 
 <div class="NoticeBoard">
+  <br>
   <p><s>Alan <strong>Walker</strong></s></p>
-
 </div>
 
 ## 曲目信息
@@ -12,11 +12,11 @@
 | 曲名 | 异闻 |
 | 别名 | 无 |
 | 原创 | 是 |
-| 曲师 | [姜米條](./wiki?p=composer_list#Jiangmitiao) |
+| 曲师 | [姜米條](?p=composer_list#Jiangmitiao) |
 | 时长 | 02:28 |
 | BPM | 163 |
-| 章节 | [主线二·无尽回廊](./wiki?p=chapters/Main_Story_II) |
-| 曲绘 | [瓶装可乐](./wiki?p=illustrator_list#BottledSodaa) |
+| 章节 | [主线二·无尽回廊](?p=chapters/Main_Story_II) |
+| 曲绘 | [瓶装可乐](?p=illustrator_list#BottledSodaa) |
 
 ## 谱面信息
 
@@ -24,11 +24,11 @@
 | :-: | :-: |
 | 定数 | 5.0 |
 | 物量 | 190 |
-| 谱师 | [小嘤箱](./wiki?p=charter_list#XyX) |
+| 谱师 | [小嘤箱](?p=charter_list#XyX) |
 
 ## 解锁方法
 
-完成[「支线一·花火之夏」](./wiki?p=chapters/Side_Story_I)解锁。
+完成[「支线一·花火之夏」](?p=chapters/Side_Story_I)解锁。
 
 ## 更新记录
 
@@ -73,9 +73,9 @@
 
 ## 音乐
 
-- <span class="netease-cloud-music-icon"></span>[异闻 - 姜米條/darkxixin/Notanote - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2738692773)
-- <span class="bilibili-icon"></span>[【Notanote原创曲】异闻 - 姜米條](https://www.bilibili.com/video/BV1GEh2z1Egs/)
+- <img class="netease-cloud-music-icon" />[异闻 - 姜米條/darkxixin/Notanote - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2738692773)
+- <img class="bilibili-icon" />[【Notanote原创曲】异闻 - 姜米條](https://www.bilibili.com/video/BV1GEh2z1Egs/)
 
 ## 相关视频
 
-- <span class="bilibili-icon"></span>[【Notanote谱面保管室】异闻 [SY 5.0] 谱面演示](https://www.bilibili.com/video/BV1AAeqz1Eyv/)
+- <img class="bilibili-icon" />[【Notanote谱面保管室】异闻 [SY 5.0] 谱面演示](https://www.bilibili.com/video/BV1AAeqz1Eyv/)

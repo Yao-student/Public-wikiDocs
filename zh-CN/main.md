@@ -5,7 +5,9 @@
 
 **<center><font size=5>欢迎来到Notanote Wiki！</font></center>**
 
-<center><a href="./wiki?p=faq">FAQ</a> | <a href="./wiki?p=mechanics">机制</a> | <a href="Jump('interface')">界面</a> | <a href="Jump('songList')">曲目列表</a> | <a href="Jump('chapterList')">章节列表</a> | <a href="./wiki?p=composer_list">曲师列表</a> | <a href="./wiki?p=charter_list">谱师列表</a> | <a href="./wiki?p=illustrator_list">画师列表</a> | <a href="./wiki?p=collectible_list">收藏品列表</a> | <a href="./wiki?p=character_list">角色列表</a> | <a href="./wiki?p=memes">梗</a></center>
+**<center><font size=4>本wiki正在建造中</font></center>**
+
+<center><a href="?p=FAQ">FAQ</a> | <a href="?p=mechanics">机制</a> | <a href="?p=interface">界面</a> | <a href="?p=song_list">曲目列表</a> | <a href="?p=chapter_list">章节列表</a> | <a href="?p=composer_list">曲师列表</a> | <a href="?p=charter_list">谱师列表</a> | <a href="?p=illustrator_list">画师列表</a> | <a href="?p=collectible_list">收藏品列表</a> | <a href="?p=character_list">角色列表</a> | <a href="?p=memes">梗</a></center>
 
 ## 外部链接
 
@@ -37,6 +39,6 @@
 
 ## 你知道吗
 
-- 「<a href="./wiki?p=songs/Aether_Ingita">Aether Ingita!</a>」是Notanote中物量最高的谱面，物量为2026；「<a href="./wiki?p=songs/Only_1_Minute">Only 1 Minute</a>」是Notanote中物量最低的谱面，物量为5。
-- 「<a href="./wiki?p=songs/Convergence">《Ж》</a>」的SY难度与「<a href="./wiki?p=songs/Le_Porteur_dOmbre">Le Porteur d'Ombre</a>」的SY难度是Notanote中定数最高的谱面，定数都为 10.5。
-- 「<a href="./wiki?p=songs/Innocent_white">Innocent white</a>」之所以有EZ+是因为<a href="./wiki?p=charter_list#wxy">舞仙翼</a>和<a href="./wiki?p=charter_list#HXDan">活性氮</a>撞车了。
+- [「Aether Ingita!」](?p=songs/Aether_Ingita)的SY难度是Notanote中物量最高的谱面，物量为2026；[「Only 1 Minute」](?p=songs/Only_1_Minute)的SY难度是Notanote中物量最低的谱面，物量为5。  
+- [「《Ж》」](?p=songs/Convergence)的SY难度与[「Le Porteur d'Ombre」](?p=songs/Le_Porteur_dOmbre)的SY难度是Notanote中定数最高的谱面，定数都为 10.5。
+- [「Innocent white」](?p=songs/Innocent_white)之所以有EZ+难度是因为[舞仙翼](?p=charter_list#wxy)和[活性氮](?p=charter_list#HXDan)撞车了。

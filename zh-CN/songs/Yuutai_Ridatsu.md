@@ -1,6 +1,7 @@
 # 幽体離脱
 
 <div class="NoticeBoard">
+  <br>
   <p>o ( > . < ) o</p>
 </div>
 
@@ -11,11 +12,11 @@
 | 曲名 | 幽体離脱 |
 | 别名 | 星体投射 |
 | 原创 | 否 |
-| 曲师 | [きくお](./wiki?p=composer_list#shadow_bling) feat. 初音ミク |
+| 曲师 | [きくお](?p=composer_list#Kikuo) feat. 初音ミク |
 | 时长 | 03:17 |
 | BPM | 128 |
-| 章节 | [单曲](./wiki?p=chapters/Singles) |
-| 曲绘 | [瓶装可乐](./wiki?p=illustrator_list#BottledSodaa) |
+| 章节 | [单曲](?p=chapters/Singles) |
+| 曲绘 | [瓶装可乐](?p=illustrator_list#BottledSodaa) |
 
 ## 谱面信息
 
@@ -23,7 +24,7 @@
 | :-: | :-: |
 | 定数 | 5.6 |
 | 物量 | 466 |
-| 谱师 | [福luuuu](./wiki?p=charter_list#Fulu) |
+| 谱师 | [福luuuu](?p=charter_list#Fulu) |
 
 ## 解锁方法
 
@@ -214,9 +215,9 @@
 
 ## 音乐
 
-- <span class="netease-cloud-music-icon"></span>[幽体離脱 (feat. 初音ミク)（灵魂出窍） - きくお/初音ミク - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1953839808)
-- <span class="bilibili-icon"></span>[Kikuo - 星体投射 feat. 初音ミク & 初音未來](https://www.bilibili.com/video/BV1pU4y1d78T/)
+- <img class="netease-cloud-music-icon" />[幽体離脱 (feat. 初音ミク)（灵魂出窍） - きくお/初音ミク - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1953839808)
+- <img class="bilibili-icon" />[Kikuo - 星体投射 feat. 初音ミク & 初音未來](https://www.bilibili.com/video/BV1pU4y1d78T/)
 
 ## 相关视频
 
-- <span class="bilibili-icon"></span>[【Notanote谱面保管室】幽体離脱 [SY 5.6] 谱面演示 / 星体投射](https://www.bilibili.com/video/BV1fhHAz5EdM/)
+- <img class="bilibili-icon" />[【Notanote谱面保管室】幽体離脱 [SY 5.6] 谱面演示 / 星体投射](https://www.bilibili.com/video/BV1fhHAz5EdM/)

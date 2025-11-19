@@ -1,6 +1,7 @@
 # i
 
 <div class="NoticeBoard">
+  <br>
   <p>我去是Ωμεγα！</p>
 </div>
 
@@ -11,11 +12,11 @@
 | 曲名 | i |
 | 别名 | 无 |
 | 原创 | 是 |
-| 曲师 | [Ωμεγα](./wiki?p=composer_list#Omega) |
+| 曲师 | [Ωμεγα](?p=composer_list#Omega) |
 | 时长 | 02:25 |
 | BPM | 220 |
-| 章节 | [主线二·无尽回廊](./wiki?p=chapters/Main_Story_II) |
-| 曲绘 | [they](./wiki?p=illustrator_list#they) |
+| 章节 | [主线二·无尽回廊](?p=chapters/Main_Story_II) |
+| 曲绘 | [they](?p=illustrator_list#they) |
 
 ## 谱面信息
 
@@ -27,7 +28,7 @@
 
 ## 解锁方法
 
-阅读剧情收集品[「Daughter of Daedalus」](./wiki?p=collectibles#Daughter_of_Daedalus)解锁。
+阅读剧情收集品[「Daughter of Daedalus」](?p=collectibles#Daughter_of_Daedalus)解锁。
 
 ## 更新记录
 
@@ -58,15 +59,14 @@
 
 ## 音乐
 
-- <span class="netease-cloud-music-icon"></span>[i - Ωμεγα - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2717010221)
-- <span class="bilibili-icon"></span>[【Notanote原创曲】i - Ωμεγα](https://www.bilibili.com/video/BV1tuhmz6ETF/)
+- <img class="netease-cloud-music-icon" />[i - Ωμεγα - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2717010221)
+- <img class="bilibili-icon" />[【Notanote原创曲】i - Ωμεγα](https://www.bilibili.com/video/BV1tuhmz6ETF/)
 
 ## 相关视频
 
-- <span class="bilibili-icon"></span>[【Notanote谱面保管室】i [SY 6.7] 谱面演示](https://www.bilibili.com/video/BV1ANeqz5EGs/)
-- <span class="bilibili-icon"></span>[【Notanote谱面保管室】i [EZ 2.5] 谱面演示](https://www.bilibili.com/video/BV17ieizPEeW/)
-- <span class="bilibili-icon">[i 谱面难度同框对比](https://www.bilibili.com/video/BV1srYkzcEeg/)</span>
+- <img class="bilibili-icon" />[【Notanote谱面保管室】i [SY 6.7] 谱面演示](https://www.bilibili.com/video/BV1ANeqz5EGs/)
+- <img class="bilibili-icon" />[【Notanote谱面保管室】i [EZ 2.5] 谱面演示](https://www.bilibili.com/video/BV17ieizPEeW/)
 
 ## 注释
 
-[^1]: 实际谱师为[福luuuu](./wiki?p=charter_list#Fulu)与[舞仙翼](./wiki?p=charter_list#wxy)。
+[^1]: 实际谱师为[福luuuu](?p=charter_list#Fulu)与[舞仙翼](?p=charter_list#wxy)。

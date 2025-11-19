@@ -1,27 +1,121 @@
 {
     "Main": [
         {
+            "Class": "Object",
+            "Content": "主界面",
+            "Href": "?p=main"
+        },
+        {
             "Class": "ClassText",
-            "Content": "目录"
+            "Content": "玩法条目"
         },
         {
             "Class": "Object",
-            "Content": "Test1",
-            "Href": "/wiki?p=Tsuioku#top"
+            "Content": "机制",
+            "Href": "?p=mechanics"
         },
         {
             "Class": "Object",
-            "Content": "Test2",
-            "Href": "/wiki?p=main"
+            "Content": "界面",
+            "Href": "?p=interface"
+        },
+
+        {
+            "Class": "ClassText",
+            "Content": "列表条目"
+        },
+        {
+            "Class": "Object",
+            "Content": "曲目列表",
+            "Href": "?p=song_list"
+        },
+        {
+            "Class": "Object",
+            "Content": "章节列表",
+            "Href": "?p=chapter_list"
+        },
+        {
+            "Class": "Object",
+            "Content": "曲师列表",
+            "Href": "?p=composer_list"
+        },
+        {
+            "Class": "Object",
+            "Content": "谱师列表",
+            "Href": "?p=charter_list"
+        },
+        {
+            "Class": "Object",
+            "Content": "画师列表",
+            "Href": "?p=illustrator_list"
+        },
+        {
+            "Class": "Object",
+            "Content": "收藏品列表",
+            "Href": "?p=collectible_list"
+        },
+        {
+            "Class": "Object",
+            "Content": "角色列表",
+            "Href": "?p=character_list"
+        },
+
+        {
+            "Class": "ClassText",
+            "Content": "其他"
+        },
+        {
+            "Class": "Object",
+            "Content": "FAQ",
+            "Href": "?p=FAQ"
+        },
+        {
+            "Class": "Object",
+            "Content": "梗",
+            "Href": "?p=memes"
         }
     ],
+
     "Tsuioku": "追憶",
     "SHE": "\"SHE\"",
     "Cursed_Land_(Acoustic)": "Cursed Land (Acoustic)",
     "Lockdown_(Tatsunoshin_VIP)": "Lockdown (Tatsunoshin VIP)",
     "Eltaw": "Eltaw",
-    "i": "i",
+
     "Summer_Dream": "Summer Dream",
-    "Grayscale_Tragedy": "Grayscale_Tragedy",
-    "Shiro_to_Kuro_no_Bakemono": "白と黒のバケモノ"
+    "Rainbow_Flavor": "Rainbow Flavor",
+
+    "Yiwen": "异闻",
+    "Daughter_of_Daedalus": "Daughter of Daedalus",
+    "i": "i",
+    "End_Time": "End Time",
+    "Moondread": "Moondread",
+    "OZCURIDAD": "ΩZСÜRIDΛD",
+
+    "Grayscale_Tragedy": "Grayscale Tragedy",
+    "Shiro_to_Kuro_no_Bakemono": "白と黒のバケモノ",
+
+    "Innocent_white": "Innocent White",
+
+    "Le_Porteur_dOmbre": "Le Porteur d'Ombre",
+
+    "Aether_Ingita!": "Aether Ingita!",
+    "Get_Back": "Get Back",
+
+    "IGNITE": "IGNITE",
+
+    "Kaze": "Kaze",
+    "Convergence": "《Ж》",
+    "Sense": "Sense",
+    "DayBreak": "DayBreak",
+    "Yuutai_Ridatsu": "幽体離脱",
+    "Reimei": "Reimei",
+    "the_world_of_scarlet": "the world of scarlet",
+    "FRIEND": "F℟IEND",
+    "Mizu": "Mizu",
+    "Lapis": "Lapis",
+    "Victory_Sense": "Victory Sense",
+    "Fever_Dream": "Fever Dream",
+
+    "Kiri": "Kiri"
 }

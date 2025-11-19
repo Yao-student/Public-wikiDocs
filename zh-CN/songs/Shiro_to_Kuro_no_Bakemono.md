@@ -1,7 +1,8 @@
 # 白と黒のバケモノ
 
 <div class="NoticeBoard">
-  <p><s>济南双指谱</s></p>
+  <br>
+  <p><u>x· x· x</u> x <u>x· x· x</u> x <u>x· x· x· x·</u></p>
 </div>
 
 ## 曲目信息
@@ -11,11 +12,11 @@
 | 曲名 | 白と黒のバケモノ |
 | 别名 | 白黑怪物 |
 | 原创 | Berry Melody |
-| 曲师 | [テヅカ](./wiki?p=composer_list#Tezuka) |
+| 曲师 | [テヅカ](?p=composer_list#Tezuka) |
 | 时长 | 02:19 |
 | BPM | 205 |
-| 章节 | [Berry Melody](./wiki?p=chapters/Berry_Melody) |
-| 曲绘 | [久世](./wiki?p=illustrator_list#Kuze) |
+| 章节 | [Berry Melody](?p=chapters/Berry_Melody) |
+| 曲绘 | [久世](?p=illustrator_list#Kuze) |
 
 ## 谱面信息
 
@@ -23,7 +24,7 @@
 | :-: | :-: |
 | 定数 | 9.8 |
 | 物量 | 1046 |
-| 谱师 | [111](./wiki?p=charter_list#Vluoy) |
+| 谱师 | [111](?p=charter_list#Vluoy) |
 
 ## 解锁方法
 
@@ -42,7 +43,7 @@
 
 - 本曲是本家Berry Melody的章节三 Fortepiano魔王曲。
 - 本曲还被联动至Phigros。
-- 本曲是后来被Berry Melody买成独占的，原版是虚拟歌姬镜音铃唱的，由于版权问题，Berry Melody收录版本与联动至其他音游的版本都为曲师<a href="./wiki?p=composer_list#Tezuka">テヅカ</a>本人演唱。
+- 本曲是后来被Berry Melody买成独占的，原版是虚拟歌姬镜音铃唱的，由于版权问题，Berry Melody收录版本与联动至其他音游的版本都为曲师[テヅカ](?p=composer_list#Tezuka)本人演唱。
 
 ## 攻略
 
@@ -138,12 +139,12 @@
 
 ## 音乐
 
-- <span class="netease-cloud-music-icon"></span>[白と黒のバケモノ（白与黑的怪物） - テヅカ - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2679749732)[^1]
-- <span class="bilibili-icon"></span>[白と黒のバケモノ(黑与白的怪物) / テヅカ feat. 鏡音リン](https://www.bilibili.com/video/BV1xU4y1v7tW/)[^2]
+- <img class="netease-cloud-music-icon" />[白と黒のバケモノ（白与黑的怪物） - テヅカ - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2679749732)[^1]
+- <img class="bilibili-icon" />[白と黒のバケモノ(黑与白的怪物) / テヅカ feat. 鏡音リン](https://www.bilibili.com/video/BV1xU4y1v7tW/)[^2]
 
 ## 相关视频
 
-- <span class="bilibili-icon"></span>[【Notanote谱面保管室】白と黒のバケモノ [SY 9.8] 谱面演示 / 白黑怪物](https://www.bilibili.com/video/BV1m4KWzCEhs/)
+- <img class="bilibili-icon" />[【Notanote谱面保管室】白と黒のバケモノ [SY 9.8] 谱面演示 / 白黑怪物](https://www.bilibili.com/video/BV1m4KWzCEhs/)
 
 ## 注释
 

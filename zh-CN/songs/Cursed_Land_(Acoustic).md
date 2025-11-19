@@ -1,6 +1,7 @@
 # Cursed Land (Acoustic)
 
 <div class="NoticeBoard">
+  <br>
   <p>诅咒之地</p>
 </div>
 
@@ -11,11 +12,11 @@
 | 曲名 | Cursed Land (Acoustic) |
 | 别名 | 诅咒之地 |
 | 原创 | 否 |
-| 曲师 | [SJQ音福](./wiki?p=composer_list#SJQ_Yinfu) |
+| 曲师 | [SJQ音福](?p=composer_list#SJQ_Yinfu) |
 | 时长 | 02:42 |
 | BPM | 136.12 |
-| 章节 | [主线一·晴雨之遇](./wiki?p=chapters/Main_Story_I) |
-| 曲绘 | [ikun](./wiki?p=illustrator_list#ikun) |
+| 章节 | [主线一·晴雨之遇](?p=chapters/Main_Story_I) |
+| 曲绘 | [ikun](?p=illustrator_list#ikun) |
 
 ## 谱面信息
 
@@ -23,11 +24,11 @@
 | :-: | :-: | :-: |
 | 定数 | 5.0 | ? |
 | 物量 | 401 | 286 |
-| 谱师 | [嘤箱](./wiki?p=charter_list#XyX) feat. [qm](./wiki?p=charter_list#qm) & [wxy](./wiki?p=charter_list#wxy) | [XyX](./wiki?p=charter_list#XyX) |
+| 谱师 | [嘤箱](?p=charter_list#XyX) feat. [qm](?p=charter_list#qm) & [wxy](?p=charter_list#wxy) | [XyX](?p=charter_list#XyX) |
 
 ## 解锁方法
 
-阅读剧情收集品[「"SHE"」](./wiki?p=collectibles#SHE)解锁。
+阅读剧情收集品[「"SHE"」](?p=collectibles#SHE)解锁。
 
 ## 更新记录
 
@@ -54,9 +55,9 @@
 
 ## 音乐
 
-- <span class="netease-cloud-music-icon"></span>[Cursed Land (Acoustic) - SJQ音福 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2009517807)
-- <span class="bilibili-icon"></span>[[音乐制作工坊/凯尔特风] 《Cursed Land》 愚蠢贪婪的人类，终将受到惩罚……](https://www.bilibili.com/video/BV1pv4y1z7UR/)
+- <img class="netease-cloud-music-icon" />[Cursed Land (Acoustic) - SJQ音福 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2009517807)
+- <img class="bilibili-icon" />[[音乐制作工坊/凯尔特风] 《Cursed Land》 愚蠢贪婪的人类，终将受到惩罚……](https://www.bilibili.com/video/BV1pv4y1z7UR/)
 
 ## 相关视频
 
-- <span class="bilibili-icon"></span>[【Notanote谱面保管室】Cursed Land (Acoustic) [SY 5.0] 谱面演示](https://www.bilibili.com/video/BV1nigZzgEge/)
+- <img class="bilibili-icon" />[【Notanote谱面保管室】Cursed Land (Acoustic) [SY 5.0] 谱面演示](https://www.bilibili.com/video/BV1nigZzgEge/)

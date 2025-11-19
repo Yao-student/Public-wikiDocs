@@ -1,6 +1,7 @@
 # Lockdown (Tatsunoshin VIP)
 
 <div class="NoticeBoard">
+  <br>
   <p>「因为未来啊，仍存于彼方」</p>
 </div>
 
@@ -11,11 +12,11 @@
 | 曲名 | Lockdown (Tatsunoshin VIP) |
 | 别名 | 无 |
 | 原创 | 否 |
-| 曲师 | [Tatsunoshin](./wiki?p=composer_list#Tatsunoshin) & [PIKASONIC](./wiki?p=composer_list#PIKASONIC) |
+| 曲师 | [Tatsunoshin](?p=composer_list#Tatsunoshin) & [PIKASONIC](?p=composer_list#PIKASONIC) |
 | 时长 | 03:42 |
 | BPM | 170 |
-| 章节 | [主线一·晴雨之遇](./wiki?p=chapters/Main_Story_I) |
-| 曲绘 | [故离](./wiki?p=illustrator_list#Guli) |
+| 章节 | [主线一·晴雨之遇](?p=chapters/Main_Story_I) |
+| 曲绘 | [故离](?p=illustrator_list#Guli) |
 
 ## 谱面信息
 
@@ -23,11 +24,11 @@
 | :-: | :-: | :-: |
 | 定数 | 6.8 | 3.5 |
 | 物量 | 736 | 590 |
-| 谱师 | [嘤嘤嘤箱](./wiki?p=charter_list#XyX) feat. [冬花](./wiki?p=charter_list#Donghua) | [嘤嘤嘤箱](./wiki?p=charter_list#XyX) feat. [冬花](./wiki?p=charter_list#Donghua) ([活性氮](./wiki?p=charter_list#HXDan) modified) |
+| 谱师 | [嘤嘤嘤箱](?p=charter_list#XyX) feat. [冬花](?p=charter_list#Donghua) | [嘤嘤嘤箱](?p=charter_list#XyX) feat. [冬花](?p=charter_list#Donghua) ([活性氮](?p=charter_list#HXDan) modified) |
 
 ## 解锁方法
 
-阅读剧情收集品[「Cursed Land (Acoustic)」](./wiki?p=collectibles#Cursed_Land_(Acoustic))解锁。
+阅读剧情收集品[「Cursed Land (Acoustic)」](?p=collectibles#Cursed_Land_(Acoustic))解锁。
 
 ## 更新记录
 
@@ -112,16 +113,15 @@
 
 ## 音乐
 
-- <span class="netease-cloud-music-icon"></span>[Lockdown (feat. NEONA) - Tatsunoshin/PIKASONIC/NEONA - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1937255781)[^1]
-- <span class="netease-cloud-music-icon"></span>[Lockdown (Tatsunoshin VIP) - Tatsunoshin/PIKASONIC/Tsugumi Nagahara - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1844464120)[^2]
-- <span class="bilibili-icon"></span>[PIKASONIC x Tatsunoshin feat. Tsugumi Nagahara - Lockdown (Tatsunoshin VIP)](https://www.bilibili.com/video/BV1qt4y1s79g/)[^1]
-- <span class="bilibili-icon"></span>[PIKASONIC & Tatsunoshin - Lockdown (ft.NEONA)](https://www.bilibili.com/video/BV1xR4y1e7SQ/)[^2]
+- <img class="netease-cloud-music-icon" />[Lockdown (feat. NEONA) - Tatsunoshin/PIKASONIC/NEONA - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1937255781)[^1]
+- <img class="netease-cloud-music-icon" />[Lockdown (Tatsunoshin VIP) - Tatsunoshin/PIKASONIC/Tsugumi Nagahara - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1844464120)[^2]
+- <img class="bilibili-icon" />[PIKASONIC x Tatsunoshin feat. Tsugumi Nagahara - Lockdown (Tatsunoshin VIP)](https://www.bilibili.com/video/BV1qt4y1s79g/)[^1]
+- <img class="bilibili-icon" />[PIKASONIC & Tatsunoshin - Lockdown (ft.NEONA)](https://www.bilibili.com/video/BV1xR4y1e7SQ/)[^2]
 
 ## 相关视频
 
-- <span class="bilibili-icon"></span>[【Notanote谱面保管室】Lockdown (Tatsunoshin VIP) [SY 6.8] 谱面演示](https://www.bilibili.com/video/BV1ZJgozwEbL/)
-- <span class="bilibili-icon"></span>[【Notanote谱面保管室】Lockdown (Tatsunoshin VIP) [EZ 3.5] 谱面演示](https://www.bilibili.com/video/BV1dpgozFE6s/)
-- <span class="bilibili-icon"></span>[Lockdown (Tatsunoshin VIP)谱面难度同框对比](https://www.bilibili.com/video/BV1L3woeSEit/)
+- <img class="bilibili-icon" />[【Notanote谱面保管室】Lockdown (Tatsunoshin VIP) [SY 6.8] 谱面演示](https://www.bilibili.com/video/BV1ZJgozwEbL/)
+- <img class="bilibili-icon" />[【Notanote谱面保管室】Lockdown (Tatsunoshin VIP) [EZ 3.5] 谱面演示](https://www.bilibili.com/video/BV1dpgozFE6s/)
 
 ## 注释
 

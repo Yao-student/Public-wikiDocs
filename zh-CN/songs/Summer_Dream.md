@@ -1,6 +1,7 @@
 # Summer Dream
 
 <div class="NoticeBoard">
+  <br>
   <p>你甚至可以在Notanote里打osu!</p>
 </div>
 
@@ -11,11 +12,11 @@
 | 曲名 | Summer Dream |
 | 别名 | 夏日梦 |
 | 原创 | 否 |
-| 曲师 | [Kirara Magic](./wiki?p=composer_list#Kirara_Magic) |
+| 曲师 | [Kirara Magic](?p=composer_list#Kirara_Magic) |
 | 时长 | 02:31 |
 | BPM | 190 |
-| 章节 | [支线一·花火之夏](./wiki?p=chapters/Side_Story_I) |
-| 曲绘 | [天野岁](./wiki?p=illustrator_list#Tianyesui) |
+| 章节 | [支线一·花火之夏](?p=chapters/Side_Story_I) |
+| 曲绘 | [天野岁](?p=illustrator_list#Tianyesui) |
 
 ## 谱面信息
 
@@ -23,11 +24,11 @@
 | :-: | :-: |
 | 定数 | 3.0 |
 | 物量 | 79 |
-| 谱师 | [qm](./wiki?p=charter_list#qm) x [wxy](./wiki?p=charter_list#wxy) |
+| 谱师 | [qm](?p=charter_list#qm) x [wxy](?p=charter_list#wxy) |
 
 ## 解锁方法
 
-游玩[「Break Through Myself」](./wiki?p=songs/Break_Through_Myself)的谱面解锁。
+游玩[「Break Through Myself」](?p=songs/Break_Through_Myself)的谱面解锁。
 
 ## 更新记录
 
@@ -194,13 +195,13 @@ Until the end of the world
 
 ## 音乐
 
-- <span class="netease-cloud-music-icon"></span>[Summer Dream (feat. Chevy) - Kirara Magic/Chevy - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1854644975)[^1]
-- <span class="bilibili-icon"></span>[【清新夏日单曲】Summer Dream (feat. Chevy)【MV】](https://www.bilibili.com/video/BV1yB4y1K7X5/)[^1]
+- <img class="netease-cloud-music-icon" />[Summer Dream (feat. Chevy) - Kirara Magic/Chevy - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1854644975)[^1]
+- <img class="bilibili-icon" />[【清新夏日单曲】Summer Dream (feat. Chevy)【MV】](https://www.bilibili.com/video/BV1yB4y1K7X5/)[^1]
 
 ## 相关视频
 
-- <span class="bilibili-icon"></span>[【Notanote谱面保管室】Summer Dream [SY 2.5] 谱面演示](https://www.bilibili.com/video/BV1UkGNzGEPg/)
-- <span class="bilibili-icon"></span>[【Notanote/不要急挑战（）】Summer Dream SY1 All Perfect](https://www.bilibili.com/video/BV1TY2NYSEyi/)
+- <img class="bilibili-icon" />[【Notanote谱面保管室】Summer Dream [SY 2.5] 谱面演示](https://www.bilibili.com/video/BV1UkGNzGEPg/)
+- <img class="bilibili-icon" />[【Notanote/不要急挑战（）】Summer Dream SY1 All Perfect](https://www.bilibili.com/video/BV1TY2NYSEyi/)
 
 ## 注释
 

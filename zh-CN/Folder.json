@@ -1,35 +1,91 @@
 {
     "Main": [
         {
+            "Class": "Object",
+            "Content": "主界面",
+            "Href": "?p=main"
+        },
+        {
             "Class": "ClassText",
-            "Content": "列表"
+            "Content": "玩法条目"
         },
         {
             "Class": "Object",
-            "Content": "Test1",
-            "Href": "/wiki?p=mechanics"
+            "Content": "机制",
+            "Href": "?p=mechanics"
         },
         {
             "Class": "Object",
-            "Content": "Test2",
-            "Href": "/wiki?p=charterList"
+            "Content": "界面",
+            "Href": "?p=interface"
+        },
+
+        {
+            "Class": "ClassText",
+            "Content": "列表条目"
         },
         {
             "Class": "Object",
-            "Content": "Test",
-            "Href": "/wiki?p=main#do-you-know"
+            "Content": "曲目列表",
+            "Href": "?p=song_list"
+        },
+        {
+            "Class": "Object",
+            "Content": "章节列表",
+            "Href": "?p=chapter_list"
+        },
+        {
+            "Class": "Object",
+            "Content": "曲师列表",
+            "Href": "?p=composer_list"
+        },
+        {
+            "Class": "Object",
+            "Content": "谱师列表",
+            "Href": "?p=charter_list"
+        },
+        {
+            "Class": "Object",
+            "Content": "画师列表",
+            "Href": "?p=illustrator_list"
+        },
+        {
+            "Class": "Object",
+            "Content": "收藏品列表",
+            "Href": "?p=collectible_list"
+        },
+        {
+            "Class": "Object",
+            "Content": "角色列表",
+            "Href": "?p=character_list"
+        },
+
+        {
+            "Class": "ClassText",
+            "Content": "其他"
+        },
+        {
+            "Class": "Object",
+            "Content": "FAQ",
+            "Href": "?p=FAQ"
+        },
+        {
+            "Class": "Object",
+            "Content": "梗",
+            "Href": "?p=memes"
         }
     ],
+
     "main": "主界面",
     "mechanics": "机制",
     "interface": "界面",
     "FAQ": "FAQ",
-    "songList": "曲目列表",
-    "chapterList": "章节列表",
-    "composerList": "曲师列表",
-    "charterList": "谱师列表",
-    "illustratorList": "画师列表",
-    "collectibleList": "收藏品列表",
-    "characterList": "角色列表",
+    "song_list": "曲目列表",
+    "chapter_list": "章节列表",
+    "composer_list": "曲师列表",
+    "charter_list": "谱师列表",
+    "illustrator_list": "画师列表",
+    "collectible_list": "收藏品列表",
+    "character_list": "角色列表",
     "memes": "梗"
 }

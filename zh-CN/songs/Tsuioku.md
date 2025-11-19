@@ -3,6 +3,7 @@
 # 追憶
 
 <div class="NoticeBoard">
+  <br>
   <p>「はらり、空に散った」</p>
 </div>
 
@@ -15,11 +16,11 @@
 | 曲名 | 追憶 |
 | 别名 | 无 |
 | 原创 | 否 |
-| 曲师 | [PIKASONIC](./wiki?p=composer_list#PIKASONIC) & [なこたんまる](./wiki?p=composer_list#Nakontanmaru) |
+| 曲师 | [PIKASONIC](?p=composer_list#PIKASONIC) & [なこたんまる](?p=composer_list#Nakontanmaru) |
 | 时长 | 03:03 |
 | BPM | 303 |
-| 章节 | [主线一·晴雨之遇](./wiki?p=chapters/Main_Story_I) |
-| 曲绘 | [于白](./wiki?p=illustrator_list#Yubai) |
+| 章节 | [主线一·晴雨之遇](?p=chapters/Main_Story_I) |
+| 曲绘 | [于白](?p=illustrator_list#Yubai) |
 
 <a id="chart-info"></a>
 
@@ -29,7 +30,7 @@
 | :-: | :-: | :-: | :-: |
 | 定数 | 5.4 | 3.0 | ? |
 | 物量 | 509 | 458 | 351 |
-| 谱师 | [八樱盒](./wiki?p=charter_list#XyX) feat. [Fyato](./wiki?p=charter_list#Fyato) | [八樱盒](./wiki?p=charter_list#XyX) ([活性氮](./wiki?p=charter_list#HXDan) modified) | [XyX](./wiki?p=charter_list#XyX) |
+| 谱师 | [八樱盒](?p=charter_list#XyX) feat. [Fyato](?p=charter_list#Fyato) | [八樱盒](?p=charter_list#XyX) ([活性氮](?p=charter_list#HXDan) modified) | [XyX](?p=charter_list#XyX) |
 
 <a id="unlock-method"></a>
 
@@ -206,15 +207,14 @@
 
 ## 音乐
 
-- <span class="netease-cloud-music-icon"></span>[追憶 (feat. nakotanmaru) - PIKASONIC / なこたんまる - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1869161372)[^1]
-- <span class="youtube-icon"></span>[PIKASONIC - 追憶 (feat.nakotanmaru)](https://www.youtube.com/watch?v=8TpMs2oS5u0)[^1]
-- <span class="bilibili-icon"></span>[PIKASONIC - 追憶 (feat.nakotanmaru)](https://www.bilibili.com/video/BV1C3411R7c2/)[^1]
+- <img class="netease-cloud-music-icon" />[追憶 (feat. nakotanmaru) - PIKASONIC / なこたんまる - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1869161372)[^1]
+- <img class="youtube-icon" />[PIKASONIC - 追憶 (feat.nakotanmaru)](https://www.youtube.com/watch?v=8TpMs2oS5u0)[^1]
+- <img class="bilibili-icon" />[PIKASONIC - 追憶 (feat.nakotanmaru)](https://www.bilibili.com/video/BV1C3411R7c2/)[^1]
 
 ## 相关视频
 
-- <span class="bilibili-icon"></span>[【Notanote谱面保管室】追憶 [SY 5.4] 谱面演示](https://www.bilibili.com/video/BV1negZzrECL/)
-- <span class="bilibili-icon"></span>[【Notanote谱面保管室】追憶 [EZ 3.0] 谱面演示](https://www.bilibili.com/video/BV1pYgZzGEcM/)
-- <span class="bilibili-icon"></span>[追憶谱面难度同框对比](https://www.bilibili.com/video/BV1fcwRemEf1/)
+- <img class="bilibili-icon" />[【Notanote谱面保管室】追憶 [SY 5.4] 谱面演示](https://www.bilibili.com/video/BV1negZzrECL/)
+- <img class="bilibili-icon" />[【Notanote谱面保管室】追憶 [EZ 3.0] 谱面演示](https://www.bilibili.com/video/BV1pYgZzGEcM/)
 
 ## 注释
 

@@ -1,6 +1,7 @@
 # Sense
 
 <div class="NoticeBoard">
+  <br>
   <p>Here, I am.</p>
 </div>
 
@@ -10,11 +11,11 @@
 | :-: | :-: |
 | 曲名 | Sense |
 | 别名 | 无 |
-| 曲师 | [BilliumMoto](./wiki?p=composer_list#BilliumMoto) × [Silentroom](./wiki?p=composer_list#Silentroom) |
+| 曲师 | [BilliumMoto](?p=composer_list#BilliumMoto) × [Silentroom](?p=composer_list#Silentroom) |
 | 时长 | 03:10 |
 | BPM | 180 |
-| 章节 | [单曲](./wiki?p=chapters/Singles) |
-| 曲绘 | [Mahinii](./wiki?p=illustrator_list#Mahinii) |
+| 章节 | [单曲](?p=chapters/Singles) |
+| 曲绘 | [Mahinii](?p=illustrator_list#Mahinii) |
 
 ## 谱面信息
 
@@ -22,7 +23,7 @@
 | :-: | :-: |
 | 难度 | 8.1 |
 | 物量 | 687 |
-| 谱师 | [零彩](./wiki?p=charter_list#zecolost) & [嘤箱](./wiki?p=charter_list#XyX) |
+| 谱师 | [零彩](?p=charter_list#zecolost) & [嘤箱](?p=charter_list#XyX) |
 
 ## 解锁方法
 
@@ -38,7 +39,7 @@
 
 ## 游戏相关
 
-- 本曲是BOFXVII个人战第14名，[Clue]团队的四个参赛曲之一，另外三首是「A Gleam for the Sightless」、「<a href="./wiki?p=songs/Random">Random</a>」和「<a href="./wiki?p=songs/self-dissociation">self-dissociation</a>」。
+- 本曲是BOFXVII个人战第14名，[Clue]团队的四个参赛曲之一，另外三首是「A Gleam for the Sightless」、「<a href="?p=songs/Random">Random</a>」和「<a href="?p=songs/self-dissociation">self-dissociation</a>」。
 
 ## 攻略
 
@@ -48,9 +49,9 @@
 
 ## 音乐
 
-- <span class="netease-cloud-music-icon"></span>[Sense - BilliumMoto/Silentroom - 单曲 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1909347605)
-- <span class="bilibili-icon"></span>[BilliumMoto × Silentroom - Sense | BOFXVII Team [Clue]](https://www.bilibili.com/video/BV1HU4y1g7AQ/)
+- <img class="netease-cloud-music-icon" />[Sense - BilliumMoto/Silentroom - 单曲 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1909347605)
+- <img class="bilibili-icon" />[BilliumMoto × Silentroom - Sense | BOFXVII Team [Clue]](https://www.bilibili.com/video/BV1HU4y1g7AQ/)
 
 ## 相关视频
 
-- <span class="bilibili-icon"></span>[【Notanote谱面保管室】Sense [SY 8.1] 谱面演示](https://www.bilibili.com/video/BV1ac8Ez8EJs/)
+- <img class="bilibili-icon" />[【Notanote谱面保管室】Sense [SY 8.1] 谱面演示](https://www.bilibili.com/video/BV1ac8Ez8EJs/)

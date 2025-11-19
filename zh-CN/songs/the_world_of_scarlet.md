@@ -1,6 +1,7 @@
 # the world of scarlet
 
 <div class="NoticeBoard">
+  <br>
   <p>旺旺<ruby>碎冰冰<rt>碎核神曲</rt></ruby></p>
 </div>
 
@@ -11,11 +12,11 @@
 | 曲名 | the world of scarlet |
 | 别名 | 猩红世界 |
 | 原创 | 否 |
-| 曲师 | [OfficialAz3](./wiki?p=composer_list#OfficialAz3) |
+| 曲师 | [OfficialAz3](?p=composer_list#OfficialAz3) |
 | 时长 | 02:00 |
 | BPM | 210 |
-| 章节 | [单曲](./wiki?p=chapters/Singles) |
-| 曲绘 | [haohao](./wiki?p=illustrator_list#haohao) |
+| 章节 | [单曲](?p=chapters/Singles) |
+| 曲绘 | [haohao](?p=illustrator_list#haohao) |
 
 ## 谱面信息
 
@@ -23,7 +24,7 @@
 | :-: | :-: | :-: |
 | 定数 | 10.0 | 4.5 |
 | 物量 | 791 | 750 |
-| 谱师 | [活性氮](./wiki?p=charter_list#HXDan),[小嘤箱](./wiki?p=charter_list#XyX),[甘油](./wiki?p=charter_list#Ganyou),[舞仙翼](./wiki?p=charter_list#wxy) | [活性氮](./wiki?p=charter_list#HXDan),[小嘤箱](./wiki?p=charter_list#XyX),[甘油](./wiki?p=charter_list#Ganyou),[舞仙翼](./wiki?p=charter_list#wxy) |
+| 谱师 | [活性氮](?p=charter_list#HXDan),[小嘤箱](?p=charter_list#XyX),[甘油](?p=charter_list#Ganyou),[舞仙翼](?p=charter_list#wxy) | [活性氮](?p=charter_list#HXDan),[小嘤箱](?p=charter_list#XyX),[甘油](?p=charter_list#Ganyou),[舞仙翼](?p=charter_list#wxy) |
 
 ## 解锁方法
 
@@ -51,12 +52,11 @@
 
 ## 音乐
 
-- <span class="netease-cloud-music-icon"></span>[the world of scarlet（绯红世界） - OfficialAz3 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2674918018)
-- <span class="youtube-icon"></span>[【BOF:TT】the world of scarlet / OfficialAz3 (mov: Echa as "!") #breakcore](https://www.youtube.com/watch?v=Pl1dPRX_Kik)
-- <span class="bilibili-icon"></span>[【BOF:TT】the world of scarlet / OfficialAz3 (mov: Echa as "!")](https://www.bilibili.com/video/BV1Us4CefED2/)
+- <img class="netease-cloud-music-icon" />[the world of scarlet（绯红世界） - OfficialAz3 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2674918018)
+- <img class="youtube-icon" />[【BOF:TT】the world of scarlet / OfficialAz3 (mov: Echa as "!") #breakcore](https://www.youtube.com/watch?v=Pl1dPRX_Kik)
+- <img class="bilibili-icon" />[【BOF:TT】the world of scarlet / OfficialAz3 (mov: Echa as "!")](https://www.bilibili.com/video/BV1Us4CefED2/)
 
 ## 相关视频
 
-- <span class="bilibili-icon"></span>[【Notanote谱面保管室】the world of scarlet [SY 10.0] 谱面预览 / 猩红世界](https://www.bilibili.com/video/BV1MVHAzoEPw/)
-- <span class="bilibili-icon"></span>[【Notanote谱面保管室】the world of scarlet [EZ 4.5] 谱面演示 / 猩红世界](https://www.bilibili.com/video/BV1tVHAzoEAn/)
-- <span class="bilibili-icon"></span>[the world of scarlet 谱面难度同框对比](https://www.bilibili.com/video/BV17RHPzmEHB/)
+- <img class="bilibili-icon" />[【Notanote谱面保管室】the world of scarlet [SY 10.0] 谱面预览 / 猩红世界](https://www.bilibili.com/video/BV1MVHAzoEPw/)
+- <img class="bilibili-icon" />[【Notanote谱面保管室】the world of scarlet [EZ 4.5] 谱面演示 / 猩红世界](https://www.bilibili.com/video/BV1tVHAzoEAn/)

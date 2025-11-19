@@ -1,7 +1,8 @@
 # Le Porteur d'Ombre
 
 <div class="NoticeBoard">
-  <p>永夜城的光芒</p>
+  <br>
+  <p><b>永夜城的光芒</b></p>
 </div>
 
 ## 曲目信息
@@ -11,11 +12,11 @@
 | 曲名 | Le Porteur d'Ombre |
 | 别名 | 永夜城、LPO |
 | 原创 | Orzmic |
-| 曲师 | [黒皇帝](./wiki?p=composer_list#Kurokotei) feat. [AKA](./wiki?p=composer_list#AKA) |
+| 曲师 | [黒皇帝](?p=composer_list#Kurokotei) feat. [AKA](?p=composer_list#AKA) |
 | 时长 | 02:27 |
 | BPM | 220 |
-| 章节 | [Orzmic](./wiki?p=chapters/Orzmic) |
-| 曲绘 | [NekoFTR](./wiki?p=illustrator_list#NekoFTR) |
+| 章节 | [Orzmic](?p=chapters/Orzmic) |
+| 曲绘 | [NekoFTR](?p=illustrator_list#NekoFTR) |
 
 ## 谱面信息
 
@@ -23,7 +24,7 @@
 | :-: | :-: | :-: | :-: |
 | 定数 | 10.6 | 5.0 | ? |
 | 物量 | 1315 | 844 | 1233 |
-| 谱师 | [零彩](./wiki?p=charter_list#zecolost) & [嘤箱](./wiki?p=charter_list#XyX) & [舞仙翼](./wiki?p=charter_list#wxy) | [零彩](./wiki?p=charter_list#zecolost) & [嘤箱](./wiki?p=charter_list#XyX) | [你绿](./wiki?p=charter_list#Vluoy) vs. Nan Chart Team |
+| 谱师 | [零彩](?p=charter_list#zecolost) & [嘤箱](?p=charter_list#XyX) & [舞仙翼](?p=charter_list#wxy) | [零彩](?p=charter_list#zecolost) & [嘤箱](?p=charter_list#XyX) | [你绿](?p=charter_list#Vluoy) vs. Nan Chart Team |
 
 ## 解锁方法
 
@@ -76,13 +77,13 @@ Aeia suo’qia noi’laer
 
 ## 音乐
 
-- <span class="netease-cloud-music-icon"></span>[Le Porteur d'Ombre（游戏《Orzmic》主线第七章最终曲） - 黒皇帝/AKA - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2061373391)
-- <span class="youtube-icon"></span>[[Orzmic] 黒皇帝 feat. AKA - Le Porteur d'Ombre](https://www.youtube.com/watch?v=T7HSohcdKEY)
-- <span class="bilibili-icon"></span>[【黒皇帝 feat. AKA】 Le Porteur d'Ombre 【Orzmic】](https://www.bilibili.com/video/BV1zj411V7ZR/)
+- <img class="netease-cloud-music-icon" />[Le Porteur d'Ombre（游戏《Orzmic》主线第七章最终曲） - 黒皇帝/AKA - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2061373391)
+- <img class="youtube-icon" />[[Orzmic] 黒皇帝 feat. AKA - Le Porteur d'Ombre](https://www.youtube.com/watch?v=T7HSohcdKEY)
+- <img class="bilibili-icon" />[【黒皇帝 feat. AKA】 Le Porteur d'Ombre 【Orzmic】](https://www.bilibili.com/video/BV1zj411V7ZR/)
 
 ## 相关视频
 
-- <span class="bilibili-icon"></span>[【Notanote谱面保管室】Le Porteur d'Ombre [SY 10.6] 谱面演示 / LPO / 永夜城](https://www.bilibili.com/video/BV1qHCmYjEBQ/)
-- <span class="bilibili-icon"></span>[【Notanote谱面保管室】Le Porteur d'Ombre [EZ 5.0] 谱面演示 / LPO / 永夜城](https://www.bilibili.com/video/BV1Uu1MBEEJc/)
-- <span class="bilibili-icon"></span>[【Notanote谱面保管室】Le Porteur d'Ombre [SP ?] 谱面演示 / LPO / 永夜城](https://www.bilibili.com/video/BV1uu1MBEE3G/)
-- <span class="bilibili-icon"></span>[Le Porteur d'Ombre谱面难度同框对比](https://www.bilibili.com/video/BV13kAreTEnv/)
+- <img class="bilibili-icon" />[【Notanote谱面保管室】Le Porteur d'Ombre [SY 10.6] 谱面演示 / LPO / 永夜城](https://www.bilibili.com/video/BV1qHCmYjEBQ/)
+- <img class="bilibili-icon" />[【Notanote谱面保管室】Le Porteur d'Ombre [EZ 5.0] 谱面演示 / LPO / 永夜城](https://www.bilibili.com/video/BV1Uu1MBEEJc/)
+- <img class="bilibili-icon" />[【Notanote谱面保管室】Le Porteur d'Ombre [SP ?] 谱面演示 / LPO / 永夜城](https://www.bilibili.com/video/BV1uu1MBEE3G/)
+- <img class="bilibili-icon" />[【站内二杀/超绝帅谱】Le Porteur d'Ombre SY10 理论值](https://www.bilibili.com/video/BV1m1hezBECS/)（玩家：[CH2N8-](https://space.bilibili.com/325129469/)）
