@@ -11,12 +11,12 @@
 | :-: | :-: |
 | 曲名 | Innocent white |
 | 别名 | 无辜白、纯白、IW |
-| 原创 | 联合（与Milthm） |
-| 曲师 | [影虎。](?p=composer_list#Kagetora) |
+| 原创 | 联合原创（与Milthm） |
+| 曲师 | [影虎。](?p=composer_list#Kagetora.&l=zh-CN) |
 | 时长 | 02:04 |
 | BPM | 180 |
-| 章节 | [Milthm](?p=chapters/Milthm) |
-| 曲绘 | [Ether-0](?p=illustrator_list#Ether-0) |
+| 章节 | [Milthm](?p=chapters/Milthm&l=zh-CN) |
+| 曲绘 | [Ether-0](?p=illustrator_list#Ether-0&l=zh-CN) |
 
 ## 谱面信息
 
@@ -24,7 +24,7 @@
 | :-: | :-: | :-: | :-: |
 | 定数 | 9.7 | 5.2 | 2.5 |
 | 物量 | 881 | 695 | 117 |
-| 谱师 | [舞仙翼](?p=charter_list#wxy) feat. [Ariayaka](?p=charter_list#Ariayaka) (Milthm) | [活性氮](?p=charter_list#HXDan) | [舞仙翼](?p=charter_list#wxy) |
+| 谱师 | [舞仙翼](?p=charter_list#wxy&l=zh-CN) feat. [Ariayaka](?p=charter_list#Ariayaka&l=zh-CN) (Milthm) | [活性氮](?p=charter_list#HXDan&l=zh-CN) | [舞仙翼](?p=charter_list#wxy&l=zh-CN) |
 
 ## 解锁方法
 
@@ -36,7 +36,7 @@
 | :-: | :-: | :-: |
 | 2024/04/19 | v1.3.0 | Steam侧上线曲目 |
 | 2025/03/29 | v2.0.0 | SY难度定数由9.4改为9.7<br>EZ难度定数由5.3改为5.2<br>EZ难度定数由2.7改为2.5 |
-| 2025/04/02 | v2.0.0 | TapTap侧上线曲目 |
+| 2025/04/02 | v2.0.0 | TapTap侧上线曲目<br>更改曲绘 |
 | 2025/06/22 | v2.3.2 | App Store外区侧上线曲目 |
 | 2025/07/21 | v2.4.1 | App Store国区侧上线曲目 |
 
@@ -61,12 +61,12 @@
 
 ## 音乐
 
-- <img class="netease-cloud-music-icon" />[Innocent white（游戏《Milthm》X《Notanote》原创曲） - 影虎。 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2139042161)
-- <img class="youtube-icon" />[影虎。[Kagetora.] / Innocent white【from Notanote x Milthm】](https://www.youtube.com/watch?v=AYmGKA-3SC4)
-- <img class="bilibili-icon" />[影虎。 / Innocent white【from Notanote x Milthm】](https://www.bilibili.com/video/BV1Cr42187Lk/)
+- ![网易云音乐图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[Innocent white（游戏《Milthm》X《Notanote》原创曲） - 影虎。 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2139042161)
+- ![YouTube图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/youtube.ico)[影虎。[Kagetora..] / Innocent white【from Notanote x Milthm】](https://www.youtube.com/watch?v=AYmGKA-3SC4)
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[影虎。 / Innocent white【from Notanote x Milthm】](https://www.bilibili.com/video/BV1Cr42187Lk/)
 
 ## 相关视频
 
-- <img class="bilibili-icon" />[【Notanote谱面保管室】Innocent white [SY 9.7] 谱面演示](https://www.bilibili.com/video/BV1u5nJzMEpB/)
-- <img class="bilibili-icon" />[【Notanote谱面保管室】Innocent white [EZ+ 5.2] 谱面演示](https://www.bilibili.com/video/BV14YHpz1Enu/)
-- <img class="bilibili-icon" />[【Notanote谱面保管室】Innocent white [EZ 2.5] 谱面演示](https://www.bilibili.com/video/BV147HxzpE6P/)
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Innocent white [SY 9.7] 谱面演示](https://www.bilibili.com/video/BV1u5nJzMEpB/)
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Innocent white [EZ+ 5.2] 谱面演示](https://www.bilibili.com/video/BV14YHpz1Enu/)
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Innocent white [EZ 2.5] 谱面演示](https://www.bilibili.com/video/BV147HxzpE6P/)

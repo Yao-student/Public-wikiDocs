@@ -11,12 +11,12 @@
 | :-: | :-: |
 | 曲名 | 幽体離脱 |
 | 别名 | 星体投射 |
-| 原创 | 否 |
-| 曲师 | [きくお](?p=composer_list#Kikuo) feat. 初音ミク |
+| 授权性质 | 非原创 |
+| 曲师 | [きくお](?p=composer_list#Kikuo&l=zh-CN) feat. 初音ミク |
 | 时长 | 03:17 |
 | BPM | 128 |
-| 章节 | [单曲](?p=chapters/Singles) |
-| 曲绘 | [瓶装可乐](?p=illustrator_list#BottledSodaa) |
+| 章节 | [单曲](?p=chapters/Singles&l=zh-CN) |
+| 曲绘 | [瓶装可乐](?p=illustrator_list#BottledSodaa&l=zh-CN) |
 
 ## 谱面信息
 
@@ -24,7 +24,7 @@
 | :-: | :-: |
 | 定数 | 5.6 |
 | 物量 | 466 |
-| 谱师 | [福luuuu](?p=charter_list#Fulu) |
+| 谱师 | [福luuuu](?p=charter_list#Fulu&l=zh-CN) |
 
 ## 解锁方法
 
@@ -38,7 +38,7 @@
 
 ## 游戏相关
 
-- 本曲在游戏中有删改。
+- 本曲在游戏中有删减。
 
 ## 攻略
 
@@ -74,37 +74,38 @@
 
 <div class="NoticeBoard">
   <br>
-  <font color="gray">
+  <p style="color: gray;">
     <details>
       <summary>点击展开/折叠游戏中版本被删去歌词</summary>
-      <p>幽　幽　幽　幽体離脱<br>
-      会い　会い　会い　会いたい季節<br>
-      幽　幽　幽　幽体離脱<br>
-      会い　会い　会い　会いにゆきます<br>
-      幽　幽　幽　幽体離脱<br>
-      愛　愛　愛　愛しています<br>
-      幽　幽　幽　幽体離脱<br>
-      きみと　煌煌煌　光の中へ
-      </p>
-      <p>星　星　星　星体投射･･･<br>
-      星体投射　我去看你了<br>
-      星　星　星　星体投射･･･<br>
-      星体投射　我去看你了<br>
-      </p>
-      <p>きっと会うのでしょう　また会えるでしょう<br>
-      なら怖くないでしょう　また何度でも
-      </p>
-      <p>幽　幽　幽　幽体離脱<br>
-      会い　会い　会い　会いたい季節<br>
-      幽　幽　幽　幽体離脱<br>
-      会い　会い　会い　会いにゆきます<br>
-      幽　幽　幽　幽体離脱<br>
-      愛　愛　愛　愛しています<br>
-      幽　幽　幽　幽体離脱<br>
-      きみと　煌煌煌　光の中へ
+      <p>
+        幽　幽　幽　幽体離脱<br>
+        会い　会い　会い　会いたい季節<br>
+        幽　幽　幽　幽体離脱<br>
+        会い　会い　会い　会いにゆきます<br>
+        幽　幽　幽　幽体離脱<br>
+        愛　愛　愛　愛しています<br>
+        幽　幽　幽　幽体離脱<br>
+        きみと　煌煌煌　光の中へ
+        </p>
+        <p>星　星　星　星体投射･･･<br>
+        星体投射　我去看你了<br>
+        星　星　星　星体投射･･･<br>
+        星体投射　我去看你了<br>
+        </p>
+        <p>きっと会うのでしょう　また会えるでしょう<br>
+        なら怖くないでしょう　また何度でも
+        </p>
+        <p>幽　幽　幽　幽体離脱<br>
+        会い　会い　会い　会いたい季節<br>
+        幽　幽　幽　幽体離脱<br>
+        会い　会い　会い　会いにゆきます<br>
+        幽　幽　幽　幽体離脱<br>
+        愛　愛　愛　愛しています<br>
+        幽　幽　幽　幽体離脱<br>
+        きみと　煌煌煌　光の中へ
       </p>
     </details>
-  </font>
+  </p>
 </div>
 
 幽　幽　幽　幽体離脱
@@ -162,37 +163,38 @@
 
 <div class="NoticeBoard">
   <br>
-  <font color="gray">
+  <p style="color: gray;">
     <details>
       <summary>点击展开/折叠游戏中版本被删去歌词</summary>
-      <p>灵 灵 灵 灵魂出窍<br>
-      见 见 见　想相见的季节<br>
-      灵 灵 灵 灵魂出窍<br>
-      见 见 见　我来见你了<br>
-      灵 灵 灵 灵魂出窍<br>
-      爱 爱 爱 我爱着你<br>
-      灵 灵 灵 灵魂出窍<br>
-      和你一起 在在在 在光芒之中
-      </p>
-      <p>星　星　星　星体投射･･･<br>
-      星体投射　我去看你了<br>
-      星　星　星　星体投射･･･<br>
-      星体投射　我去看你了<br>
-      </p>
-      <p>一定会去见你的 我们还会见面的<br>
-      这样就 一点都不害怕了 无论 多少次都
-      </p>
-      <p>灵 灵 灵 灵魂出窍<br>
-      见 见 见 想相见的季节<br>
-      灵 灵 灵 灵魂出窍<br>
-      见 见 见　我来见你了<br>
-      灵 灵 灵 灵魂出窍<br>
-      爱 爱 爱 我爱着你<br>
-      灵 灵 灵 灵魂出窍<br>
-      和你一起 在在在 在光芒之中
+      <p>
+        灵 灵 灵 灵魂出窍<br>
+        见 见 见　想相见的季节<br>
+        灵 灵 灵 灵魂出窍<br>
+        见 见 见　我来见你了<br>
+        灵 灵 灵 灵魂出窍<br>
+        爱 爱 爱 我爱着你<br>
+        灵 灵 灵 灵魂出窍<br>
+        和你一起 在在在 在光芒之中
+        </p>
+        <p>星　星　星　星体投射･･･<br>
+        星体投射　我去看你了<br>
+        星　星　星　星体投射･･･<br>
+        星体投射　我去看你了<br>
+        </p>
+        <p>一定会去见你的 我们还会见面的<br>
+        这样就 一点都不害怕了 无论 多少次都
+        </p>
+        <p>灵 灵 灵 灵魂出窍<br>
+        见 见 见 想相见的季节<br>
+        灵 灵 灵 灵魂出窍<br>
+        见 见 见　我来见你了<br>
+        灵 灵 灵 灵魂出窍<br>
+        爱 爱 爱 我爱着你<br>
+        灵 灵 灵 灵魂出窍<br>
+        和你一起 在在在 在光芒之中
       </p>
     </details>
-  </font>
+  </p>
 </div>
 
 灵 灵 灵 灵魂出窍
@@ -215,9 +217,9 @@
 
 ## 音乐
 
-- <img class="netease-cloud-music-icon" />[幽体離脱 (feat. 初音ミク)（灵魂出窍） - きくお/初音ミク - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1953839808)
-- <img class="bilibili-icon" />[Kikuo - 星体投射 feat. 初音ミク & 初音未來](https://www.bilibili.com/video/BV1pU4y1d78T/)
+- ![网易云音乐图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[幽体離脱 (feat. 初音ミク)（灵魂出窍） - きくお/初音ミク - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1953839808)
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[Kikuo - 星体投射 feat. 初音ミク & 初音未來](https://www.bilibili.com/video/BV1pU4y1d78T/)
 
 ## 相关视频
 
-- <img class="bilibili-icon" />[【Notanote谱面保管室】幽体離脱 [SY 5.6] 谱面演示 / 星体投射](https://www.bilibili.com/video/BV1fhHAz5EdM/)
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】幽体離脱 [SY 5.6] 谱面演示 / 星体投射](https://www.bilibili.com/video/BV1fhHAz5EdM/)

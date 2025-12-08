@@ -11,12 +11,12 @@
 | :-: | :-: |
 | 曲名 | Aether Ingita! |
 | 别名 | AI |
-| 原创 | 是 |
-| 曲师 | [ZAWA](?p=composer_list#ZAWA) |
+| 授权性质 | 原创 |
+| 曲师 | [ZAWA](?p=composer_list#ZAWA&l=zh-CN) |
 | 时长 | 03:24 |
 | BPM | 202.4 |
-| 章节 | [Soul Note](?p=chapters/Soul_Notes) |
-| 曲绘 | [// 半界](?p=illustrator_list#Semiryoiki) |
+| 章节 | [Soul Note](?p=chapters/Soul_Notes&l=zh-CN) |
+| 曲绘 | [// 半界](?p=illustrator_list#Semiryoiki&l=zh-CN) |
 
 ## 谱面信息
 
@@ -24,11 +24,11 @@
 | :-: | :-: | :-: |
 | 定数 | 10.5 | 5.5 |
 | 物量 | 1315 | 844 |
-| 谱师 | [Nota](?p=charter_list#Fulu)[note](?p=charter_list#qm) [Char](?p=charter_list#XyX)[ting](?p=charter_list#zecolost) [Te](?p=charter_list#wxy)[am](?p=charter_list#Arthur) | [Nota](?p=charter_list#Fulu)[note](?p=charter_list#qm) [Char](?p=charter_list#XyX)[ting](?p=charter_list#zecolost) [Te](?p=charter_list#wxy)[am](?p=charter_list#Arthur) |
+| 谱师 | [Nota](?p=charter_list#Fulu&l=zh-CN)[note](?p=charter_list#qm&l=zh-CN) [Char](?p=charter_list#XyX&l=zh-CN)[ting](?p=charter_list#zecolost&l=zh-CN) [Te](?p=charter_list#wxy&l=zh-CN)[am](?p=charter_list#Arthur&l=zh-CN) | [Nota](?p=charter_list#Fulu&l=zh-CN)[note](?p=charter_list#qm&l=zh-CN) [Char](?p=charter_list#XyX&l=zh-CN)[ting](?p=charter_list#zecolost&l=zh-CN) [Te](?p=charter_list#wxy&l=zh-CN)[am](?p=charter_list#Arthur&l=zh-CN) |
 
 ## 解锁方法
 
-游玩[「Star Chain」](?p=songs/Star_Chain)的谱面，并使用500糖果解锁
+游玩[「Star Chain」](?p=songs/Star_Chain&l=zh-CN)的谱面，并使用500糖果解锁
 
 ## 更新记录
 
@@ -37,12 +37,24 @@
 | 2025/03/29 | v2.0.0 | Steam侧上线曲目 |
 | 2025/04/02 | v2.0.0 | TapTap侧上线曲目 |
 | 2025/05/28 | v2.2.1 | iOS外区侧上线曲目 |
+| 2025/07/19 | v2.4.0 | 更改曲绘 |
 | 2025/07/21 | v2.4.1 | iOS国区侧上线曲目 |
 | 2025/08/16 | v2.5.0 | SY难度定数由10.4改为10.5<br>EZ难度定数由5.8改为5.5 |
 
 ## 游戏相关
 
 - 本曲的SY与EZ谱面是游戏中参与谱师最多的谱面，有6位谱师。
+- 本曲的SY难度是Notanote中物量最高的谱面，物量为2026。
+- 本曲本来正确的曲名是「Aether Ignite!」，但是曲师提交初版稿件时打错字了，交终版的时候才发现，于是最后将错就错了。甚至在[更新预告动态](https://t.bilibili.com/1030287065050251271)中曲名又被错写成了「Aether Ignita!」的形式，现在动态已修改。
+- 本曲更新于v2.0，SY与EZ谱面尾杀还原了v1.10（最后一个v1.x版本）定数最高的8个谱面，作为v1.x的总结。相应的曲目与v1.10.0时的定数依次为：
+  - [Break Through Myself](?p=songs/Break_Through_Myself&l=zh-CN) [SY 9.0]
+  - [self-dissociation](?p=songs/self-dissociation&l=zh-CN) [SY 9.1]
+  - [Chronomia](?p=songs/Chronomia&l=zh-CN) [SY 9.1]
+  - [Innocent white](?p=songs/Innocent_white&l=zh-CN) [SY 9.4]
+  - [The Fire](?p=songs/The_Fire&l=zh-CN) SP：9.8 （为了谱面与音乐的契合度，The Fire并没有按照定数大小排序）
+  - [能量过载-オーバロード-](?p=songs/Nengliang_Guozai-Overload-&l=zh-CN) [SY 9.5]
+  - [《Ж》](?p=songs/Convergence&l=zh-CN) [SY 10.5]
+  - [Le Porteur d'Ombre](?p=songs/Le_Porteur_d'Ombre&l=zh-CN) [SY 10.5]
 
 ## 攻略
 
@@ -56,11 +68,11 @@
 
 ## 音乐
 
-- <img class="netease-cloud-music-icon" />[Aether Ingita!!!!! - ZAWA/Notanote - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2714634340)
-- <img class="bilibili-icon" />[【Notanote x Soul Notes】Aether Ingita! - ZAWA](https://www.bilibili.com/video/BV1uFPCeqEJD/)
+- ![网易云音乐图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[Aether Ingita!!!!! - ZAWA/Notanote - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2714634340)
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote x Soul Notes】Aether Ingita! - ZAWA](https://www.bilibili.com/video/BV1uFPCeqEJD/)
 
 ## 相关视频
 
-- <img class="bilibili-icon" />[【Notanote谱面保管室】Aether Ingita! [SY 10.5] 谱面演示](https://www.bilibili.com/video/BV1wyZRYyEUF/)
-- <img class="bilibili-icon" />[【Notanote谱面保管室】Aether Ingita! [EZ 5.5] 谱面演示](https://www.bilibili.com/video/BV1S6GzzrEp7/)
-- <img class="bilibili-icon" />[【Notanote/全球首杀/屏元】Notanote第二难曲 Aether Ingita! [SY 10] All Perfect Rank X！](https://www.bilibili.com/video/BV1zMhNz3E5M/)（玩家：[九段不合格](https://space.bilibili.com/1633653929/)）
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Aether Ingita! [SY 10.5] 谱面演示](https://www.bilibili.com/video/BV1wyZRYyEUF/)
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Aether Ingita! [EZ 5.5] 谱面演示](https://www.bilibili.com/video/BV1S6GzzrEp7/)
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote/全球首杀/屏元】Notanote第二难曲 Aether Ingita! [SY 10] All Perfect Rank X！](https://www.bilibili.com/video/BV1zMhNz3E5M/)（玩家：[九段不合格](https://space.bilibili.com/1633653929/)）

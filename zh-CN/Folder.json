@@ -3,7 +3,7 @@
         {
             "Class": "Object",
             "Content": "主界面",
-            "Href": "?p=main"
+            "Href": "?p=main&l=zh-CN"
         },
         {
             "Class": "ClassText",
@@ -12,12 +12,12 @@
         {
             "Class": "Object",
             "Content": "机制",
-            "Href": "?p=mechanics"
+            "Href": "?p=mechanics&l=zh-CN"
         },
         {
             "Class": "Object",
             "Content": "界面",
-            "Href": "?p=interface"
+            "Href": "?p=interface&l=zh-CN"
         },
 
         {
@@ -27,37 +27,37 @@
         {
             "Class": "Object",
             "Content": "曲目列表",
-            "Href": "?p=song_list"
+            "Href": "?p=song_list&l=zh-CN"
         },
         {
             "Class": "Object",
             "Content": "章节列表",
-            "Href": "?p=chapter_list"
+            "Href": "?p=chapter_list&l=zh-CN"
         },
         {
             "Class": "Object",
             "Content": "曲师列表",
-            "Href": "?p=composer_list"
+            "Href": "?p=composer_list&l=zh-CN"
         },
         {
             "Class": "Object",
             "Content": "谱师列表",
-            "Href": "?p=charter_list"
+            "Href": "?p=charter_list&l=zh-CN"
         },
         {
             "Class": "Object",
             "Content": "画师列表",
-            "Href": "?p=illustrator_list"
+            "Href": "?p=illustrator_list&l=zh-CN"
         },
         {
             "Class": "Object",
             "Content": "收藏品列表",
-            "Href": "?p=collectible_list"
+            "Href": "?p=collectible_list&l=zh-CN"
         },
         {
             "Class": "Object",
             "Content": "角色列表",
-            "Href": "?p=character_list"
+            "Href": "?p=character_list&l=zh-CN"
         },
 
         {
@@ -67,25 +67,25 @@
         {
             "Class": "Object",
             "Content": "FAQ",
-            "Href": "?p=FAQ"
+            "Href": "?p=FAQ&l=zh-CN"
         },
         {
             "Class": "Object",
             "Content": "梗",
-            "Href": "?p=memes"
+            "Href": "?p=memes&l=zh-CN"
         }
     ],
 
-    "main": "主界面",
-    "mechanics": "机制",
-    "interface": "界面",
-    "FAQ": "FAQ",
-    "song_list": "曲目列表",
-    "chapter_list": "章节列表",
-    "composer_list": "曲师列表",
-    "charter_list": "谱师列表",
-    "illustrator_list": "画师列表",
-    "collectible_list": "收藏品列表",
-    "character_list": "角色列表",
-    "memes": "梗"
+    "main.md": "主界面",
+    "mechanics.md": "机制",
+    "interface.md": "界面",
+    "FAQ.md": "FAQ",
+    "song_list.md": "曲目列表",
+    "chapter_list.md": "章节列表",
+    "composer_list.md": "曲师列表",
+    "charter_list.md": "谱师列表",
+    "illustrator_list.md": "画师列表",
+    "collectible_list.md": "收藏品列表",
+    "character_list.md": "角色列表",
+    "memes.md": "梗"
 }

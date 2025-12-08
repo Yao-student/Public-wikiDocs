@@ -11,24 +11,24 @@
 | :-: | :-: |
 | 曲名 | Lockdown (Tatsunoshin VIP) |
 | 别名 | 无 |
-| 原创 | 否 |
-| 曲师 | [Tatsunoshin](?p=composer_list#Tatsunoshin) & [PIKASONIC](?p=composer_list#PIKASONIC) |
+| 授权性质 | 非原创 |
+| 曲师 | [Tatsunoshin](?p=composer_list#Tatsunoshin&l=zh-CN) & [PIKASONIC](?p=composer_list#PIKASONIC&l=zh-CN) |
 | 时长 | 03:42 |
 | BPM | 170 |
-| 章节 | [主线一·晴雨之遇](?p=chapters/Main_Story_I) |
-| 曲绘 | [故离](?p=illustrator_list#Guli) |
+| 章节 | [主线一·晴雨之遇](?p=chapters/Main_Story_I&l=zh-CN) |
+| 曲绘 | [故离](?p=illustrator_list#Guli&l=zh-CN) |
 
 ## 谱面信息
 
 | 信息 | SY | EZ |
 | :-: | :-: | :-: |
-| 定数 | 6.8 | 3.5 |
+| 定数 | 6.9 | 3.5 |
 | 物量 | 736 | 590 |
-| 谱师 | [嘤嘤嘤箱](?p=charter_list#XyX) feat. [冬花](?p=charter_list#Donghua) | [嘤嘤嘤箱](?p=charter_list#XyX) feat. [冬花](?p=charter_list#Donghua) ([活性氮](?p=charter_list#HXDan) modified) |
+| 谱师 | [嘤嘤嘤箱](?p=charter_list#XyX&l=zh-CN) feat. [冬花](?p=charter_list#Donghua&l=zh-CN) | [嘤嘤嘤箱](?p=charter_list#XyX&l=zh-CN) feat. [冬花](?p=charter_list#Donghua&l=zh-CN) ([活性氮](?p=charter_list#HXDan&l=zh-CN) modified) |
 
 ## 解锁方法
 
-阅读剧情收集品[「Cursed Land (Acoustic)」](?p=collectibles#Cursed_Land_(Acoustic))解锁。
+阅读剧情收集品[「Cursed Land (Acoustic)」](?p=collectible_list#Cursed_Land_(Acoustic&l=zh-CN))解锁。
 
 ## 更新记录
 
@@ -41,6 +41,7 @@
 | 2025/05/28 | v2.2.1 | App Store外区侧上线曲目 |
 | 2025/07/21 | v2.4.1 | App Store国区侧上线曲目 |
 | 2025/08/16 | v2.5.0 | SY难度定数由7.1改为6.8 |
+| 2025/10/01 | v2.6.0 | SY难度定数由6.8改为6.9 |
 
 ## 游戏相关
 
@@ -113,17 +114,17 @@
 
 ## 音乐
 
-- <img class="netease-cloud-music-icon" />[Lockdown (feat. NEONA) - Tatsunoshin/PIKASONIC/NEONA - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1937255781)[^1]
-- <img class="netease-cloud-music-icon" />[Lockdown (Tatsunoshin VIP) - Tatsunoshin/PIKASONIC/Tsugumi Nagahara - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1844464120)[^2]
-- <img class="bilibili-icon" />[PIKASONIC x Tatsunoshin feat. Tsugumi Nagahara - Lockdown (Tatsunoshin VIP)](https://www.bilibili.com/video/BV1qt4y1s79g/)[^1]
-- <img class="bilibili-icon" />[PIKASONIC & Tatsunoshin - Lockdown (ft.NEONA)](https://www.bilibili.com/video/BV1xR4y1e7SQ/)[^2]
+- ![网易云音乐图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[Lockdown (feat. NEONA) - Tatsunoshin/PIKASONIC/NEONA - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1937255781)<sup><a id="note-1.1" href="#ref-1">[1]</a></sup>
+- ![网易云音乐图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[Lockdown (Tatsunoshin VIP) - Tatsunoshin/PIKASONIC/Tsugumi Nagahara - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1844464120)<sup><a id="note-2.1" href="#ref-2">[2]</a></sup>
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[PIKASONIC x Tatsunoshin feat. Tsugumi Nagahara - Lockdown (Tatsunoshin VIP)](https://www.bilibili.com/video/BV1qt4y1s79g/)<sup><a id="note-1.2" href="#ref-1">[1]</a></sup>
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[PIKASONIC & Tatsunoshin - Lockdown (ft.NEONA)](https://www.bilibili.com/video/BV1xR4y1e7SQ/)<sup><a id="note-2.2" href="#ref-2">[2]</a></sup>
 
 ## 相关视频
 
-- <img class="bilibili-icon" />[【Notanote谱面保管室】Lockdown (Tatsunoshin VIP) [SY 6.8] 谱面演示](https://www.bilibili.com/video/BV1ZJgozwEbL/)
-- <img class="bilibili-icon" />[【Notanote谱面保管室】Lockdown (Tatsunoshin VIP) [EZ 3.5] 谱面演示](https://www.bilibili.com/video/BV1dpgozFE6s/)
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Lockdown (Tatsunoshin VIP) [SY 6.8] 谱面演示](https://www.bilibili.com/video/BV1ZJgozwEbL/)
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Lockdown (Tatsunoshin VIP) [EZ 3.5] 谱面演示](https://www.bilibili.com/video/BV1dpgozFE6s/)
 
 ## 注释
 
-[^1]: Tatsunoshin VIP版音乐。
-[^2]: 原版音乐。
+1. <a id="ref-1" href="#note-1.1">↑</a> <a href="#note-1.2">↑</a> Tatsunoshin VIP版音乐。
+2. <a id="ref-2" href="#note-2.1">↑</a> <a href="#note-2.2">↑</a> 原版音乐。

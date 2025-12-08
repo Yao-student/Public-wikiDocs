@@ -11,12 +11,12 @@
 | :-: | :-: |
 | 曲名 | Eltaw |
 | 别名 | 无 |
-| 原创 | 否 |
-| 曲师 | [Fl00t](?p=composer_list#Fl00t) |
+| 授权性质 | 非原创 |
+| 曲师 | [Fl00t](?p=composer_list#Fl00t&l=zh-CN) |
 | 时长 | 02:26 |
 | BPM | 193 |
-| 章节 | [主线一·晴雨之遇](?p=chapters/Main_Story_I) |
-| 曲绘 | [Fl00t](?p=illustrator_list#Fl00t) |
+| 章节 | [主线一·晴雨之遇](?p=chapters/Main_Story_I&l=zh-CN) |
+| 曲绘 | [Fl00t](?p=illustrator_list#Fl00t&l=zh-CN) |
 
 ## 谱面信息
 
@@ -24,11 +24,11 @@
 | :-: | :-: | :-: | :-: |
 | 定数 | 8.3 | 4.5 | 4.0 |
 | 物量 | 730 | 553 | 468 |
-| 谱师 | [嘤光棒](?p=charter_list#XyX) feat. [qm](?p=charter_list#qm) | [嘤光棒](?p=charter_list#XyX) ([活性氮](?p=charter_list#HXDan) modified) | [Arthur](?p=charter_list#Arthur) |
+| 谱师 | [嘤光棒](?p=charter_list#XyX&l=zh-CN) feat. [qm](?p=charter_list#qm&l=zh-CN) | [嘤光棒](?p=charter_list#XyX&l=zh-CN) ([活性氮](?p=charter_list#HXDan&l=zh-CN) modified) | [Arthur](?p=charter_list#Arthur&l=zh-CN) |
 
 ## 解锁方法
 
-阅读剧情收集品[「Lockdown (Tatsunoshin VIP)」](?p=collectibles#Lockdown_(Tatsunoshin_VIP))解锁。
+阅读剧情收集品[「Lockdown (Tatsunoshin VIP)」](?p=collectible_list#Lockdown_(Tatsunoshin_VIP)&l=zh-CN)解锁。
 
 ## 更新记录
 
@@ -46,7 +46,7 @@
 ## 游戏相关
 
 - 本曲的SY难度谱面尾杀原来是超高速4k楼梯，后于前瞻版本被修改。
-- 本曲的SY难度谱面后面的歌词错写为[网易云音乐曲目页面](https://music.163.com/#/song?id=1924765006)上的英语空耳，实际歌词是曲师本人自造的人造语言，后于前瞻版本被修正。[^1]
+- 本曲的SY难度谱面后面的歌词错写为[网易云音乐曲目页面](https://music.163.com/#/song?id=1924765006)上的英语空耳，实际歌词是曲师本人自造的人造语言，后于前瞻版本被修正。<sup><a id="note-1" href="#ref-1">[1]</a></sup>
 
 ## 攻略
 
@@ -78,17 +78,17 @@ Eltaw
 
 ## 音乐
 
-- <img class="netease-cloud-music-icon" />[Eltaw - Fl00t - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1924765006)
-- <img class="youtube-icon" />[Fl00t - Eltaw](https://www.youtube.com/watch?v=tgH4FxutyXc)
-- <img class="bilibili-icon" />[Fl00t - Eltaw](https://www.bilibili.com/video/BV1Fb4y117BW/)
+- ![网易云音乐图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[Eltaw - Fl00t - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1924765006)
+- ![YouTube图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/youtube.ico)[Fl00t - Eltaw](https://www.youtube.com/watch?v=tgH4FxutyXc)
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[Fl00t - Eltaw](https://www.bilibili.com/video/BV1Fb4y117BW/)
 
 ## 相关视频
 
-- <img class="bilibili-icon" />[【Notanote谱面保管室】Eltaw [SY 8.3] 谱面演示](https://www.bilibili.com/video/BV1WtgZz1EDU/)
-- <img class="bilibili-icon" />[【Notanote谱面保管室】Eltaw [EZ 4.5] 谱面演示](https://www.bilibili.com/video/BV1WtgZz1E6n/)
-- <img class="bilibili-icon" />[【Notanote谱面保管室】Eltaw [TL 4.0] 谱面演示](https://www.bilibili.com/video/BV1khgZzCEZ8/)
-- <img class="bilibili-icon" />[【内测首杀】Eltaw - Notanote](https://www.bilibili.com/video/BV1fX4y177be/)（玩家：[爬爬](https://space.bilibili.com/296690663/)）
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Eltaw [SY 8.3] 谱面演示](https://www.bilibili.com/video/BV1WtgZz1EDU/)
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Eltaw [EZ 4.5] 谱面演示](https://www.bilibili.com/video/BV1WtgZz1E6n/)
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Eltaw [TL 4.0] 谱面演示](https://www.bilibili.com/video/BV1khgZzCEZ8/)
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【内测首杀】Eltaw - Notanote](https://www.bilibili.com/video/BV1fX4y177be/)（玩家：[爬爬](https://space.bilibili.com/296690663/)）
 
 ## 注释
 
-[^1]: 网易云音乐曲目页面上的曲师人造语歌词和日语翻译是正确的。
+1. <a id="ref-1" href="#note-1">↑</a> 网易云音乐曲目页面上的曲师人造语歌词和日语翻译是正确的。

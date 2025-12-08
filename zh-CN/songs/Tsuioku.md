@@ -7,22 +7,18 @@
   <p>「はらり、空に散った」</p>
 </div>
 
-<a id="song-info"></a>
-
 ## 曲目信息
 
 | 信息 | 内容 |
 | :-: | :-: |
 | 曲名 | 追憶 |
 | 别名 | 无 |
-| 原创 | 否 |
-| 曲师 | [PIKASONIC](?p=composer_list#PIKASONIC) & [なこたんまる](?p=composer_list#Nakontanmaru) |
+| 授权性质 | 非原创 |
+| 曲师 | [PIKASONIC](?p=composer_list#PIKASONIC&l=zh-CN) & [なこたんまる](?p=composer_list#Nakontanmaru&l=zh-CN) |
 | 时长 | 03:03 |
 | BPM | 303 |
-| 章节 | [主线一·晴雨之遇](?p=chapters/Main_Story_I) |
-| 曲绘 | [于白](?p=illustrator_list#Yubai) |
-
-<a id="chart-info"></a>
+| 章节 | [主线一·晴雨之遇](?p=chapters/Main_Story_I&l=zh-CN) |
+| 曲绘 | [于白](?p=illustrator_list#Yubai&l=zh-CN) |
 
 ## 谱面信息
 
@@ -30,9 +26,7 @@
 | :-: | :-: | :-: | :-: |
 | 定数 | 5.4 | 3.0 | ? |
 | 物量 | 509 | 458 | 351 |
-| 谱师 | [八樱盒](?p=charter_list#XyX) feat. [Fyato](?p=charter_list#Fyato) | [八樱盒](?p=charter_list#XyX) ([活性氮](?p=charter_list#HXDan) modified) | [XyX](?p=charter_list#XyX) |
-
-<a id="unlock-method"></a>
+| 谱师 | [八樱盒](?p=charter_list#XyX&l=zh-CN) feat. [Fyato](?p=charter_list#Fyato&l=zh-CN) | [八樱盒](?p=charter_list#XyX&l=zh-CN) ([活性氮](?p=charter_list#HXDan&l=zh-CN) modified) | [XyX](?p=charter_list#XyX&l=zh-CN) |
 
 ## 解锁方法
 
@@ -53,7 +47,7 @@
 
 ## 游戏相关
 
-- 本曲在游戏中有删改。
+- 本曲在游戏中有删减。
 
 ## 攻略
 
@@ -104,22 +98,23 @@
 
 <div class="NoticeBoard">
   <br>
-  <font color="gray">
+  <p style="color: gray;">
     <details>
       <summary>点击展开/折叠游戏中版本被删去歌词</summary>
-      <p>いつかいつか<br>
-      そう思っていたけど<br>
-      一人で行く僕は<br>
-      何も変わってなくてさ<br>
-      記憶が人混みに飲み込まれて<br>
-      春に散らした笑みが<br>
-      昇華できなくて今もただ<br>
-      忘れたって　忘れたって<br>
-      思い出さなければ<br>
-      どうか　ずっと
+      <p>
+        いつかいつか<br>
+        そう思っていたけど<br>
+        一人で行く僕は<br>
+        何も変わってなくてさ<br>
+        記憶が人混みに飲み込まれて<br>
+        春に散らした笑みが<br>
+        昇華できなくて今もただ<br>
+        忘れたって　忘れたって<br>
+        思い出さなければ<br>
+        どうか　ずっと
       </p>
     </details>
-  </font>
+  </p>
 </div>
 
 何か覚えてる気がしたんだ<br>
@@ -174,22 +169,23 @@
 
 <div class="NoticeBoard">
   <br>
-  <font color="gray">
+  <p style="color: gray;">
     <details>
       <summary>点击展开/折叠游戏中版本被删去歌词</summary>
-      <p>总有一天<br>
-      我是这么想的<br>
-      形单影只离去的我<br>
-      什么都没有改变<br>
-      记忆被人潮吞噬<br>
-      春天散落的笑容<br>
-      即使现在也无法升华<br>
-      我忘了 我忘了啊<br>
-      如果不回想起来的话<br>
-      请永远地
+      <p>
+        总有一天<br>
+        我是这么想的<br>
+        形单影只离去的我<br>
+        什么都没有改变<br>
+        记忆被人潮吞噬<br>
+        春天散落的笑容<br>
+        即使现在也无法升华<br>
+        我忘了 我忘了啊<br>
+        如果不回想起来的话<br>
+        请永远地
       </p>
     </details>
-  </font>
+  </p>
 </div>
 
 好像还记得什么<br>
@@ -207,15 +203,15 @@
 
 ## 音乐
 
-- <img class="netease-cloud-music-icon" />[追憶 (feat. nakotanmaru) - PIKASONIC / なこたんまる - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1869161372)[^1]
-- <img class="youtube-icon" />[PIKASONIC - 追憶 (feat.nakotanmaru)](https://www.youtube.com/watch?v=8TpMs2oS5u0)[^1]
-- <img class="bilibili-icon" />[PIKASONIC - 追憶 (feat.nakotanmaru)](https://www.bilibili.com/video/BV1C3411R7c2/)[^1]
+- ![网易云音乐图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[追憶 (feat. nakotanmaru) - PIKASONIC / なこたんまる - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1869161372)<sup><a id="note-1.1" href="#ref-1">[1]</a></sup>
+- ![YouTube图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/youtube.ico)[PIKASONIC - 追憶 (feat.nakotanmaru)](https://www.youtube.com/watch?v=8TpMs2oS5u0)<sup><a id="note-1.2" href="#ref-1">[1]</a></sup>
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[PIKASONIC - 追憶 (feat.nakotanmaru)](https://www.bilibili.com/video/BV1C3411R7c2/)<sup><a id="note-1.3" href="#ref-1">[1]</a></sup>
 
 ## 相关视频
 
-- <img class="bilibili-icon" />[【Notanote谱面保管室】追憶 [SY 5.4] 谱面演示](https://www.bilibili.com/video/BV1negZzrECL/)
-- <img class="bilibili-icon" />[【Notanote谱面保管室】追憶 [EZ 3.0] 谱面演示](https://www.bilibili.com/video/BV1pYgZzGEcM/)
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】追憶 [SY 5.4] 谱面演示](https://www.bilibili.com/video/BV1negZzrECL/)
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】追憶 [EZ 3.0] 谱面演示](https://www.bilibili.com/video/BV1pYgZzGEcM/)
 
 ## 注释
 
-[^1]: 完整版音乐。
+1. <a id="ref-1" href="#note-1.1">↑</a> <a href="#note-1.2">↑</a> <a href="#note-1.3">↑</a> 完整版音乐。

@@ -11,12 +11,12 @@
 | :-: | :-: |
 | 曲名 | Summer Dream |
 | 别名 | 夏日梦 |
-| 原创 | 否 |
-| 曲师 | [Kirara Magic](?p=composer_list#Kirara_Magic) |
+| 授权性质 | 非原创 |
+| 曲师 | [Kirara Magic](?p=composer_list#Kirara_Magic&l=zh-CN) |
 | 时长 | 02:31 |
 | BPM | 190 |
-| 章节 | [支线一·花火之夏](?p=chapters/Side_Story_I) |
-| 曲绘 | [天野岁](?p=illustrator_list#Tianyesui) |
+| 章节 | [支线一·花火之夏](?p=chapters/Side_Story_I&l=zh-CN) |
+| 曲绘 | [天野岁](?p=illustrator_list#Tianyesui&l=zh-CN) |
 
 ## 谱面信息
 
@@ -24,11 +24,11 @@
 | :-: | :-: |
 | 定数 | 3.0 |
 | 物量 | 79 |
-| 谱师 | [qm](?p=charter_list#qm) x [wxy](?p=charter_list#wxy) |
+| 谱师 | [qm](?p=charter_list#qm&l=zh-CN) x [wxy](?p=charter_list#wxy&l=zh-CN) |
 
 ## 解锁方法
 
-游玩[「Break Through Myself」](?p=songs/Break_Through_Myself)的谱面解锁。
+游玩[「Break Through Myself」](?p=songs/Break_Through_Myself&l=zh-CN)的谱面解锁。
 
 ## 更新记录
 
@@ -73,31 +73,32 @@ The whisper of the earth
 
 <div class="NoticeBoard">
   <br>
-  <font color="gray">
+  <p style="color: gray;">
     <details>
       <summary>点击展开/折叠游戏中版本被删去歌词</summary>
-      <p>Lets jump into the ocean<br>
-      Slow motion<br>
-      My Summer Dream<br>
-      We can both have some cherry ice–cream<br>
-      My Summer Dream<br>
-      You can feel the ebb and flow, and you will know<br>
-      That's my turn to show my heart to you<br>
-      Like you do
+      <p>
+        Lets jump into the ocean<br>
+        Slow motion<br>
+        My Summer Dream<br>
+        We can both have some cherry ice–cream<br>
+        My Summer Dream<br>
+        You can feel the ebb and flow, and you will know<br>
+        That's my turn to show my heart to you<br>
+        Like you do
       </p>
       <p>
-      We were chilling under the palm tree<br>
-      Here we got some great memories<br>
-      Go collect some shells by the bay<br>
-      If we can have a cup of sea breeze<br>
-      My summer dream will you stay here with me<br>
-      We will make friend with the fish<br>
-      and lets enjoy our day<br>
-      Shall we?
+        We were chilling under the palm tree<br>
+        Here we got some great memories<br>
+        Go collect some shells by the bay<br>
+        If we can have a cup of sea breeze<br>
+        My summer dream will you stay here with me<br>
+        We will make friend with the fish<br>
+        and lets enjoy our day<br>
+        Shall we?
       </p>
       <p>The whisper of the earth</p>
     </details>
-  </font>
+  </p>
 </div>
 
 Let's jump into the ocean<br>
@@ -151,31 +152,32 @@ Until the end of the world
 
 <div class="NoticeBoard">
   <br>
-  <font color="gray">
+  <p style="color: gray;">
     <details>
       <summary>点击展开/折叠游戏中版本被删去歌词</summary>
-      <p>让我们跳入海洋<br>
-      像慢动作一般<br>
-      我夏日的梦<br>
-      我们可以来些樱桃冰淇淋<br>
-      我夏日的梦<br>
-      你会感到潮起潮落<br>
-      你会明白轮到我向你展示我的心了
-      就像你一样
+      <p>
+        让我们跳入海洋<br>
+        像慢动作一般<br>
+        我夏日的梦<br>
+        我们可以来些樱桃冰淇淋<br>
+        我夏日的梦<br>
+        你会感到潮起潮落<br>
+        你会明白轮到我向你展示我的心了
+        就像你一样
       </p>
       <p>
-      我们在棕榈树下放松<br>
-      在这我们有很多美好的回忆<br>
-      去沙滩捡些贝壳<br>
-      我们能来杯海风吗<br>
-      夏日的梦你会跟我一起吗<br>
-      我们会跟鱼交朋友<br>
-      享受我们的一天<br>
-      如何？
+        我们在棕榈树下放松<br>
+        在这我们有很多美好的回忆<br>
+        去沙滩捡些贝壳<br>
+        我们能来杯海风吗<br>
+        夏日的梦你会跟我一起吗<br>
+        我们会跟鱼交朋友<br>
+        享受我们的一天<br>
+        如何？
       </p>
       <p>地球的低语</p>
     </details>
-  </font>
+  </p>
 </div>
 
 直到太阳落下<br>
@@ -195,14 +197,14 @@ Until the end of the world
 
 ## 音乐
 
-- <img class="netease-cloud-music-icon" />[Summer Dream (feat. Chevy) - Kirara Magic/Chevy - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1854644975)[^1]
-- <img class="bilibili-icon" />[【清新夏日单曲】Summer Dream (feat. Chevy)【MV】](https://www.bilibili.com/video/BV1yB4y1K7X5/)[^1]
+- ![网易云音乐图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[Summer Dream (feat. Chevy) - Kirara Magic/Chevy - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1854644975)<sup><a id="note-1.1" href="#ref-1">[1]</a></sup>
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【清新夏日单曲】Summer Dream (feat. Chevy)【MV】](https://www.bilibili.com/video/BV1yB4y1K7X5/)<sup><a id="note-1.2" href="#ref-1">[1]</a></sup>
 
 ## 相关视频
 
-- <img class="bilibili-icon" />[【Notanote谱面保管室】Summer Dream [SY 2.5] 谱面演示](https://www.bilibili.com/video/BV1UkGNzGEPg/)
-- <img class="bilibili-icon" />[【Notanote/不要急挑战（）】Summer Dream SY1 All Perfect](https://www.bilibili.com/video/BV1TY2NYSEyi/)
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Summer Dream [SY 2.5] 谱面演示](https://www.bilibili.com/video/BV1UkGNzGEPg/)
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote/不要急挑战（）】Summer Dream SY1 All Perfect](https://www.bilibili.com/video/BV1TY2NYSEyi/)
 
 ## 注释
 
-[^1]: 完整版音乐。
+1. <a id="ref-1" href="#note-1">↑</a> <a href="#note-1">↑</a> 完整版音乐。

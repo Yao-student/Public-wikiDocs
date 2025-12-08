@@ -11,12 +11,12 @@
 | :-: | :-: |
 | 曲名 | Get Back |
 | 别名 | 无 |
-| 原创 | 否 |
-| 曲师 | [CAP3](?p=composer_list#CAP3) |
+| 授权性质 | 非原创 |
+| 曲师 | [CAP3](?p=composer_list#CAP3&l=zh-CN) |
 | 时长 | 03:09 |
 | BPM | 128 |
-| 章节 | [Soul Notes](?p=chapters/Soul_Notes) |
-| 曲绘 | [Soul Notes](?p=chapters/Soul_Notes) |
+| 章节 | [Soul Notes](?p=chapters/Soul_Notes&l=zh-CN) |
+| 曲绘 | [Soul Notes](?p=chapters/Soul_Notes&l=zh-CN) |
 
 ## 谱面信息
 
@@ -24,11 +24,11 @@
 | :-: | :-: | :-: |
 | 定数 | 8.2 | 2.0 |
 | 物量 | 848 | 804 |
-| 谱师 | [乾啊啊啊啊啊](?p=charter_list#qa) & [AwlF](?p=charter_list#AwlF) | [AwlF](?p=charter_list#AwlF) & [乾啊啊啊啊啊](?p=charter_list#qa)  |
+| 谱师 | [乾啊啊啊啊啊](?p=charter_list#qa&l=zh-CN) & [AwlF](?p=charter_list#AwlF&l=zh-CN) | [AwlF](?p=charter_list#AwlF&l=zh-CN) & [乾啊啊啊啊啊](?p=charter_list#qa&l=zh-CN)  |
 
 ## 解锁方法
 
-游玩[「Star Chain」](?p=songs/Star_Chain)的谱面，并使用600糖果解锁。
+游玩[「Star Chain」](?p=songs/Star_Chain&l=zh-CN)的谱面，并使用600糖果解锁。
 
 ## 更新记录
 
@@ -52,10 +52,10 @@
 
 ## 音乐
 
-- <img class="netease-cloud-music-icon" />[Get Back（游戏《Phigros》收录曲） - CAP3 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1428353930)
-- <img class="bilibili-icon" />[Get Back-CAP3](https://www.bilibili.com/video/BV18S411A7Bv/)
+- ![网易云音乐图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[Get Back（游戏《Phigros》收录曲） - CAP3 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1428353930)
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[Get Back-CAP3](https://www.bilibili.com/video/BV18S411A7Bv/)
 
 ## 相关视频
 
-- <img class="bilibili-icon" />[【Notanote谱面保管室】Get Back [SY 8.2] 谱面演示](https://www.bilibili.com/video/BV18LHtzaEEj/)
-- <img class="bilibili-icon" />[【Notanote谱面保管室】Get Back [EZ 2.0] 谱面演示](https://www.bilibili.com/video/BV1wuHPzJEcH/)
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Get Back [SY 8.2] 谱面演示](https://www.bilibili.com/video/BV18LHtzaEEj/)
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Get Back [EZ 2.0] 谱面演示](https://www.bilibili.com/video/BV1wuHPzJEcH/)
