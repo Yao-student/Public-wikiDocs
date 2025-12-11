@@ -12,11 +12,11 @@
 | 曲名 | 夏の花 |
 | 别名 | 无 |
 | 授权性质 | 非原创 |
-| 曲师 | [Sakanapaste](?p=composerList#Sakanapaste&l=zh-CN) |
+| 曲师 | [Sakanapaste](?p=composer_list&l=zh-CN#Sakanapaste) |
 | 时长 | 01:37 |
 | BPM | 126 |
 | 章节 | [支线一·花火之夏](?p=chapters/Side_Story_I&l=zh-CN) |
-| 曲绘 | [卡莫伦斯](?p=illustrator_list#CARMOLENS&l=zh-CN)　©跃动记录 |
+| 曲绘 | [卡莫伦斯](?p=illustrator_list&l=zh-CN#CARMOLENS)　©跃动记录 |
 
 ## 谱面信息
 
@@ -24,11 +24,11 @@
 | :-: | :-: | :-: |
 | 定数 | 5.4 | 1.5 |
 | 物量 | 437 | 313 |
-| 谱师 | [舞仙翼](?p=charter_list#wxy&l=zh-CN) | [舞仙翼](?p=charter_list#wxy&l=zh-CN) vs. [Rea_cy](?p=charter_list#Rea_cy&l=zh-CN) |
+| 谱师 | [舞仙翼](?p=charter_list&l=zh-CN#wxy) | [舞仙翼](?p=charter_list&l=zh-CN#wxy) vs. [Rea_cy](?p=charter_list&l=zh-CN#Rea_cy) |
 
 ## 解锁方法
 
-阅读剧情收集品[「Airy Dream」](?p=collectible_list#Airy_Dream&l=zh-CN)解锁。
+阅读剧情收集品[「Airy Dream」](?p=collectible_list&l=zh-CN#Airy_Dream)解锁。
 
 ## 更新记录
 
@@ -56,7 +56,7 @@
 
 ## 音乐
 
-- ![网易云音乐图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[夏の花 - Sakanapaste/Hilarity Leap Records - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2068402486)
+- ![网易云音乐图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/netease-cloud-music.ico)[夏の花 - Sakanapaste/Hilarity Leap Records - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2068402486)
 
 ## 相关视频
 

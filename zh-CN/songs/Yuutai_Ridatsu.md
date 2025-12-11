@@ -12,11 +12,11 @@
 | 曲名 | 幽体離脱 |
 | 别名 | 星体投射 |
 | 授权性质 | 非原创 |
-| 曲师 | [きくお](?p=composer_list#Kikuo&l=zh-CN) feat. 初音ミク |
+| 曲师 | [きくお](?p=composer_list&l=zh-CN#Kikuo) feat. 初音ミク |
 | 时长 | 03:17 |
 | BPM | 128 |
 | 章节 | [单曲](?p=chapters/Singles&l=zh-CN) |
-| 曲绘 | [瓶装可乐](?p=illustrator_list#BottledSodaa&l=zh-CN) |
+| 曲绘 | [瓶装可乐](?p=illustrator_list&l=zh-CN#BottledSodaa) |
 
 ## 谱面信息
 
@@ -24,7 +24,7 @@
 | :-: | :-: |
 | 定数 | 5.6 |
 | 物量 | 466 |
-| 谱师 | [福luuuu](?p=charter_list#Fulu&l=zh-CN) |
+| 谱师 | [福luuuu](?p=charter_list&l=zh-CN#Fulu) |
 
 ## 解锁方法
 
@@ -73,7 +73,6 @@
 また何度でも
 
 <div class="NoticeBoard">
-  <br>
   <p style="color: gray;">
     <details>
       <summary>点击展开/折叠游戏中版本被删去歌词</summary>
@@ -162,7 +161,6 @@
 不管 多少次都
 
 <div class="NoticeBoard">
-  <br>
   <p style="color: gray;">
     <details>
       <summary>点击展开/折叠游戏中版本被删去歌词</summary>
@@ -217,9 +215,10 @@
 
 ## 音乐
 
-- ![网易云音乐图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[幽体離脱 (feat. 初音ミク)（灵魂出窍） - きくお/初音ミク - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1953839808)
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[Kikuo - 星体投射 feat. 初音ミク & 初音未來](https://www.bilibili.com/video/BV1pU4y1d78T/)
+- ![网易云音乐图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/netease-cloud-music.ico)[幽体離脱 (feat. 初音ミク)（灵魂出窍） - きくお/初音ミク - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1953839808)
+- ![YouTube图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/youtube.ico)[Kikuo - 幽体離脱](https://www.youtube.com/watch?v=UHH2KKN0xoc)
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[Kikuo - 星体投射 feat. 初音ミク & 初音未來](https://www.bilibili.com/video/BV1pU4y1d78T/)
 
 ## 相关视频
 
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】幽体離脱 [SY 5.6] 谱面演示 / 星体投射](https://www.bilibili.com/video/BV1fhHAz5EdM/)
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】幽体離脱 [SY 5.6] 谱面演示 / 星体投射](https://www.bilibili.com/video/BV1fhHAz5EdM/)

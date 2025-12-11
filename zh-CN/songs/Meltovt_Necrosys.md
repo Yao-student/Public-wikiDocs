@@ -12,11 +12,11 @@
 | 曲名 | Meltovt Necrosys |
 | 别名 | MN、牛奶、原味牛奶<sup><a id="note-1" href="#ref-1">[1]</a></sup> |
 | 原创 | 联合原创（与Milthm） |
-| 曲师 | [Halv](?p=composer_list#Halv&l=zh-CN) |
+| 曲师 | [Halv](?p=composer_list&l=zh-CN#Halv) |
 | 时长 | 02:26 |
 | BPM | 210 |
 | 章节 | [Milthm](?p=chapters/Milthm&l=zh-CN) |
-| 曲绘 | [nyniazero](?p=illustrator_list#nyniazero&l=zh-CN) vs. [yx](?p=illustrator_list#yx&l=zh-CN) |
+| 曲绘 | [nyniazero](?p=illustrator_list&l=zh-CN#nyniazero) vs. [yx](?p=illustrator_list&l=zh-CN#yx) |
 
 ## 谱面信息
 
@@ -24,7 +24,7 @@
 | :-: | :-: | :-: |
 | 定数 | 10.2 | 5.3 |
 | 物量 | 891 | 633 |
-| 谱师 | [Wxy](?p=charter_list#wxy&l=zh-CN)with [Xecolost](?p=charter_list#zecolost&l=zh-CN) | [Xecolost](?p=charter_list#zecolost&l=zh-CN) |
+| 谱师 | [Wxy](?p=charter_list&l=zh-CN#wxy)with [Xecolost](?p=charter_list&l=zh-CN#zecolost) | [Xecolost](?p=charter_list&l=zh-CN#zecolost) |
 
 ## 解锁方法
 
@@ -43,6 +43,7 @@
 ## 游戏相关
 
 - 本曲与[「Elsorhg」](?p=songs/Elsorhg&l=zh-CN)虽然在[Milthm](?p=chapters/Milthm&l=zh-CN)联动章节内，但实际上为Notanote一家的原创曲。
+- 本曲还有两个Remix版本也是Notanote原创曲，分别是[「Meltovt Necrosys (Salty Salt Remix)」](?p=songs/Meltovt_Necrosys_(Salty_Salt_Remix))和[「Meltovt Necrosys (UraniumW Remix)」](?p=songs/Meltovt_Necrosys_(UraniumW_Remix)&l=zh-CN)。
 
 ## 攻略
 
@@ -56,15 +57,15 @@
 
 ## 音乐
 
-- ![网易云音乐图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[Meltovt Necrosys - Halv - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2671549237)
-- ![YouTube图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/youtube.ico)[【Official】Halv - Meltovt Necrosys【Milthm x Notanote】](https://www.youtube.com/watch?v=CHEdbzhvW-s)
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Milthm x Notanote】Halv - Meltovt Necrosys](https://www.bilibili.com/video/BV1Cr42187Lk/)
+- ![网易云音乐图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/netease-cloud-music.ico)[Meltovt Necrosys - Halv - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2671549237)
+- ![YouTube图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/youtube.ico)[【Official】Halv - Meltovt Necrosys【Milthm x Notanote】](https://www.youtube.com/watch?v=CHEdbzhvW-s)
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【Milthm x Notanote】Halv - Meltovt Necrosys](https://www.bilibili.com/video/BV1Cr42187Lk/)
 
 ## 相关视频
 
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Meltovt Necrosys [SY 10.2] 谱面演示](https://www.bilibili.com/video/BV1PrZRY2EVA/)
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Meltovt Necrosys [EZ 5.8] 谱面演示](https://www.bilibili.com/video/BV116ZRY7Eki/)
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Meltovt Necrosys [SY 10.2] 谱面演示](https://www.bilibili.com/video/BV1PrZRY2EVA/)
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Meltovt Necrosys [EZ 5.8] 谱面演示](https://www.bilibili.com/video/BV116ZRY7Eki/)
 
 ## 注释
 
-1. <a id="ref-1" href="#note-1">↑</a> “蓝莓/咸盐牛奶”指[「Meltovt Necrosys (Salty Salt Remix)」](?p=songs/Meltovt_Necrosys_(Salty_Salt_Remix)&l=zh-CN)，“香蕉牛奶”指[「Meltovt Necrosys (UraniumW Remix)」](?p=songs/Meltovt_Necrosys_(UraniumW_Remix)&l=zh-CN)。
+1. <a id="ref-1" href="&l=zh-CN#note-1">↑</a> “蓝莓/咸盐牛奶”指[「Meltovt Necrosys (Salty Salt Remix)」](?p=songs/Meltovt_Necrosys_(Salty_Salt_Remix)&l=zh-CN)，“香蕉牛奶”指[「Meltovt Necrosys (UraniumW Remix)」](?p=songs/Meltovt_Necrosys_(UraniumW_Remix)&l=zh-CN)。

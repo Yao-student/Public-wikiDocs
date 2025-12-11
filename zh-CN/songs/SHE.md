@@ -12,11 +12,11 @@
 | 曲名 | "SHE" |
 | 别名 | 无 |
 | 授权性质 | 非原创 |
-| 曲师 | <a href="?p=composer_list#ΓИ7AL&l=zh-CN">ΓИ7AL</a> |
+| 曲师 | <a href="?p=composer_list&l=zh-CN#ΓИ7AL">ΓИ7AL</a> |
 | 时长 | 02:03 |
 | BPM | 88 |
 | 章节 | [主线一·晴雨之遇](?p=chapters/Main_Story_I&l=zh-CN) |
-| 曲绘 | [故离](?p=illustrator_list#Guli&l=zh-CN) |
+| 曲绘 | [故离](?p=illustrator_list&l=zh-CN#Guli) |
 
 ## 谱面信息
 
@@ -24,11 +24,11 @@
 | :-: | :-: | :-: |
 | 定数 | 3.5 | ? |
 | 物量 | 122 | 450 |
-| 谱师 | [流星嘤](?p=charter_list#XyX&l=zh-CN) | [XyX](?p=charter_list#XyX&l=zh-CN) |
+| 谱师 | [流星嘤](?p=charter_list&l=zh-CN#XyX) | [XyX](?p=charter_list&l=zh-CN#XyX) |
 
 ## 解锁方法
 
-阅读剧情收集品[「追憶」](?p=collectible_list#Tsuioku&l=zh-CN)解锁。
+阅读剧情收集品[「追憶」](?p=collectible_list&l=zh-CN#Tsuioku)解锁。
 
 ## 更新记录
 
@@ -78,7 +78,7 @@ And not have to remember you never belonged to me
 
 ### 翻译
 
-- 翻译：[大松_Dason](?p=charter_list#Dason&l=zh-CN)
+- 翻译：[大松_Dason](?p=charter_list&l=zh-CN#Dason)
 
 最近我总是迷失方向<br>
 我知道 我知道 我知道<br>
@@ -98,9 +98,9 @@ And not have to remember you never belonged to me
 
 ## 音乐
 
-- ![网易云音乐图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)["She" - ΓИ7AL - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1887473162)
+- ![网易云音乐图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/netease-cloud-music.ico)["She" - ΓИ7AL - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1887473162)
 
 ## 相关视频
 
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】"SHE" [SY 3.5] 谱面演示](https://www.bilibili.com/video/BV16igZzgEif/)
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote/移动端测试】"SHE" SY4 All Perfect](https://www.bilibili.com/video/BV1pP4wePEwu/)（玩家：[CMR_音律浪](https://space.bilibili.com/549751251/)）
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】"SHE" [SY 3.5] 谱面演示](https://www.bilibili.com/video/BV16igZzgEif/)
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【Notanote/移动端测试】"SHE" SY4 All Perfect](https://www.bilibili.com/video/BV1pP4wePEwu/)（玩家：[CMR_音律浪](https://space.bilibili.com/549751251/)）

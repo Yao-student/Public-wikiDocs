@@ -12,11 +12,11 @@
 | 曲名 | Break Through Myself |
 | 别名 | BTM |
 | 授权性质 | 非原创 |
-| 曲师 | [DJ Myosuke](?p=composer_list#DJ_Myosuke&l=zh-CN) & [Laur](?p=composer_list#Laur&l=zh-CN) feat. Risa Yuzuki |
+| 曲师 | [DJ Myosuke](?p=composer_list&l=zh-CN#DJ_Myosuke) & [Laur](?p=composer_list&l=zh-CN#Laur) feat. Risa Yuzuki |
 | 时长 | 02:25 |
 | BPM | 200 |
 | 章节 | [单曲](?p=chapters/Singles&l=zh-CN) |
-| 曲绘 | [喑暗](?p=illustrator_list#Yin'an&l=zh-CN) |
+| 曲绘 | [喑暗](?p=illustrator_list&l=zh-CN#Yin'an) |
 
 ## 谱面信息
 
@@ -24,7 +24,7 @@
 | :-: | :-: | :-: |
 | 难度 | 9.6 | <p style="color: gray;">5.4</p> |
 | 物量 | 999 | <p style="color: gray;">747</p> |
-| 谱师 | [嘤箱](?p=charter_list#XyX&l=zh-CN) & [qm](?p=charter_list#qm&l=zh-CN) & [Arthur](?p=charter_list#Arthur&l=zh-CN) ft. [羽毛球awa](?p=charter_list#Greenball233&l=zh-CN) | <p style="color: gray;">[嘤箱](?p=charter_list#XyX&l=zh-CN) & [qm](?p=charter_list#qm&l=zh-CN) & [Arthur](?p=charter_list#Arthur&l=zh-CN) (Modified by [Rea-cy](?p=charter_list#Rea_cy&l=zh-CN))</p> |
+| 谱师 | [嘤箱](?p=charter_list&l=zh-CN#XyX) & [qm](?p=charter_list&l=zh-CN#qm) & [Arthur](?p=charter_list&l=zh-CN#Arthur) ft. [羽毛球awa](?p=charter_list&l=zh-CN#Greenball233) | <p style="color: gray;">[嘤箱](?p=charter_list&l=zh-CN#XyX) & [qm](?p=charter_list&l=zh-CN#qm) & [Arthur](?p=charter_list&l=zh-CN#Arthur) (Modified by [Rea-cy](?p=charter_list&l=zh-CN#Rea_cy))</p> |
 
 ## 解锁方法
 
@@ -131,11 +131,11 @@ Make a stand against
 
 ## 音乐
 
-- ![网易云音乐图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[Break Through Myself (feat. Risa Yuzuki) [Short Version] - DJ Myosuke/Laur/Risa Yuzuki - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1847176520)
-- ![YouTube图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/youtube.ico)[DJ Myosuke & Laur - Break Through Myself feat. Risa Yuzuki (Official Music Video)](https://www.youtube.com/watch?v=9D8NJxSMHrk)
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[DJ Myosuke & Laur - Break Through Myself feat. Risa Yuzuki](https://www.bilibili.com/video/BV1xK4y1R76F/)
+- ![网易云音乐图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/netease-cloud-music.ico)[Break Through Myself (feat. Risa Yuzuki) [Short Version] - DJ Myosuke/Laur/Risa Yuzuki - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1847176520)
+- ![YouTube图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/youtube.ico)[DJ Myosuke & Laur - Break Through Myself feat. Risa Yuzuki (Official Music Video)](https://www.youtube.com/watch?v=9D8NJxSMHrk)
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[DJ Myosuke & Laur - Break Through Myself feat. Risa Yuzuki](https://www.bilibili.com/video/BV1xK4y1R76F/)
 
 ## 相关视频
 
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Break Through Myself [SY 9.6] 谱面演示](https://www.bilibili.com/video/BV117KTeKE9H/)
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Break Through Myself [EZ 5.4] 谱面演示](https://www.bilibili.com/video/BV117KTeKERM/)
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Break Through Myself [SY 9.6] 谱面演示](https://www.bilibili.com/video/BV117KTeKE9H/)
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Break Through Myself [EZ 5.4] 谱面演示](https://www.bilibili.com/video/BV117KTeKERM/)

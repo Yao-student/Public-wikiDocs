@@ -12,11 +12,11 @@
 | 曲名 | Lapis |
 | 别名 | 苍星石 |
 | 授权性质 | 非原创 |
-| 曲师 | [SHIKI](?p=composer_list#SHIKI&l=zh-CN) |
+| 曲师 | [SHIKI](?p=composer_list&l=zh-CN#SHIKI) |
 | 时长 | 02:57 |
 | BPM | 146 |
 | 章节 | [单曲](?p=chapters/Singles&l=zh-CN) |
-| 曲绘 | [半界](?p=illustrator_list#Semiryoiki&l=zh-CN) |
+| 曲绘 | [半界](?p=illustrator_list&l=zh-CN#Semiryoiki) |
 
 ## 谱面信息
 
@@ -24,7 +24,7 @@
 | :-: | :-: | :-: |
 | 难度 | 8.6 | 2.5 |
 | 物量 | - | - |
-| 谱师 | [Lei](?p=charter_list#Lei_motife&l=zh-CN) & [xyx](?p=charter_list#XyX&l=zh-CN) feat. [AwlF](?p=charter_list#AwlF&l=zh-CN) | [AwlF](?p=charter_list#AwlF&l=zh-CN) feat. [Lei](?p=charter_list#Lei_motife&l=zh-CN) & [xyx](?p=charter_list#XyX&l=zh-CN) |
+| 谱师 | [Lei](?p=charter_list&l=zh-CN#Lei_motife) & [xyx](?p=charter_list&l=zh-CN#XyX) feat. [AwlF](?p=charter_list&l=zh-CN#AwlF) | [AwlF](?p=charter_list&l=zh-CN#AwlF) feat. [Lei](?p=charter_list&l=zh-CN#Lei_motife) & [xyx](?p=charter_list&l=zh-CN#XyX) |
 
 ## 解锁方法
 
@@ -53,11 +53,11 @@
 
 ## 音乐
 
-- ![网易云音乐图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[Lapis（苍星石） - SHIKI - 单曲 - 网易云音乐](https://music.163.com/#/song?id=22792729)
-- ![YouTube图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/youtube.ico)[SHIKI - Lapis](https://www.youtube.com/watch?v=cx2FMTxQ98A)
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[Lapis / SHIKI┃BMS - BOF2008【BGA】](https://www.bilibili.com/video/BV1NU4y1W78v/)
+- ![网易云音乐图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/netease-cloud-music.ico)[Lapis（苍星石） - SHIKI - 单曲 - 网易云音乐](https://music.163.com/#/song?id=22792729)
+- ![YouTube图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/youtube.ico)[SHIKI - Lapis](https://www.youtube.com/watch?v=cx2FMTxQ98A)
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[Lapis / SHIKI┃BMS - BOF2008【BGA】](https://www.bilibili.com/video/BV1NU4y1W78v/)
 
 ## 相关视频
 
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Lapis [SY 8.6] 谱面演示](https://www.bilibili.com/video/BV1nrkXBWEe6/)
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Lapis [EZ 2.5] 谱面演示](https://www.bilibili.com/video/BV16kkXBXEJB/)
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Lapis [SY 8.6] 谱面演示](https://www.bilibili.com/video/BV1nrkXBWEe6/)
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Lapis [EZ 2.5] 谱面演示](https://www.bilibili.com/video/BV16kkXBXEJB/)

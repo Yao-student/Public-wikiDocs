@@ -12,11 +12,11 @@
 | 曲名 | 异闻 |
 | 别名 | 无 |
 | 授权性质 | 原创 |
-| 曲师 | [姜米條](?p=composer_list#Jiangmitiao&l=zh-CN) |
+| 曲师 | [姜米條](?p=composer_list&l=zh-CN#Jiangmitiao) |
 | 时长 | 02:28 |
 | BPM | 163 |
 | 章节 | [主线二·无尽回廊](?p=chapters/Main_Story_II&l=zh-CN) |
-| 曲绘 | [瓶装可乐](?p=illustrator_list#BottledSodaa&l=zh-CN) |
+| 曲绘 | [瓶装可乐](?p=illustrator_list&l=zh-CN#BottledSodaa) |
 
 ## 谱面信息
 
@@ -24,7 +24,7 @@
 | :-: | :-: |
 | 定数 | 5.0 |
 | 物量 | 190 |
-| 谱师 | [小嘤箱](?p=charter_list#XyX&l=zh-CN) |
+| 谱师 | [小嘤箱](?p=charter_list&l=zh-CN#XyX) |
 
 ## 解锁方法
 
@@ -73,9 +73,9 @@
 
 ## 音乐
 
-- ![网易云音乐图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[异闻 - 姜米條/darkxixin/Notanote - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2738692773)
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote原创曲】异闻 - 姜米條](https://www.bilibili.com/video/BV1GEh2z1Egs/)
+- ![网易云音乐图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/netease-cloud-music.ico)[异闻 - 姜米條/darkxixin/Notanote - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2738692773)
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【Notanote原创曲】异闻 - 姜米條](https://www.bilibili.com/video/BV1GEh2z1Egs/)
 
 ## 相关视频
 
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】异闻 [SY 5.0] 谱面演示](https://www.bilibili.com/video/BV1AAeqz1Eyv/)
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】异闻 [SY 5.0] 谱面演示](https://www.bilibili.com/video/BV1AAeqz1Eyv/)

@@ -1,6 +1,6 @@
 # 关于
 
-本Wiki为Notanote的官方Wiki，由Notanote工作人员[Sky](https://carlsky.cn/)与[大松_Dason](?p=charter_list#Dason&l=zh-CN)负责。
+本Wiki为Notanote的官方Wiki，由Notanote工作人员[Sky](https://carlsky.cn/)与[大松_Dason](?p=charter_list&l=zh-CN#Dason)负责。
 
 本Wiki的内容存储于GitHub（[仓库链接](https://github.com/Notanote-Program/Public-wikiDocs)），条目使用Markdown编写。
 

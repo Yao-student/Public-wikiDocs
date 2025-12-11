@@ -14,7 +14,7 @@
 | 曲名 | Crystal Ember |
 | 别名 | 无 |
 | 授权性质 | 原创 |
-| 曲师 | [Ascellia Mio](?p=composer_list#Ascellia_Mio&l=zh-CN) |
+| 曲师 | [Ascellia Mio](?p=composer_list&l=zh-CN#Ascellia_Mio) |
 | 时长 | 03:17 |
 | BPM | 135 |
 | 章节 | - |
@@ -34,7 +34,7 @@
 
 ## 游戏相关
 
-- 本曲收录于专辑[星律回溯 Star Rhythm Collection Vol.1](https://www.bilibili.com/video/BV1dEGvzgEgT/)与[Celestial Evasion “類星逃逸”](https://music.163.com/#/album?id=274543457)中，同属于本专辑的[「i」](?p=songs/i&l=zh-CN)与[「meteor();」](?p=songs/meteor();&l=zh-CN)也是Notanote原创曲。
+- 本曲收录于专辑[星律回溯 Star Rhythm Collection Vol.1](https://www.bilibili.com/video/BV1dEGvzgEgT/)与[Celestial Evasion “類星逃逸”](https://music.163.com/&l=zh-CN#/album?id=274543457)中，同属于本专辑的[「i」](?p=songs/i&l=zh-CN)与[「meteor();」](?p=songs/meteor();&l=zh-CN)也是Notanote原创曲。
 
 ## 攻略
 
@@ -42,7 +42,7 @@
 
 ## 音乐
 
-- ![网易云音乐图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[Crystal Ember - Ascellia Mio/Hilarity Leap Records/维度坍缩/逃离记录Exit Records/Notanote - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2713429542)
+- ![网易云音乐图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/netease-cloud-music.ico)[Crystal Ember - Ascellia Mio/Hilarity Leap Records/维度坍缩/逃离记录Exit Records/Notanote - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2713429542)
 
 ## 相关视频
 

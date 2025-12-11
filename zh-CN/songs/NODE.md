@@ -14,11 +14,11 @@
 | 曲名 | ИÖDΣ |
 | 别名 | NODE |
 | 授权性质 | 原创 |
-| 曲师 | [I](?p=composer_list#ILusMin&l=zh-CN)[C](?p=composer_list#CNHKSS&l=zh-CN)[B](?p=composer_list#Brycillum&l=zh-CN)[M](?p=composer_list#NonNam&l=zh-CN) |
+| 曲师 | [I](?p=composer_list&l=zh-CN#ILusMin)[C](?p=composer_list&l=zh-CN#CNHKSS)[B](?p=composer_list&l=zh-CN#Brycillum)[M](?p=composer_list&l=zh-CN#NonNam) |
 | 时长 | 02:57 |
 | BPM | 200 |
 | 章节 | [单曲](?p=chapters/Singles&l=zh-CN) |
-| 曲绘 | [JQ.Professor](?p=illustrator_list#JQ.Professor&l=zh-CN) & [Panthullu](?p=illustrator_list#Panthullu&l=zh-CN) |
+| 曲绘 | （画师名义未知）[JQ.Professor](?p=illustrator_list&l=zh-CN#JQ.Professor) & [Panthullu](?p=illustrator_list&l=zh-CN#Panthullu) |
 
 ## 谱面信息
 
@@ -38,6 +38,7 @@
 - 本曲在游戏内提供了无人声版本音源选项。
 - 本曲公于2025年7月16日公布于哔哩哔哩官号。
 - 本曲是Notanote第一个拥有BGA的原创曲。
+- 哔哩哔哩官号在2025年6月15日发布了两条黑屏视频，标题都只有多个下划线，背景音乐分别透露了本曲的两段不同内容。[第一条视频](https://www.bilibili.com/video/BV1FxMtzUEzZ/)标题为「_____」（五个下划线），[第二条视频](https://www.bilibili.com/video/BV17jMhzHEtV/)标题为「____」（四个下划线）。两个视频已删除，但是有[Notanote官方QQ群1群](https://qm.qq.com/q/fGXBLixNe0)上转发视频链接的两条消息（[消息1](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/NODE_leak1.png)、[消息2](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/NODE_leak2.png)）留存。
 
 ## 攻略
 
@@ -86,8 +87,8 @@
 
 ## 音乐
 
-- ![网易云音乐图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[ИÖDΣ - ILusMin/CNHKSS/ブリシルム★/猎影双煞NonNam/Cher雪小小/Notanote/Sakura records official樱花记录 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2726207063)
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[[Notanote原创曲] ИÖDΣ - ICBM](https://www.bilibili.com/video/BV1L931zPEZs/)
+- ![网易云音乐图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/netease-cloud-music.ico)[ИÖDΣ - ILusMin/CNHKSS/ブリシルム★/猎影双煞NonNam/Cher雪小小/Notanote/Sakura records official樱花记录 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2726207063)
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[[Notanote原创曲] ИÖDΣ - ICBM](https://www.bilibili.com/video/BV1L931zPEZs/)
 
 ## 相关视频
 

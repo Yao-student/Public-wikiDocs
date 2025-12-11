@@ -12,11 +12,11 @@
 | 曲名 | Eltaw |
 | 别名 | 无 |
 | 授权性质 | 非原创 |
-| 曲师 | [Fl00t](?p=composer_list#Fl00t&l=zh-CN) |
+| 曲师 | [Fl00t](?p=composer_list&l=zh-CN#Fl00t) |
 | 时长 | 02:26 |
 | BPM | 193 |
 | 章节 | [主线一·晴雨之遇](?p=chapters/Main_Story_I&l=zh-CN) |
-| 曲绘 | [Fl00t](?p=illustrator_list#Fl00t&l=zh-CN) |
+| 曲绘 | [Fl00t](?p=illustrator_list&l=zh-CN#Fl00t) |
 
 ## 谱面信息
 
@@ -24,11 +24,11 @@
 | :-: | :-: | :-: | :-: |
 | 定数 | 8.3 | 4.5 | 4.0 |
 | 物量 | 730 | 553 | 468 |
-| 谱师 | [嘤光棒](?p=charter_list#XyX&l=zh-CN) feat. [qm](?p=charter_list#qm&l=zh-CN) | [嘤光棒](?p=charter_list#XyX&l=zh-CN) ([活性氮](?p=charter_list#HXDan&l=zh-CN) modified) | [Arthur](?p=charter_list#Arthur&l=zh-CN) |
+| 谱师 | [嘤光棒](?p=charter_list&l=zh-CN#XyX) feat. [qm](?p=charter_list&l=zh-CN#qm) | [嘤光棒](?p=charter_list&l=zh-CN#XyX) ([活性氮](?p=charter_list&l=zh-CN#HXDan) modified) | [Arthur](?p=charter_list&l=zh-CN#Arthur) |
 
 ## 解锁方法
 
-阅读剧情收集品[「Lockdown (Tatsunoshin VIP)」](?p=collectible_list#Lockdown_(Tatsunoshin_VIP)&l=zh-CN)解锁。
+阅读剧情收集品[「Lockdown (Tatsunoshin VIP)」](?p=collectible_list&l=zh-CN#Lockdown_(Tatsunoshin_VIP))解锁。
 
 ## 更新记录
 
@@ -78,16 +78,16 @@ Eltaw
 
 ## 音乐
 
-- ![网易云音乐图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[Eltaw - Fl00t - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1924765006)
-- ![YouTube图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/youtube.ico)[Fl00t - Eltaw](https://www.youtube.com/watch?v=tgH4FxutyXc)
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[Fl00t - Eltaw](https://www.bilibili.com/video/BV1Fb4y117BW/)
+- ![网易云音乐图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/netease-cloud-music.ico)[Eltaw - Fl00t - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1924765006)
+- ![YouTube图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/youtube.ico)[Fl00t - Eltaw](https://www.youtube.com/watch?v=tgH4FxutyXc)
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[Fl00t - Eltaw](https://www.bilibili.com/video/BV1Fb4y117BW/)
 
 ## 相关视频
 
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Eltaw [SY 8.3] 谱面演示](https://www.bilibili.com/video/BV1WtgZz1EDU/)
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Eltaw [EZ 4.5] 谱面演示](https://www.bilibili.com/video/BV1WtgZz1E6n/)
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Eltaw [TL 4.0] 谱面演示](https://www.bilibili.com/video/BV1khgZzCEZ8/)
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【内测首杀】Eltaw - Notanote](https://www.bilibili.com/video/BV1fX4y177be/)（玩家：[爬爬](https://space.bilibili.com/296690663/)）
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Eltaw [SY 8.3] 谱面演示](https://www.bilibili.com/video/BV1WtgZz1EDU/)
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Eltaw [EZ 4.5] 谱面演示](https://www.bilibili.com/video/BV1WtgZz1E6n/)
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Eltaw [TL 4.0] 谱面演示](https://www.bilibili.com/video/BV1khgZzCEZ8/)
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【内测首杀】Eltaw - Notanote](https://www.bilibili.com/video/BV1fX4y177be/)（玩家：[爬爬](https://space.bilibili.com/296690663/)）
 
 ## 注释
 

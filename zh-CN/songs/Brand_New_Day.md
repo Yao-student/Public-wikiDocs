@@ -12,11 +12,11 @@
 | 曲名 | Brand New Day |
 | 别名 | BND |
 | 授权性质 | 原创 |
-| 曲师 | [Bcc](?p=composerList#Bcc&l=zh-CN) & [猎影双煞](?p=composerList#NonNam&l=zh-CN) & [FrostOwl](?p=composerList#FrostOwl&l=zh-CN) ft. 诺塔 & 赫瑞 |
+| 曲师 | [Bcc](?p=composer_list&l=zh-CN#Bcc) & [猎影双煞](?p=composer_list&l=zh-CN#NonNam) & [FrostOwl](?p=composer_list&l=zh-CN#FrostOwl) ft. 诺塔 & 赫瑞 |
 | 时长 | 03:00 |
 | BPM | 128 |
 | 章节 | [支线一·花火之夏](?p=chapters/Side_Story_I&l=zh-CN) |
-| 曲绘 | [咩咩](?p=illustrator_list#Miemie&l=zh-CN) |
+| 曲绘 | [咩咩](?p=illustrator_list&l=zh-CN#Miemie) |
 
 ## 谱面信息
 
@@ -24,11 +24,11 @@
 | :-: | :-: |
 | 定数 | 5.1 |
 | 物量 | 701 |
-| 谱师 | [Yx](?p=charter_list#XyX&l=zh-CN) vs. [Qm](?p=charter_list#qm&l=zh-CN) feat. [Lei](?p=charter_list#Lei_motife&l=zh-CN) |
+| 谱师 | [Yx](?p=charter_list&l=zh-CN#XyX) vs. [Qm](?p=charter_list&l=zh-CN#qm) feat. [Lei](?p=charter_list&l=zh-CN#Lei_motife) |
 
 ## 解锁方法
 
-阅读剧情收集品[「梦的彼岸」](?p=collectible_list#Meng_de_Bi'an&l=zh-CN)解锁。
+阅读剧情收集品[「梦的彼岸」](?p=collectible_list&l=zh-CN#Meng_de_Bi'an)解锁。
 
 ## 更新记录
 
@@ -103,8 +103,8 @@
 
 ## 音乐
 
-- ![网易云音乐图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[Brand New Day - 猎影双煞NonNam/FrostOwl - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2079106190)
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【新音游 Notanote / Ace Studio】Brand New Day [ft. 赫瑞 & 诺塔]](https://www.bilibili.com/video/BV1jp4y177Bo/)
+- ![网易云音乐图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/netease-cloud-music.ico)[Brand New Day - 猎影双煞NonNam/FrostOwl - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2079106190)
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【新音游 Notanote / Ace Studio】Brand New Day [ft. 赫瑞 & 诺塔]](https://www.bilibili.com/video/BV1jp4y177Bo/)
 
 ## 相关视频
 

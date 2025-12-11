@@ -12,11 +12,11 @@
 | 曲名 | ΩZСÜRIDΛD |
 | 别名 | 瓜牛、OZC |
 | 授权性质 | 原创 |
-| 曲师 | [瓜牛女王 vs. 瓜牛女王の夫](?p=composer_list#NonNam&l=zh-CN) feat. SOLARIA |
+| 曲师 | [瓜牛女王 vs. 瓜牛女王の夫](?p=composer_list&l=zh-CN#NonNam) feat. SOLARIA |
 | 时长 | 02:44 |
 | BPM | 190 |
 | 章节 | [主线二·无尽回廊](?p=chapters/Main_Story_II&l=zh-CN) |
-| 曲绘 | [PΩLIΛNYΛΩI](?p=illustrator_list#PoliaNyaoi&l=zh-CN) feat. [KΩÜRIE](?p=illustrator_list#kourie&l=zh-CN) |
+| 曲绘 | [PΩLIΛNYΛΩI](?p=illustrator_list&l=zh-CN#PoliaNyaoi) feat. [KΩÜRIE](?p=illustrator_list&l=zh-CN#kourie) |
 
 ## 谱面信息
 
@@ -24,11 +24,11 @@
 | :-: | :-: | :-: | :-: |
 | 定数 | 9.2 | 2.5 | 10.8 |
 | 物量 | 1159 | 1120 | 1666 |
-| 谱师 | [小嘤箱](?p=charter_list#XyX&l=zh-CN) | [小嘤箱](?p=charter_list#XyX&l=zh-CN) | [Nimbus](?p=charter_list#XyX&l=zh-CN) about [Nightmare](?p=charter_list#wxy&l=zh-CN) |
+| 谱师 | [小嘤箱](?p=charter_list&l=zh-CN#XyX) | [小嘤箱](?p=charter_list&l=zh-CN#XyX) | [Nimbus](?p=charter_list&l=zh-CN#XyX) about [Nightmare](?p=charter_list&l=zh-CN#wxy) |
 
 ## 解锁方法
 
-游玩[「Moondread」](?p=songs/Moondread&l=zh-CN)后。此时主线二除[「End Time」](?p=songs/End_Time&l=zh-CN)与「Moondread」之外的曲目被隐藏，此时再次游玩「End Time」，曲名会变成「End Time?」并且难度显示为?。游玩结束后主线二除「ΩZСÜRIDΛD」之外的曲目被隐藏阅读剧情收集品[「End Time?」](?p=collectible_list#End_Time?&l=zh-CN)解锁。
+游玩[「Moondread」](?p=songs/Moondread&l=zh-CN)后。此时主线二除[「End Time」](?p=songs/End_Time&l=zh-CN)与「Moondread」之外的曲目被隐藏，此时再次游玩「End Time」，曲名会变成「End Time?」并且难度显示为?。游玩结束后主线二除「ΩZСÜRIDΛD」之外的曲目被隐藏阅读剧情收集品[「End Time?」](?p=collectible_list&l=zh-CN#End_Time?)解锁。
 
 ## 更新记录
 
@@ -61,15 +61,15 @@
 
 ## 音乐
 
-- ![网易云音乐图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[ΩZСÜRIDΛD - 猎影双煞NonNam/Notanote - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2737848248)
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote原创曲】主线二最终曲：ΩZСÜRIDΛD - 瓜牛女王 vs. 瓜牛女王の夫 feat. SOLARIA](https://www.bilibili.com/video/BV15yeBziEH7/)
+- ![网易云音乐图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/netease-cloud-music.ico)[ΩZСÜRIDΛD - 猎影双煞NonNam/Notanote - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2737848248)
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【Notanote原创曲】主线二最终曲：ΩZСÜRIDΛD - 瓜牛女王 vs. 瓜牛女王の夫 feat. SOLARIA](https://www.bilibili.com/video/BV15yeBziEH7/)
 
 ## 相关视频
 
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】ΩZСÜRIDΛD [SY 9.3] 谱面演示 / 瓜牛 / OZCURIDAD](https://www.bilibili.com/video/BV1aHJ9ziEWk/)
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】ΩZСÜRIDΛD [EZ 2.5] 谱面演示 / 瓜牛 / OZCURIDAD](https://www.bilibili.com/video/BV15keizFEQz/)
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】ΩZСÜRIDΛD [NT 10.8] 谱面演示 / 瓜牛 / OZCURIDAD](https://www.bilibili.com/video/BV1aAeizdEQo/)
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote/手法教学】全新第二章最难魔王曲 ΩZСÜRIDΛD [NT 10+] All Perfect Rank X！读谱拆谱手顺背谱节奏地狱　瓜牛](https://www.bilibili.com/video/BV1chebzsED5/)（玩家：[九段不合格](https://space.bilibili.com/1633653929/)）
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】ΩZСÜRIDΛD [SY 9.3] 谱面演示 / 瓜牛 / OZCURIDAD](https://www.bilibili.com/video/BV1aHJ9ziEWk/)
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】ΩZСÜRIDΛD [EZ 2.5] 谱面演示 / 瓜牛 / OZCURIDAD](https://www.bilibili.com/video/BV15keizFEQz/)
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】ΩZСÜRIDΛD [NT 10.8] 谱面演示 / 瓜牛 / OZCURIDAD](https://www.bilibili.com/video/BV1aAeizdEQo/)
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【Notanote/手法教学】全新第二章最难魔王曲 ΩZСÜRIDΛD [NT 10+] All Perfect Rank X！读谱拆谱手顺背谱节奏地狱　瓜牛](https://www.bilibili.com/video/BV1chebzsED5/)（玩家：[九段不合格](https://space.bilibili.com/1633653929/)）
 
 ## 注释
 

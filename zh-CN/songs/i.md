@@ -12,11 +12,11 @@
 | 曲名 | i |
 | 别名 | 无 |
 | 授权性质 | 原创 |
-| 曲师 | [Ωμεγα](?p=composer_list#Omega&l=zh-CN) |
+| 曲师 | [Ωμεγα](?p=composer_list&l=zh-CN#Omega) |
 | 时长 | 02:25 |
 | BPM | 220 |
 | 章节 | [主线二·无尽回廊](?p=chapters/Main_Story_II&l=zh-CN) |
-| 曲绘 | [they](?p=illustrator_list#they&l=zh-CN) |
+| 曲绘 | [they](?p=illustrator_list&l=zh-CN#they) |
 
 ## 谱面信息
 
@@ -28,7 +28,7 @@
 
 ## 解锁方法
 
-阅读剧情收集品[「Daughter of Daedalus」](?p=collectible_list#Daughter_of_Daedalus&l=zh-CN)解锁。
+阅读剧情收集品[「Daughter of Daedalus」](?p=collectible_list&l=zh-CN#Daughter_of_Daedalus)解锁。
 
 ## 更新记录
 
@@ -41,7 +41,7 @@
 
 ## 游戏相关
 
-- 本曲收录于专辑[星律回溯 Star Rhythm Collection Vol.1](https://www.bilibili.com/video/BV1dEGvzgEgT/)与[Celestial Evasion “類星逃逸”](https://music.163.com/#/album?id=274543457)中，同属于本专辑的[「Crystal Ember」](?p=songs/Crystal_Ember&l=zh-CN)与[「meteor();」](?p=songs/meteor();&l=zh-CN)也是Notanote原创曲。
+- 本曲收录于专辑[星律回溯 Star Rhythm Collection Vol.1](https://www.bilibili.com/video/BV1dEGvzgEgT/)与[Celestial Evasion “類星逃逸”](https://music.163.com/&l=zh-CN#/album?id=274543457)中，同属于本专辑的[「Crystal Ember」](?p=songs/Crystal_Ember)与[「meteor();」](?p=songs/meteor();&l=zh-CN)也是Notanote原创曲。
 - 本曲曲名指数学中的虚数单位$i$。
 - 本曲的SP难度原定于v2.6.0上线，但是不小心于v2.5.1提前上线。
 - 本曲的SP难度上线之初谱面延迟错误且相差很大，后于v2.6.0被修正。
@@ -58,14 +58,14 @@
 
 ## 音乐
 
-- ![网易云音乐图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[i - Ωμεγα - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2717010221)
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote原创曲】i - Ωμεγα](https://www.bilibili.com/video/BV1tuhmz6ETF/)
+- ![网易云音乐图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/netease-cloud-music.ico)[i - Ωμεγα - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2717010221)
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【Notanote原创曲】i - Ωμεγα](https://www.bilibili.com/video/BV1tuhmz6ETF/)
 
 ## 相关视频
 
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】i [SY 6.7] 谱面演示](https://www.bilibili.com/video/BV1ANeqz5EGs/)
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】i [EZ 2.5] 谱面演示](https://www.bilibili.com/video/BV17ieizPEeW/)
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】i [SY 6.7] 谱面演示](https://www.bilibili.com/video/BV1ANeqz5EGs/)
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】i [EZ 2.5] 谱面演示](https://www.bilibili.com/video/BV17ieizPEeW/)
 
 ## 注释
 
-1. <a id="ref-1" href="#note-1">↑</a> 实际全难度谱师为[福luuuu](?p=charter_list#Fulu&l=zh-CN)与[舞仙翼](?p=charter_list#wxy&l=zh-CN)。
+1. <a id="ref-1" href="&l=zh-CN#note-1">↑</a> 实际全难度谱师为[福luuuu](?p=charter_list#Fulu)与[舞仙翼](?p=charter_list&l=zh-CN#wxy)。

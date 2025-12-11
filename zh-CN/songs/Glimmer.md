@@ -12,11 +12,11 @@
 | 曲名 | Glimmer |
 | 别名 | 无 |
 | 授权性质 | 原创 |
-| 曲师 | [Akiuta](?p=composer_list#Akiuta&l=zh-CN) |
+| 曲师 | [Akiuta](?p=composer_list&l=zh-CN#Akiuta) |
 | 时长 | 02:33 |
 | BPM | 160 |
 | 章节 | [单曲](?p=chapters/Singles&l=zh-CN) |
-| 曲绘 | [Ameru_nya](?p=illustrator_list#Ameru_nya&l=zh-CN) |
+| 曲绘 | [Ameru_nya](?p=illustrator_list&l=zh-CN#Ameru_nya) |
 
 ## 谱面信息
 
@@ -24,7 +24,7 @@
 | :-: | :-: |
 | 难度 | 5.3 |
 | 物量 | 320 |
-| 谱师 | [zecolost](?p=charter_list#zecolost&l=zh-CN) |
+| 谱师 | [zecolost](?p=charter_list&l=zh-CN#zecolost) |
 
 ## 解锁方法
 
@@ -59,7 +59,6 @@
 心中的灯塔 照亮那漫长的前方
 
 <div class="NoticeBoard">
-  <br>
   <p style="color: gray;">
     <details>
       <summary>点击展开/折叠游戏中版本被删去歌词</summary>
@@ -88,12 +87,12 @@
 
 ## 音乐
 
-- ![网易云音乐图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[Glimmer - Akiuta - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2601368621)<sup><a id="note-1.1" href="#ref-1">[1]</a></sup>
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[Glimmer - Sea of Flowers EP -](https://www.bilibili.com/video/BV1AS411A7om/)<sup><a id="note-1.2" href="#ref-1">[1]</a></sup>
+- ![网易云音乐图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/netease-cloud-music.ico)[Glimmer - Akiuta - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2601368621)<sup><a id="note-1.1" href="#ref-1">[1]</a></sup>
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[Glimmer - Sea of Flowers EP -](https://www.bilibili.com/video/BV1AS411A7om/)<sup><a id="note-1.2" href="#ref-1">[1]</a></sup>
 
 ## 相关视频
 
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Glimmer [SY 5.3] 谱面演示](https://www.bilibili.com/video/BV1QGmPB2EGA/)
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Glimmer [SY 5.3] 谱面演示](https://www.bilibili.com/video/BV1QGmPB2EGA/)
 
 ## 注释
 

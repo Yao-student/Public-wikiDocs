@@ -12,11 +12,11 @@
 | 曲名 | Aether Ingita! |
 | 别名 | AI |
 | 授权性质 | 原创 |
-| 曲师 | [ZAWA](?p=composer_list#ZAWA&l=zh-CN) |
+| 曲师 | [ZAWA](?p=composer_list&l=zh-CN#ZAWA) |
 | 时长 | 03:24 |
 | BPM | 202.4 |
 | 章节 | [Soul Note](?p=chapters/Soul_Notes&l=zh-CN) |
-| 曲绘 | [// 半界](?p=illustrator_list#Semiryoiki&l=zh-CN) |
+| 曲绘 | // [半界](?p=illustrator_list&l=zh-CN#Semiryoiki) |
 
 ## 谱面信息
 
@@ -24,7 +24,7 @@
 | :-: | :-: | :-: |
 | 定数 | 10.5 | 5.5 |
 | 物量 | 1315 | 844 |
-| 谱师 | [Nota](?p=charter_list#Fulu&l=zh-CN)[note](?p=charter_list#qm&l=zh-CN) [Char](?p=charter_list#XyX&l=zh-CN)[ting](?p=charter_list#zecolost&l=zh-CN) [Te](?p=charter_list#wxy&l=zh-CN)[am](?p=charter_list#Arthur&l=zh-CN) | [Nota](?p=charter_list#Fulu&l=zh-CN)[note](?p=charter_list#qm&l=zh-CN) [Char](?p=charter_list#XyX&l=zh-CN)[ting](?p=charter_list#zecolost&l=zh-CN) [Te](?p=charter_list#wxy&l=zh-CN)[am](?p=charter_list#Arthur&l=zh-CN) |
+| 谱师 | [Nota](?p=charter_list&l=zh-CN#Fulu)[note](?p=charter_list&l=zh-CN#qm) [Char](?p=charter_list&l=zh-CN#XyX)[ting](?p=charter_list&l=zh-CN#zecolost) [Te](?p=charter_list&l=zh-CN#wxy)[am](?p=charter_list&l=zh-CN#Arthur) | [Nota](?p=charter_list&l=zh-CN#Fulu)[note](?p=charter_list&l=zh-CN#qm) [Char](?p=charter_list&l=zh-CN#XyX)[ting](?p=charter_list&l=zh-CN#zecolost) [Te](?p=charter_list&l=zh-CN#wxy)[am](?p=charter_list&l=zh-CN#Arthur) |
 
 ## 解锁方法
 
@@ -68,11 +68,11 @@
 
 ## 音乐
 
-- ![网易云音乐图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[Aether Ingita!!!!! - ZAWA/Notanote - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2714634340)
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote x Soul Notes】Aether Ingita! - ZAWA](https://www.bilibili.com/video/BV1uFPCeqEJD/)
+- ![网易云音乐图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/netease-cloud-music.ico)[Aether Ingita!!!!! - ZAWA/Notanote - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2714634340)
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【Notanote x Soul Notes】Aether Ingita! - ZAWA](https://www.bilibili.com/video/BV1uFPCeqEJD/)
 
 ## 相关视频
 
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Aether Ingita! [SY 10.5] 谱面演示](https://www.bilibili.com/video/BV1wyZRYyEUF/)
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Aether Ingita! [EZ 5.5] 谱面演示](https://www.bilibili.com/video/BV1S6GzzrEp7/)
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote/全球首杀/屏元】Notanote第二难曲 Aether Ingita! [SY 10] All Perfect Rank X！](https://www.bilibili.com/video/BV1zMhNz3E5M/)（玩家：[九段不合格](https://space.bilibili.com/1633653929/)）
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Aether Ingita! [SY 10.5] 谱面演示](https://www.bilibili.com/video/BV1wyZRYyEUF/)
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Aether Ingita! [EZ 5.5] 谱面演示](https://www.bilibili.com/video/BV1S6GzzrEp7/)
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【Notanote/全球首杀/屏元】Notanote第二难曲 Aether Ingita! [SY 10] All Perfect Rank X！](https://www.bilibili.com/video/BV1zMhNz3E5M/)（玩家：[九段不合格](https://space.bilibili.com/1633653929/)）

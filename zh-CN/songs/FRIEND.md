@@ -12,11 +12,11 @@
 | 曲名 | F℟IEND |
 | 别名 | 无 |
 | 授权性质 | 非原创 |
-| 曲师 | [D_AAN](?p=composer_list#D_AAN&l=zh-CN) |
+| 曲师 | [D_AAN](?p=composer_list&l=zh-CN#D_AAN) |
 | 时长 | 01:54 |
 | BPM | 200 |
 | 章节 | [单曲](?p=chapters/Singles&l=zh-CN) |
-| 曲绘 | [半界](?p=illustrator_list#Semiryoiki&l=zh-CN) & [X-chalk](?p=illustrator_list#X-chalk&l=zh-CN) |
+| 曲绘 | [半界](?p=illustrator_list&l=zh-CN#Semiryoiki) & [X-chalk](?p=illustrator_list&l=zh-CN#X-chalk) |
 
 ## 谱面信息
 
@@ -24,7 +24,7 @@
 | :-: | :-: | :-: |
 | 难度 | 8.4 | 4.0 |
 | 物量 | 923 | 959 |
-| 谱师 | [小嘤箱](?p=charter_list#XyX&l=zh-CN) | [小嘤箱](?p=charter_list#XyX&l=zh-CN) feat. [星鸿](?p=charter_list#SeRazon&l=zh-CN) |
+| 谱师 | [小嘤箱](?p=charter_list&l=zh-CN#XyX) | [小嘤箱](?p=charter_list&l=zh-CN#XyX) feat. [星鸿](?p=charter_list&l=zh-CN#SeRazon) |
 
 ## 解锁方法
 
@@ -39,7 +39,7 @@
 ## 游戏相关
 
 - 本曲是BOFU2017个人战第388名。
-- 本曲的EZ难度谱面为[星鸿](?p=charter_list#SeRazon&l=zh-CN)在Notanote中第一次亮相的谱面。
+- 本曲的EZ难度谱面为[星鸿](?p=charter_list&l=zh-CN#SeRazon)在Notanote中第一次亮相的谱面。
 - 本曲在[更新预览](https://www.bilibili.com/video/BV1AyWtz8ErR/)中的曲绘与实际上线的曲绘不同。
 
 ## 攻略
@@ -94,11 +94,11 @@
 
 ## 音乐
 
-- ![网易云音乐图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[F℟IEND - D_AAN/初音ミク - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1930968844)
-- ![YouTube图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/youtube.ico)[【BOFU2017】 F℟IEND](https://www.youtube.com/watch?v=l2hVqHSEhtU)
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【BOFU2017】 F℟IEND](https://www.bilibili.com/video/BV1Qx411u71a/)
+- ![网易云音乐图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/netease-cloud-music.ico)[F℟IEND - D_AAN/初音ミク - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1930968844)
+- ![YouTube图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/youtube.ico)[【BOFU2017】 F℟IEND](https://www.youtube.com/watch?v=l2hVqHSEhtU)
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【BOFU2017】 F℟IEND](https://www.bilibili.com/video/BV1Qx411u71a/)
 
 ## 相关视频
 
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】F℟IEND [SY 8.4] 谱面演示](https://www.bilibili.com/video/BV1MskXBPE7W/)
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】F℟IEND [EZ 4.0] 谱面演示](https://www.bilibili.com/video/BV1UskXBNErG/)
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】F℟IEND [SY 8.4] 谱面演示](https://www.bilibili.com/video/BV1MskXBPE7W/)
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】F℟IEND [EZ 4.0] 谱面演示](https://www.bilibili.com/video/BV1UskXBNErG/)

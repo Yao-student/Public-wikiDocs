@@ -12,11 +12,11 @@
 | 曲名 | Summer Dream |
 | 别名 | 夏日梦 |
 | 授权性质 | 非原创 |
-| 曲师 | [Kirara Magic](?p=composer_list#Kirara_Magic&l=zh-CN) |
+| 曲师 | [Kirara Magic](?p=composer_list&l=zh-CN#Kirara_Magic) |
 | 时长 | 02:31 |
 | BPM | 190 |
 | 章节 | [支线一·花火之夏](?p=chapters/Side_Story_I&l=zh-CN) |
-| 曲绘 | [天野岁](?p=illustrator_list#Tianyesui&l=zh-CN) |
+| 曲绘 | [天野岁](?p=illustrator_list&l=zh-CN#Tianyesui) |
 
 ## 谱面信息
 
@@ -24,7 +24,7 @@
 | :-: | :-: |
 | 定数 | 3.0 |
 | 物量 | 79 |
-| 谱师 | [qm](?p=charter_list#qm&l=zh-CN) x [wxy](?p=charter_list#wxy&l=zh-CN) |
+| 谱师 | [qm](?p=charter_list&l=zh-CN#qm) x [wxy](?p=charter_list&l=zh-CN#wxy) |
 
 ## 解锁方法
 
@@ -72,7 +72,6 @@ Shall we?
 The whisper of the earth
 
 <div class="NoticeBoard">
-  <br>
   <p style="color: gray;">
     <details>
       <summary>点击展开/折叠游戏中版本被删去歌词</summary>
@@ -151,7 +150,6 @@ Until the end of the world
 我能否与你一起做白日梦
 
 <div class="NoticeBoard">
-  <br>
   <p style="color: gray;">
     <details>
       <summary>点击展开/折叠游戏中版本被删去歌词</summary>
@@ -197,13 +195,13 @@ Until the end of the world
 
 ## 音乐
 
-- ![网易云音乐图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[Summer Dream (feat. Chevy) - Kirara Magic/Chevy - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1854644975)<sup><a id="note-1.1" href="#ref-1">[1]</a></sup>
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【清新夏日单曲】Summer Dream (feat. Chevy)【MV】](https://www.bilibili.com/video/BV1yB4y1K7X5/)<sup><a id="note-1.2" href="#ref-1">[1]</a></sup>
+- ![网易云音乐图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/netease-cloud-music.ico)[Summer Dream (feat. Chevy) - Kirara Magic/Chevy - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1854644975)<sup><a id="note-1.1" href="#ref-1">[1]</a></sup>
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【清新夏日单曲】Summer Dream (feat. Chevy)【MV】](https://www.bilibili.com/video/BV1yB4y1K7X5/)<sup><a id="note-1.2" href="#ref-1">[1]</a></sup>
 
 ## 相关视频
 
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Summer Dream [SY 2.5] 谱面演示](https://www.bilibili.com/video/BV1UkGNzGEPg/)
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote/不要急挑战（）】Summer Dream SY1 All Perfect](https://www.bilibili.com/video/BV1TY2NYSEyi/)
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Summer Dream [SY 2.5] 谱面演示](https://www.bilibili.com/video/BV1UkGNzGEPg/)
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【Notanote/不要急挑战（）】Summer Dream SY1 All Perfect](https://www.bilibili.com/video/BV1TY2NYSEyi/)
 
 ## 注释
 

@@ -14,7 +14,7 @@
 | 曲名 | meteor(); |
 | 别名 | 无 |
 | 授权性质 | 原创 |
-| 曲师 | [ILusMin](?p=composer_list#ILusMin&l=zh-CN) & [ShooTinGStaR](?p=composer_list#ShooTinGStaR&l=zh-CN) |
+| 曲师 | [ILusMin](?p=composer_list&l=zh-CN#ILusMin) & [ShooTinGStaR](?p=composer_list&l=zh-CN#ShooTinGStaR) |
 | 时长 | 03:01 |
 | BPM | 162 |
 | 章节 | - |
@@ -36,7 +36,7 @@
 
 - 本曲是[Fly To Meteor](https://www.bilibili.com/video/BV1ht4y1u79Q/)的Remix版本。
 - 本曲在流媒体平台上的曲名为meteor(); (ILusMin “OVERDECONSTRUCTION” remix)。
-- 本曲收录于专辑[星律回溯 Star Rhythm Collection Vol.1](https://www.bilibili.com/video/BV1dEGvzgEgT/)与[Celestial Evasion “類星逃逸”](https://music.163.com/#/album?id=274543457)中，同属于本专辑的[「Crystal Ember」](?p=songs/Crystal_Ember&l=zh-CN)与[「i」](?p=songs/i&l=zh-CN)也是Notanote原创曲。
+- 本曲收录于专辑[星律回溯 Star Rhythm Collection Vol.1](https://www.bilibili.com/video/BV1dEGvzgEgT/)与[Celestial Evasion “類星逃逸”](https://music.163.com/&l=zh-CN#/album?id=274543457)中，同属于本专辑的[「Crystal Ember」](?p=songs/Crystal_Ember&l=zh-CN)与[「i」](?p=songs/i&l=zh-CN)也是Notanote原创曲。
 
 ## 攻略
 
@@ -44,7 +44,7 @@
 
 ## 音乐
 
-- ![网易云音乐图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[meteor(); (ILusMin “OVERDECONSTRUCTION” remix) - ILusMin/ShooTinGStaR/Hilarity Leap Records/维度坍缩/逃离记录Exit Records/Notanote - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2713426120)
+- ![网易云音乐图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/netease-cloud-music.ico)[meteor(); (ILusMin “OVERDECONSTRUCTION” remix) - ILusMin/ShooTinGStaR/Hilarity Leap Records/维度坍缩/逃离记录Exit Records/Notanote - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2713426120)
 
 ## 相关视频
 

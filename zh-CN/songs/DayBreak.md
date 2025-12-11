@@ -12,11 +12,11 @@
 | 曲名 | DayBreak |
 | 别名 | 无 |
 | 原创 | 联合原创（与Bleap） |
-| 曲师 | [shadow_bling](?p=composer_list#shadow_bling&l=zh-CN) & [ТЕЕМСИКЛ](?p=composer_list#ТЕЕМSYKL&l=zh-CN) & [SKa2or](?p=composer_list#SKa2or&l=zh-CN) feat. 左乙ZOEE |
+| 曲师 | [shadow_bling](?p=composer_list&l=zh-CN#shadow_bling) & [ТЕЕМСИКЛ](?p=composer_list&l=zh-CN#ТЕЕМSYKL) & [SKa2or](?p=composer_list&l=zh-CN#SKa2or) feat. 左乙ZOEE |
 | 时长 | 02:52 |
 | BPM | 170 |
 | 章节 | [单曲](?p=chapters/Singles&l=zh-CN) |
-| 曲绘 | [Chen-ing尘音文化](?p=illustrator_list#Chen-ing&l=zh-CN) |
+| 曲绘 | [Chen-ing尘音文化](?p=illustrator_list&l=zh-CN#Chen-ing) |
 
 ## 谱面信息
 
@@ -24,7 +24,7 @@
 | :-: | :-: | :-: |
 | 定数 | 7.9 | 5.1 |
 | 物量 | 906 | 752 |
-| 谱师 | [小嘤箱](?p=charter_list#XyX&l=zh-CN) | [小嘤箱](?p=charter_list#XyX&l=zh-CN) |
+| 谱师 | [小嘤箱](?p=charter_list&l=zh-CN#XyX) | [小嘤箱](?p=charter_list&l=zh-CN#XyX) |
 
 ## 解锁方法
 
@@ -98,10 +98,10 @@ And it's time to claim our every rights
 
 ## 音乐
 
-- ![网易云音乐图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[韵临律界·DayBreak（韵临律界II主题曲） - shadow_bling/ТЕЕМСИКЛ/SKa2or/左乙/Chen-ing Music/Notanote - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2731284950)
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【韵临律界II】主题曲《DayBreak》，那座大门将再度打开！](https://www.bilibili.com/video/BV1Z28Bz8EjS/)
+- ![网易云音乐图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/netease-cloud-music.ico)[韵临律界·DayBreak（韵临律界II主题曲） - shadow_bling/ТЕЕМСИКЛ/SKa2or/左乙/Chen-ing Music/Notanote - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2731284950)
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【韵临律界II】主题曲《DayBreak》，那座大门将再度打开！](https://www.bilibili.com/video/BV1Z28Bz8EjS/)
 
 ## 相关视频
 
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】DayBreak [SY 7.9] 谱面演示](https://www.bilibili.com/video/BV16uHPzEEXC/)
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】DayBreak [EZ 5.1] 谱面演示](https://www.bilibili.com/video/BV17qHAz3Egr/)
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】DayBreak [SY 7.9] 谱面演示](https://www.bilibili.com/video/BV16uHPzEEXC/)
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】DayBreak [EZ 5.1] 谱面演示](https://www.bilibili.com/video/BV17qHAz3Egr/)

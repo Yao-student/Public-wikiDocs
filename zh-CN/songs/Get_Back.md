@@ -12,7 +12,7 @@
 | 曲名 | Get Back |
 | 别名 | 无 |
 | 授权性质 | 非原创 |
-| 曲师 | [CAP3](?p=composer_list#CAP3&l=zh-CN) |
+| 曲师 | [CAP3](?p=composer_list&l=zh-CN#CAP3) |
 | 时长 | 03:09 |
 | BPM | 128 |
 | 章节 | [Soul Notes](?p=chapters/Soul_Notes&l=zh-CN) |
@@ -24,7 +24,7 @@
 | :-: | :-: | :-: |
 | 定数 | 8.2 | 2.0 |
 | 物量 | 848 | 804 |
-| 谱师 | [乾啊啊啊啊啊](?p=charter_list#qa&l=zh-CN) & [AwlF](?p=charter_list#AwlF&l=zh-CN) | [AwlF](?p=charter_list#AwlF&l=zh-CN) & [乾啊啊啊啊啊](?p=charter_list#qa&l=zh-CN)  |
+| 谱师 | [乾啊啊啊啊啊](?p=charter_list&l=zh-CN#qa) & [AwlF](?p=charter_list&l=zh-CN#AwlF) | [AwlF](?p=charter_list&l=zh-CN#AwlF) & [乾啊啊啊啊啊](?p=charter_list&l=zh-CN#qa)  |
 
 ## 解锁方法
 
@@ -38,7 +38,7 @@
 
 ## 游戏相关
 
-此部分暂无内容。
+- 本曲的SY与EZ谱面是[乾啊啊啊啊啊](?p=charter_list&l=zh-CN#qa)在Notanote中第一次亮相的谱面，同时与[IGNITE](?p=songs/IGNITE&l=zh-CN)的SY与EZ谱面都是[AwlF](?p=charter_list&l=zh-CN#AwlF)在Notanote中第一次亮相的谱面。
 
 ## 攻略
 
@@ -52,10 +52,10 @@
 
 ## 音乐
 
-- ![网易云音乐图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[Get Back（游戏《Phigros》收录曲） - CAP3 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1428353930)
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[Get Back-CAP3](https://www.bilibili.com/video/BV18S411A7Bv/)
+- ![网易云音乐图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/netease-cloud-music.ico)[Get Back（游戏《Phigros》收录曲） - CAP3 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1428353930)
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[Get Back-CAP3](https://www.bilibili.com/video/BV18S411A7Bv/)
 
 ## 相关视频
 
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Get Back [SY 8.2] 谱面演示](https://www.bilibili.com/video/BV18LHtzaEEj/)
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Get Back [EZ 2.0] 谱面演示](https://www.bilibili.com/video/BV1wuHPzJEcH/)
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Get Back [SY 8.2] 谱面演示](https://www.bilibili.com/video/BV18LHtzaEEj/)
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Get Back [EZ 2.0] 谱面演示](https://www.bilibili.com/video/BV1wuHPzJEcH/)

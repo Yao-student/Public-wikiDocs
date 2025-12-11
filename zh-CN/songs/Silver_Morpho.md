@@ -12,11 +12,11 @@
 | 曲名 | Silver Morpho |
 | 别名 | 银闪蝶 |
 | 授权性质 | 独家 |
-| 曲师 | [sakakosmos](?p=composer_list#sakakosmos&l=zh-CN) |
+| 曲师 | [sakakosmos](?p=composer_list&l=zh-CN#sakakosmos) |
 | 时长 | 02:49 |
 | BPM | 75 |
 | 章节 | [单曲](?p=chapters/Single&l=zh-CN) |
-| 曲绘 | [sakakosmos](?p=illustrator_list#sakakosmos&l=zh-CN) |
+| 曲绘 | [sakakosmos](?p=illustrator_list&l=zh-CN#sakakosmos) |
 
 ## 谱面信息
 
@@ -180,8 +180,8 @@ Are you goin' down with me?
 
 ## 音乐
 
-- ![网易云音乐图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[Silver Morpho（银闪蝶） - sakakosmos - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2612128470)
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【官方MV】 《Silver Morpho》（银闪蝶）- sakakosmos【先行主打1】【PROJECT 001】](https://www.bilibili.com/video/BV1sr421M711/)
+- ![网易云音乐图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/netease-cloud-music.ico)[Silver Morpho（银闪蝶） - sakakosmos - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2612128470)
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【官方MV】 《Silver Morpho》（银闪蝶）- sakakosmos【先行主打1】【PROJECT 001】](https://www.bilibili.com/video/BV1sr421M711/)
 
 ## 相关视频
 

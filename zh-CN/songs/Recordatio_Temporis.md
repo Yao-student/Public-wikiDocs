@@ -12,11 +12,11 @@
 | 曲名 | Recordatio Temporis |
 | 别名 | 无 |
 | 授权性质 | 原创 |
-| 曲师 | [EOTW433](?p=composer_list#EOTW433&l=zh-CN) |
+| 曲师 | [EOTW433](?p=composer_list&l=zh-CN#EOTW433) |
 | 时长 | 03:25 |
 | BPM | 180 |
 | 章节 | - |
-| 曲绘 | [HOSHILINEARX.](?p=illustrator_list#HOSHILINEARX.&l=zh-CN) |
+| 曲绘 | [HOSHILINEARX.](?p=illustrator_list&l=zh-CN#HOSHILINEARX.) |
 
 ## 谱面信息
 
@@ -40,7 +40,7 @@
 
 ## 音乐
 
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote x 第九日记录】Recordatio Temporis - EOTW433](https://www.bilibili.com/video/BV16p17B8EPb/)
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【Notanote x 第九日记录】Recordatio Temporis - EOTW433](https://www.bilibili.com/video/BV16p17B8EPb/)
 
 ## 相关视频
 

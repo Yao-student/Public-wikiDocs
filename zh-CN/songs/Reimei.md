@@ -12,11 +12,11 @@
 | 曲名 | Reimei |
 | 别名 | 黎明 |
 | 授权性质 | 非原创 |
-| 曲师 | [影虎。](?p=composer_list#Kagetora.&l=zh-CN) |
+| 曲师 | [影虎。](?p=composer_list&l=zh-CN#Kagetora.) |
 | 时长 | 02:28 |
 | BPM | 185 |
 | 章节 | [单曲](?p=chapters/Singles&l=zh-CN) |
-| 曲绘 | [影虎。](?p=composer_list#Kagetora.&l=zh-CN) |
+| 曲绘 | [影虎。](?p=composer_list&l=zh-CN#Kagetora.) |
 
 ## 谱面信息
 
@@ -24,7 +24,7 @@
 | :-: | :-: | :-: |
 | 定数 | 7.7 | 3.0 |
 | 物量 | 878 | 617 |
-| 谱师 | [小嘤箱](?p=charter_list#XyX&l=zh-CN) | [小嘤箱](?p=charter_list#XyX&l=zh-CN) |
+| 谱师 | [小嘤箱](?p=charter_list&l=zh-CN#XyX) | [小嘤箱](?p=charter_list&l=zh-CN#XyX) |
 
 ## 解锁方法
 
@@ -53,10 +53,11 @@
 
 ## 音乐
 
-- ![网易云音乐图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[Reimei（黎明） - 影虎。 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1396181979)
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[影虎。[Kagetora..] / Reimei](https://www.bilibili.com/video/BV1C44y1r7KH/)
+- ![网易云音乐图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/netease-cloud-music.ico)[Reimei（黎明） - 影虎。 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1396181979)
+- ![YouTube图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/youtube.ico)[影虎。[Kagetora.] / Reimei 【G2R2018 / Phigros】](https://www.youtube.com/watch?v=PqkNsrEJzpk)
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[影虎。[Kagetora..] / Reimei](https://www.bilibili.com/video/BV1C44y1r7KH/)
 
 ## 相关视频
 
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Reimei [SY 7.7] 谱面演示](https://www.bilibili.com/video/BV1ugHAzfEXX/)
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Reimei [EZ 3.0] 谱面演示](https://www.bilibili.com/video/BV1TLHAzxEcu/)
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Reimei [SY 7.7] 谱面演示](https://www.bilibili.com/video/BV1ugHAzfEXX/)
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Reimei [EZ 3.0] 谱面演示](https://www.bilibili.com/video/BV1TLHAzxEcu/)

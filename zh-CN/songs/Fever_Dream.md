@@ -12,11 +12,11 @@
 | 曲名 | Fever Dream |
 | 别名 | 无 |
 | 授权性质 | 非原创 |
-| 曲师 | [Hundotte](?p=composer_list#Hundotte&l=zh-CN) & [BilliumMoto](?p=composer_list#BilliumMoto&l=zh-CN) |
+| 曲师 | [Hundotte](?p=composer_list&l=zh-CN#Hundotte) & [BilliumMoto](?p=composer_list&l=zh-CN#BilliumMoto) |
 | 时长 | 02:51 |
 | BPM | 172 |
 | 章节 | [单曲](?p=chapters/Singles&l=zh-CN) |
-| 曲绘 | [Transendium](?p=illustrator_list#Transendium&l=zh-CN) |
+| 曲绘 | [Transendium](?p=illustrator_list&l=zh-CN#Transendium) |
 
 ## 谱面信息
 
@@ -24,7 +24,7 @@
 | :-: | :-: | :-: |
 | 难度 | 9.9 | 4.0 |
 | 物量 | 814 | 1187 |
-| 谱师 | [xyx](?p=charter_list#XyX&l=zh-CN) & [静似止](?p=charter_list#jm333&l=zh-CN) | [xyx](?p=charter_list#XyX&l=zh-CN) & [静似止](?p=charter_list#jm333&l=zh-CN) |
+| 谱师 | [xyx](?p=charter_list&l=zh-CN#XyX) & [静似止](?p=charter_list&l=zh-CN#jm333) | [xyx](?p=charter_list&l=zh-CN#XyX) & [静似止](?p=charter_list&l=zh-CN#jm333) |
 
 ## 解锁方法
 
@@ -40,7 +40,7 @@
 
 - 本曲是BOF:ET个人战第202名。
 - 本曲是2025年万圣节活动更新的特别单曲。
-- 本曲的SY与EZ谱面为[静似止](?p=charter_list#jm333&l=zh-CN)在Notanote中第一次亮相的谱面。
+- 本曲的SY与EZ谱面为[静似止](?p=charter_list&l=zh-CN#jm333)在Notanote中第一次亮相的谱面。
 
 ## 攻略
 
@@ -122,11 +122,11 @@ Dream
 
 ## 音乐
 
-- ![网易云音乐图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[Fever Dream - BilliumMoto/Hundotte - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1993475592)
-- ![YouTube图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/youtube.ico)[【BOF:ET】Fever Dream / Hundotte & BilliumMoto【BGA】](https://www.youtube.com/watch?v=hfZm9nIia9w)
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【BOF:ET】Fever Dream / Hundotte & BilliumMoto【BGA】](https://www.bilibili.com/video/BV1Uk4y1T7Mb/)
+- ![网易云音乐图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/netease-cloud-music.ico)[Fever Dream - BilliumMoto/Hundotte - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1993475592)
+- ![YouTube图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/youtube.ico)[【BOF:ET】Fever Dream / Hundotte & BilliumMoto【BGA】](https://www.youtube.com/watch?v=hfZm9nIia9w)
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【BOF:ET】Fever Dream / Hundotte & BilliumMoto【BGA】](https://www.bilibili.com/video/BV1Uk4y1T7Mb/)
 
 ## 相关视频
 
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Fever Dream [SY 9.9] 谱面演示](https://www.bilibili.com/video/BV1zAkXBJEYD/)
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Fever Dream [EZ 4.0] 谱面演示](https://www.bilibili.com/video/BV1GEkXBgEG9/)
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Fever Dream [SY 9.9] 谱面演示](https://www.bilibili.com/video/BV1zAkXBJEYD/)
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Fever Dream [EZ 4.0] 谱面演示](https://www.bilibili.com/video/BV1GEkXBgEG9/)

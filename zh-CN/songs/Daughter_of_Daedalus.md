@@ -12,11 +12,11 @@
 | 曲名 | Daughter of Daedalus |
 | 别名 | DOD、代达罗斯之女 |
 | 授权性质 | 原创 |
-| 曲师 | [tn-shi](?p=composer_list#tn-shi&l=zh-CN) |
+| 曲师 | [tn-shi](?p=composer_list&l=zh-CN#tn-shi) |
 | 时长 | 02:35 |
 | BPM | 198 |
 | 章节 | [主线二·无尽回廊](?p=chapters/Main_Story_II&l=zh-CN) |
-| 曲绘 | [Exut](?p=illustrator_list#Exut&l=zh-CN) & [Panthullu](?p=illustrator_list#Panthullu&l=zh-CN) |
+| 曲绘 | [Exut](?p=illustrator_list&l=zh-CN#Exut) & [Panthullu](?p=illustrator_list&l=zh-CN#Panthullu) |
 
 ## 谱面信息
 
@@ -24,11 +24,11 @@
 | :-: | :-: | :-: | :-: |
 | 定数 | 7.1 | 9.6 | 2.0 |
 | 物量 | 1145 | 1204 | 1141 |
-| 谱师 | [小嘤箱](?p=charter_list#XyX&l=zh-CN) | [小嘤箱](?p=charter_list#XyX&l=zh-CN) | [小嘤箱](?p=charter_list#XyX&l=zh-CN) |
+| 谱师 | [小嘤箱](?p=charter_list&l=zh-CN#XyX) | [小嘤箱](?p=charter_list&l=zh-CN#XyX) | [小嘤箱](?p=charter_list&l=zh-CN#XyX) |
 
 ## 解锁方法
 
-阅读剧情收集品[「异闻」](?p=collectible_list#Yiwen&l=zh-CN)解锁。
+阅读剧情收集品[「异闻」](?p=collectible_list&l=zh-CN#Yiwen)解锁。
 
 ## 更新记录
 
@@ -59,10 +59,10 @@
 
 ## 音乐
 
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote原创曲】Daughter of Daedalus - tn-shi](https://www.bilibili.com/video/BV1MyvPzaErG/)
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【Notanote原创曲】Daughter of Daedalus - tn-shi](https://www.bilibili.com/video/BV1MyvPzaErG/)
 
 ## 相关视频
 
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Daughter of Daedalus [SY 7.1] 谱面演示 / DOD](https://www.bilibili.com/video/BV1p6J9zWET8/)
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Daughter of Daedalus [SY+ 9.6] 谱面演示 / DOD](https://www.bilibili.com/video/BV1XEJ9zBEDy/)
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Daughter of Daedalus [EZ 2.0] 谱面演示 / DOD](https://www.bilibili.com/video/BV1YEJ9zBEUv/)
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Daughter of Daedalus [SY 7.1] 谱面演示 / DOD](https://www.bilibili.com/video/BV1p6J9zWET8/)
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Daughter of Daedalus [SY+ 9.6] 谱面演示 / DOD](https://www.bilibili.com/video/BV1XEJ9zBEDy/)
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Daughter of Daedalus [EZ 2.0] 谱面演示 / DOD](https://www.bilibili.com/video/BV1YEJ9zBEUv/)

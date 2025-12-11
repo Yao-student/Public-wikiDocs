@@ -12,11 +12,11 @@
 | 曲名 | 《Ж》 |
 | 别名 | 米、黑洞、Convergence |
 | 授权性质 | 非原创 |
-| 曲师 | [LYRi "Cyanblue" WHiTE](?p=composer_list#tkqn14&l=zh-CN) x [NIKANON](?p=composer_list#NIKANON&l=zh-CN) |
+| 曲师 | [LYRi "Cyanblue" WHiTE](?p=composer_list&l=zh-CN#tkqn14) x [NIKANON](?p=composer_list&l=zh-CN#NIKANON) |
 | 时长 | 02:28 |
 | BPM | 212 |
 | 章节 | [单曲](?p=chapters/Singles&l=zh-CN) |
-| 曲绘 | [半界](?p=illustrator_list#Semiryoiki&l=zh-CN) |
+| 曲绘 | [半界](?p=illustrator_list&l=zh-CN#Semiryoiki) |
 
 ## 谱面信息
 
@@ -24,7 +24,7 @@
 | :-: | :-: | :-: |
 | 定数 | 10.5 | 7.8 |
 | 物量 | 1240 | 875 |
-| 谱师 | [Nobody](?p=charter_list#XyX&l=zh-CN) and [Nothing](?p=charter_list#wxy&l=zh-CN) | 《[LEI](?p=charter_list#Lei_motife&l=zh-CN) devour [QM](?p=charter_list#qm&l=zh-CN)》 |
+| 谱师 | [Nobody](?p=charter_list&l=zh-CN#XyX) and [Nothing](?p=charter_list&l=zh-CN#wxy) | 《[LEI](?p=charter_list&l=zh-CN#Lei_motife) devour [QM](?p=charter_list&l=zh-CN#qm)》 |
 
 ## 解锁方法
 
@@ -61,12 +61,12 @@
 
 ## 音乐
 
-- ![网易云音乐图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[《Ж》（第19届BOF创作大赛个人战冠军曲） - LYRi "Cyanblue" WHiTE/NIKANON - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2128530603)
-- ![YouTube图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/youtube.ico)[【BOF:NT】 《Ж》 【BGA】](https://www.youtube.com/watch?v=iUB32XQAwEE)
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【BOF:NT】《Ж》【BGA】](https://www.bilibili.com/video/BV1fr4y1X7nt/)
+- ![网易云音乐图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/netease-cloud-music.ico)[《Ж》（第19届BOF创作大赛个人战冠军曲） - LYRi "Cyanblue" WHiTE/NIKANON - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2128530603)
+- ![YouTube图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/youtube.ico)[【BOF:NT】 《Ж》 【BGA】](https://www.youtube.com/watch?v=iUB32XQAwEE)
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【BOF:NT】《Ж》【BGA】](https://www.bilibili.com/video/BV1fr4y1X7nt/)
 
 ## 相关视频
 
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】《Ж》 [SY 10.5] 谱面预览 / 米 / 黑洞](https://www.bilibili.com/video/BV1g6421w7mo/)
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】《Ж》 [TL 8.6] 谱面演示 / 米 / 黑洞](https://www.bilibili.com/video/BV1yZ8XzEEZp/)
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote/全球首杀】震撼！Notanote最难魔王曲《Ж》[SY 10] All Perfect Rank X！](https://www.bilibili.com/video/BV1R78gz1Ewe/)（玩家：[九段不合格](https://space.bilibili.com/1633653929/)）
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】《Ж》 [SY 10.5] 谱面预览 / 米 / 黑洞](https://www.bilibili.com/video/BV1g6421w7mo/)
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】《Ж》 [TL 8.6] 谱面演示 / 米 / 黑洞](https://www.bilibili.com/video/BV1yZ8XzEEZp/)
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【Notanote/全球首杀】震撼！Notanote最难魔王曲《Ж》[SY 10] All Perfect Rank X！](https://www.bilibili.com/video/BV1R78gz1Ewe/)（玩家：[九段不合格](https://space.bilibili.com/1633653929/)）

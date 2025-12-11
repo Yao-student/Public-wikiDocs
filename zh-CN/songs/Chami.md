@@ -12,11 +12,11 @@
 | 曲名 | 茶靡 |
 | 别名 | 无 |
 | 授权性质 | 独家 |
-| 曲师 | [急冻秋刀鱼](?p=composer_list#Jidong_Qiudaoyu&l=zh-CN) |
+| 曲师 | [急冻秋刀鱼](?p=composer_list&l=zh-CN#Jidong_Qiudaoyu) |
 | 时长 | 02:37 |
 | BPM | 160 |
 | 章节 | - |
-| 曲绘 | [Semiryoiki](?p=illustrator_list#Semiryoiki&l=zh-CN) |
+| 曲绘 | [Semiryoiki](?p=illustrator_list&l=zh-CN#Semiryoiki) |
 
 ## 谱面信息
 
@@ -42,9 +42,9 @@
 
 ## 音乐
 
-- ![网易云音乐图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[茶靡 - 急冻秋刀鱼 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=3322484128)<sup><a id="note-1.1" href="#ref-1">[1]</a></sup>
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote独家曲目】茶靡 - 急冻秋刀鱼](https://www.bilibili.com/video/BV1DkUfBBENj/)
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Album】花圃 - 急冻秋刀鱼 | 3 茶糜](https://www.bilibili.com/video/BV1cnSgBWEPU/?p=3)<sup><a id="note-1.2" href="#ref-1">[1]</a></sup>
+- ![网易云音乐图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/netease-cloud-music.ico)[茶靡 - 急冻秋刀鱼 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=3322484128)<sup><a id="note-1.1" href="#ref-1">[1]</a></sup>
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【Notanote独家曲目】茶靡 - 急冻秋刀鱼](https://www.bilibili.com/video/BV1DkUfBBENj/)
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【Album】花圃 - 急冻秋刀鱼 | 3 茶糜](https://www.bilibili.com/video/BV1cnSgBWEPU/?p=3)<sup><a id="note-1.2" href="#ref-1">[1]</a></sup>
 
 ## 相关视频
 

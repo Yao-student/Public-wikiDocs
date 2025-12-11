@@ -12,11 +12,11 @@
 | 曲名 | Overjoy ★ OVERDOSE!! |
 | 别名 | 无 |
 | 授权性质 | 非原创 |
-| 曲师 | Luna Fozer ([BilliumMoto](?p=composer_list#BilliumMoto&l=zh-CN) & [黒皇帝](?p=composer_list#Kurokotei&l=zh-CN) & [Sobrem](?p=composer_list#Sobrem&l=zh-CN) feat. vally.exe) |
+| 曲师 | Luna Fozer ([BilliumMoto](?p=composer_list&l=zh-CN#BilliumMoto) & [黒皇帝](?p=composer_list&l=zh-CN#Kurokotei) & [Sobrem](?p=composer_list&l=zh-CN#Sobrem) feat. vally.exe) |
 | 时长 | 02:29 |
 | BPM | 143 |
 | 章节 | [单曲](?p=chapters/Single&l=zh-CN) |
-| 曲绘 | [Shalink](?p=illustrator_list#Shalink&l=zh-CN) |
+| 曲绘 | [Shalink](?p=illustrator_list&l=zh-CN#Shalink) |
 
 ## 谱面信息
 
@@ -102,7 +102,7 @@ So come back again, okay?
 
 ### 翻译
 
-- 翻译：[Shiniborosu](https://music.163.com/#/user/home?id=6369836164) (Modified by [大松_Dason](?p=charter_list#Dason&l=zh-CN))
+- 翻译：[Shiniborosu](https://music.163.com/&l=zh-CN#/user/home?id=6369836164) (Modified by [大松_Dason](?p=charter_list#Dason))
 
 你好 - 你好 - 你好!
 我是你的多文化BMS虚拟主播，Luna Fozer～！！
@@ -162,9 +162,9 @@ So come back again, okay?
 
 ## 音乐
 
-- ![网易云音乐图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[Overjoy ★ OVERDOSE!! - BilliumMoto/黒皇帝/Sobrem/Vally.exe - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2106610918)
-- ![YouTube图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/youtube.ico)[【BOF:NT】Overjoy ★ OVERDOSE!!](https://www.youtube.com/watch?v=tbVnVaIE5ys)
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【BOF:NT】Luna Fozer(BilliumMoto & 黒皇帝 & Sobrem) - Overjoy ★ OVERDOSE!!](https://www.bilibili.com/video/BV1W94y1j7Q2/)
+- ![网易云音乐图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/netease-cloud-music.ico)[Overjoy ★ OVERDOSE!! - BilliumMoto/黒皇帝/Sobrem/Vally.exe - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2106610918)
+- ![YouTube图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/youtube.ico)[【BOF:NT】Overjoy ★ OVERDOSE!!](https://www.youtube.com/watch?v=tbVnVaIE5ys)
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【BOF:NT】Luna Fozer(BilliumMoto & 黒皇帝 & Sobrem) - Overjoy ★ OVERDOSE!!](https://www.bilibili.com/video/BV1W94y1j7Q2/)
 
 ## 相关视频
 

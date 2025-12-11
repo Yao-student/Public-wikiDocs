@@ -11,11 +11,11 @@
 | :-: | :-: |
 | 曲名 | Sense |
 | 别名 | 无 |
-| 曲师 | [BilliumMoto](?p=composer_list#BilliumMoto&l=zh-CN) × [Silentroom](?p=composer_list#Silentroom&l=zh-CN) |
+| 曲师 | [BilliumMoto](?p=composer_list&l=zh-CN#BilliumMoto) × [Silentroom](?p=composer_list&l=zh-CN#Silentroom) |
 | 时长 | 03:10 |
 | BPM | 180 |
 | 章节 | [单曲](?p=chapters/Singles&l=zh-CN) |
-| 曲绘 | [Mahinii](?p=illustrator_list#Mahinii&l=zh-CN) |
+| 曲绘 | [Mahinii](?p=illustrator_list&l=zh-CN#Mahinii) |
 
 ## 谱面信息
 
@@ -23,7 +23,7 @@
 | :-: | :-: |
 | 难度 | 8.1 |
 | 物量 | 687 |
-| 谱师 | [零彩](?p=charter_list#zecolost&l=zh-CN) & [嘤箱](?p=charter_list#XyX&l=zh-CN) |
+| 谱师 | [零彩](?p=charter_list&l=zh-CN#zecolost) & [嘤箱](?p=charter_list&l=zh-CN#XyX) |
 
 ## 解锁方法
 
@@ -49,9 +49,10 @@
 
 ## 音乐
 
-- ![网易云音乐图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[Sense - BilliumMoto/Silentroom - 单曲 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1909347605)
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[BilliumMoto × Silentroom - Sense | BOFXVII Team [Clue]](https://www.bilibili.com/video/BV1HU4y1g7AQ/)
+- ![网易云音乐图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/netease-cloud-music.ico)[Sense - BilliumMoto/Silentroom - 单曲 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1909347605)
+- ![YouTube图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/youtube.ico)[【BOFXVII】BilliumMoto × Silentroom - Sense](https://www.youtube.com/watch?v=ZZtzydJXkaw)
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[BilliumMoto × Silentroom - Sense | BOFXVII Team [Clue]](https://www.bilibili.com/video/BV1HU4y1g7AQ/)
 
 ## 相关视频
 
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Sense [SY 8.1] 谱面演示](https://www.bilibili.com/video/BV1ac8Ez8EJs/)
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Sense [SY 8.1] 谱面演示](https://www.bilibili.com/video/BV1ac8Ez8EJs/)

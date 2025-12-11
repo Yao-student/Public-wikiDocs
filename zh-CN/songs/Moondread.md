@@ -12,11 +12,11 @@
 | 曲名 | Moondread |
 | 别名 | 恐月 |
 | 授权性质 | 非原创 |
-| 曲师 | [Kry.exe](?p=composer_list#Kry.exe&l=zh-CN) |
+| 曲师 | [Kry.exe](?p=composer_list&l=zh-CN#Kry.exe) |
 | 时长 | 02:20 |
 | BPM | 220 |
 | 章节 | [主线二·无尽回廊](?p=chapters/Main_Story_II&l=zh-CN) |
-| 曲绘 | [故离](?p=illustrator_list#Guli&l=zh-CN) |
+| 曲绘 | [故离](?p=illustrator_list&l=zh-CN#Guli) |
 
 ## 谱面信息
 
@@ -24,11 +24,11 @@
 | :-: | :-: | :-: | :-: |
 | 定数 | 8.3 | 3.5 | 10.3 |
 | 物量 | 677 | 677 | 1332 |
-| 谱师 | [qm](?p=charter_list#qm&l=zh-CN) feat. [0641](?p=charter_list#wxy&l=zh-CN) | [qm](?p=charter_list#qm&l=zh-CN) feat. [0641](?p=charter_list#wxy&l=zh-CN) | [Arthur](?p=charter_list#Arthur&l=zh-CN) |
+| 谱师 | [qm](?p=charter_list&l=zh-CN#qm) feat. [0641](?p=charter_list&l=zh-CN#wxy) | [qm](?p=charter_list&l=zh-CN#qm) feat. [0641](?p=charter_list&l=zh-CN#wxy) | [Arthur](?p=charter_list&l=zh-CN#Arthur) |
 
 ## 解锁方法
 
-阅读剧情收集品[「End Time」](?p=collectible_list#End_Time&l=zh-CN)解锁。
+阅读剧情收集品[「End Time」](?p=collectible_list&l=zh-CN#End_Time)解锁。
 
 ## 更新记录
 
@@ -58,12 +58,13 @@
 
 ## 音乐
 
-- ![网易云音乐图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[Moondread - Kry.exe - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1987568855)
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【BOF:ET】Kry.exe - Moondread【BGA】](https://www.bilibili.com/video/BV1re4y1r7dk/)
+- ![网易云音乐图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/netease-cloud-music.ico)[Moondread - Kry.exe - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1987568855)
+- ![YouTube图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/youtube.ico)[【BOF:ET】 Kry.exe - Moondread【BGA】](https://www.youtube.com/watch?v=MnlqdFuX8Hk)
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【BOF:ET】Kry.exe - Moondread【BGA】](https://www.bilibili.com/video/BV1re4y1r7dk/)
 
 ## 相关视频
 
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Moondread [SY 8.3] 谱面演示](https://www.bilibili.com/video/BV18Deiz9ESS/)
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Moondread [EZ 3.5] 谱面演示](https://www.bilibili.com/video/BV1DkJXzAEGU/)
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Moondread [NT 10.3] 谱面演示](https://www.bilibili.com/video/BV1gSeizsED2/)
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote/烬月光痕】Moondread [NT 10] All Perfect Rank X！](https://www.bilibili.com/video/BV1o2egzhEfY/)（玩家：[九段不合格](https://space.bilibili.com/1633653929/)）
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Moondread [SY 8.3] 谱面演示](https://www.bilibili.com/video/BV18Deiz9ESS/)
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Moondread [EZ 3.5] 谱面演示](https://www.bilibili.com/video/BV1DkJXzAEGU/)
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Moondread [NT 10.3] 谱面演示](https://www.bilibili.com/video/BV1gSeizsED2/)
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【Notanote/烬月光痕】Moondread [NT 10] All Perfect Rank X！](https://www.bilibili.com/video/BV1o2egzhEfY/)（玩家：[九段不合格](https://space.bilibili.com/1633653929/)）

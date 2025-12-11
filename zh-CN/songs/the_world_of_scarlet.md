@@ -12,11 +12,11 @@
 | 曲名 | the world of scarlet |
 | 别名 | 猩红世界 |
 | 授权性质 | 非原创 |
-| 曲师 | [OfficialAz3](?p=composer_list#OfficialAz3&l=zh-CN) |
+| 曲师 | [OfficialAz3](?p=composer_list&l=zh-CN#OfficialAz3) |
 | 时长 | 02:00 |
 | BPM | 210 |
 | 章节 | [单曲](?p=chapters/Singles&l=zh-CN) |
-| 曲绘 | [haohao](?p=illustrator_list#haohao&l=zh-CN) |
+| 曲绘 | [haohao](?p=illustrator_list&l=zh-CN#haohao) |
 
 ## 谱面信息
 
@@ -24,7 +24,7 @@
 | :-: | :-: | :-: |
 | 定数 | 10.0 | 4.5 |
 | 物量 | 791 | 750 |
-| 谱师 | [活性氮](?p=charter_list#HXDan&l=zh-CN),[小嘤箱](?p=charter_list#XyX&l=zh-CN),[甘油](?p=charter_list#Ganyou&l=zh-CN),[舞仙翼](?p=charter_list#wxy&l=zh-CN) | [活性氮](?p=charter_list#HXDan&l=zh-CN),[小嘤箱](?p=charter_list#XyX&l=zh-CN),[甘油](?p=charter_list#Ganyou&l=zh-CN),[舞仙翼](?p=charter_list#wxy&l=zh-CN) |
+| 谱师 | [活性氮](?p=charter_list&l=zh-CN#HXDan),[小嘤箱](?p=charter_list&l=zh-CN#XyX),[甘油](?p=charter_list&l=zh-CN#Ganyou),[舞仙翼](?p=charter_list&l=zh-CN#wxy) | [活性氮](?p=charter_list&l=zh-CN#HXDan),[小嘤箱](?p=charter_list&l=zh-CN#XyX),[甘油](?p=charter_list&l=zh-CN#Ganyou),[舞仙翼](?p=charter_list&l=zh-CN#wxy) |
 
 ## 解锁方法
 
@@ -52,11 +52,11 @@
 
 ## 音乐
 
-- ![网易云音乐图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[the world of scarlet（绯红世界） - OfficialAz3 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2674918018)
-- ![YouTube图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/youtube.ico)[【BOF:TT】the world of scarlet / OfficialAz3 (mov: Echa as "!") #breakcore](https://www.youtube.com/watch?v=Pl1dPRX_Kik)
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【BOF:TT】the world of scarlet / OfficialAz3 (mov: Echa as "!")](https://www.bilibili.com/video/BV1Us4CefED2/)
+- ![网易云音乐图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/netease-cloud-music.ico)[the world of scarlet（绯红世界） - OfficialAz3 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2674918018)
+- ![YouTube图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/youtube.ico)[【BOF:TT】the world of scarlet / OfficialAz3 (mov: Echa as "!") #breakcore](https://www.youtube.com/watch?v=Pl1dPRX_Kik)
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【BOF:TT】the world of scarlet / OfficialAz3 (mov: Echa as "!")](https://www.bilibili.com/video/BV1Us4CefED2/)
 
 ## 相关视频
 
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】the world of scarlet [SY 10.0] 谱面预览 / 猩红世界](https://www.bilibili.com/video/BV1MVHAzoEPw/)
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】the world of scarlet [EZ 4.5] 谱面演示 / 猩红世界](https://www.bilibili.com/video/BV1tVHAzoEAn/)
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】the world of scarlet [SY 10.0] 谱面预览 / 猩红世界](https://www.bilibili.com/video/BV1MVHAzoEPw/)
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】the world of scarlet [EZ 4.5] 谱面演示 / 猩红世界](https://www.bilibili.com/video/BV1tVHAzoEAn/)

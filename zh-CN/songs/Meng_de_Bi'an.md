@@ -12,11 +12,11 @@
 | 曲名 | 梦的彼岸 |
 | 别名 | 无 |
 | 授权性质 | 原创 |
-| 曲师 | [Caviare](?p=composerList#Caviare&l=zh-CN) |
+| 曲师 | [Caviare](?p=composer_list&l=zh-CN#Caviare) |
 | 时长 | 02:59 |
 | BPM | 113 |
 | 章节 | [支线一·花火之夏](?p=chapters/Side_Story_I&l=zh-CN) |
-| 曲绘 | [半界](?p=illustrator_list#Banjie&l=zh-CN) vs. [喑暗](?p=illustrator_list#Yin'an&l=zh-CN) |
+| 曲绘 | [半界](?p=illustrator_list&l=zh-CN#Banjie) vs. [喑暗](?p=illustrator_list&l=zh-CN#Yin'an) |
 
 ## 谱面信息
 
@@ -24,11 +24,11 @@
 | :-: | :-: | :-: |
 | 定数 | 3.0 | 1.0 |
 | 物量 | 483 | 525 |
-| 谱师 | [嘤箱](?p=charter_list#XyX&l=zh-CN) | [嘤箱](?p=charter_list#XyX&l=zh-CN) vs. [Rea_cy](?p=charter_list#Rea_cy&l=zh-CN) |
+| 谱师 | [嘤箱](?p=charter_list&l=zh-CN#XyX) | [嘤箱](?p=charter_list&l=zh-CN#XyX) vs. [Rea_cy](?p=charter_list&l=zh-CN#Rea_cy) |
 
 ## 解锁方法
 
-阅读剧情收集品[「夏の花」](?p=collectible_list#Natsu_no_Hana&l=zh-CN)解锁。
+阅读剧情收集品[「夏の花」](?p=collectible_list&l=zh-CN#Natsu_no_Hana)解锁。
 
 ## 更新记录
 
@@ -56,8 +56,8 @@
 
 ## 音乐
 
-- ![网易云音乐图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[梦的彼岸 - Caviare - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1971867249)
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【电音/Midtempo】霓彩 —— Caviare - 梦的彼岸](https://www.bilibili.com/video/BV1514y197CD/)
+- ![网易云音乐图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/netease-cloud-music.ico)[梦的彼岸 - Caviare - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1971867249)
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【电音/Midtempo】霓彩 —— Caviare - 梦的彼岸](https://www.bilibili.com/video/BV1514y197CD/)
 
 ## 相关视频
 

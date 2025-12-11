@@ -14,11 +14,11 @@
 | 曲名 | 追憶 |
 | 别名 | 无 |
 | 授权性质 | 非原创 |
-| 曲师 | [PIKASONIC](?p=composer_list#PIKASONIC&l=zh-CN) & [なこたんまる](?p=composer_list#Nakontanmaru&l=zh-CN) |
+| 曲师 | [PIKASONIC](?p=composer_list&l=zh-CN#PIKASONIC) & [なこたんまる](?p=composer_list&l=zh-CN#Nakontanmaru) |
 | 时长 | 03:03 |
 | BPM | 303 |
 | 章节 | [主线一·晴雨之遇](?p=chapters/Main_Story_I&l=zh-CN) |
-| 曲绘 | [于白](?p=illustrator_list#Yubai&l=zh-CN) |
+| 曲绘 | [于白](?p=illustrator_list&l=zh-CN#Yubai) |
 
 ## 谱面信息
 
@@ -26,7 +26,7 @@
 | :-: | :-: | :-: | :-: |
 | 定数 | 5.4 | 3.0 | ? |
 | 物量 | 509 | 458 | 351 |
-| 谱师 | [八樱盒](?p=charter_list#XyX&l=zh-CN) feat. [Fyato](?p=charter_list#Fyato&l=zh-CN) | [八樱盒](?p=charter_list#XyX&l=zh-CN) ([活性氮](?p=charter_list#HXDan&l=zh-CN) modified) | [XyX](?p=charter_list#XyX&l=zh-CN) |
+| 谱师 | [八樱盒](?p=charter_list&l=zh-CN#XyX) feat. [Fyato](?p=charter_list&l=zh-CN#Fyato) | [八樱盒](?p=charter_list&l=zh-CN#XyX) ([活性氮](?p=charter_list&l=zh-CN#HXDan) modified) | [XyX](?p=charter_list&l=zh-CN#XyX) |
 
 ## 解锁方法
 
@@ -97,7 +97,6 @@
 はらり空に散った
 
 <div class="NoticeBoard">
-  <br>
   <p style="color: gray;">
     <details>
       <summary>点击展开/折叠游戏中版本被删去歌词</summary>
@@ -168,7 +167,6 @@
 轻轻地散落在空中
 
 <div class="NoticeBoard">
-  <br>
   <p style="color: gray;">
     <details>
       <summary>点击展开/折叠游戏中版本被删去歌词</summary>
@@ -203,14 +201,14 @@
 
 ## 音乐
 
-- ![网易云音乐图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[追憶 (feat. nakotanmaru) - PIKASONIC / なこたんまる - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1869161372)<sup><a id="note-1.1" href="#ref-1">[1]</a></sup>
-- ![YouTube图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/youtube.ico)[PIKASONIC - 追憶 (feat.nakotanmaru)](https://www.youtube.com/watch?v=8TpMs2oS5u0)<sup><a id="note-1.2" href="#ref-1">[1]</a></sup>
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[PIKASONIC - 追憶 (feat.nakotanmaru)](https://www.bilibili.com/video/BV1C3411R7c2/)<sup><a id="note-1.3" href="#ref-1">[1]</a></sup>
+- ![网易云音乐图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/netease-cloud-music.ico)[追憶 (feat. nakotanmaru) - PIKASONIC / なこたんまる - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1869161372)<sup><a id="note-1.1" href="#ref-1">[1]</a></sup>
+- ![YouTube图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/youtube.ico)[PIKASONIC - 追憶 (feat.nakotanmaru)](https://www.youtube.com/watch?v=8TpMs2oS5u0)<sup><a id="note-1.2" href="#ref-1">[1]</a></sup>
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[PIKASONIC - 追憶 (feat.nakotanmaru)](https://www.bilibili.com/video/BV1C3411R7c2/)<sup><a id="note-1.3" href="#ref-1">[1]</a></sup>
 
 ## 相关视频
 
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】追憶 [SY 5.4] 谱面演示](https://www.bilibili.com/video/BV1negZzrECL/)
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】追憶 [EZ 3.0] 谱面演示](https://www.bilibili.com/video/BV1pYgZzGEcM/)
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】追憶 [SY 5.4] 谱面演示](https://www.bilibili.com/video/BV1negZzrECL/)
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】追憶 [EZ 3.0] 谱面演示](https://www.bilibili.com/video/BV1pYgZzGEcM/)
 
 ## 注释
 

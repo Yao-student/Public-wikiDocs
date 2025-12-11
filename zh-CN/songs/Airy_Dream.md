@@ -12,11 +12,11 @@
 | 曲名 | Airy Dream |
 | 别名 | 无 |
 | 授权性质 | 原创 |
-| 曲师 | [Bob Hou](?p=composerList#Bob_Hou&l=zh-CN) & [DEP](?p=composerList#DEP&l=zh-CN) |
+| 曲师 | [Bob Hou](?p=composer_list&l=zh-CN#Bob_Hou) & [DEP](?p=composer_list&l=zh-CN#DEP) |
 | 时长 | 03:12 |
 | BPM | 128 |
 | 章节 | [支线一·花火之夏](?p=chapters/Side_Story_I&l=zh-CN) |
-| 曲绘 | [百利](?p=illustrator_list#Baili&l=zh-CN) |
+| 曲绘 | [百利](?p=illustrator_list&l=zh-CN#Baili) |
 
 ## 谱面信息
 
@@ -24,11 +24,11 @@
 | :-: | :-: | :-: |
 | 定数 | 7.3 | 1.0 |
 | 物量 | 483 | 525 |
-| 谱师 | [嘤箱](?p=charter_list#XyX&l=zh-CN) | [嘤箱](?p=charter_list#XyX&l=zh-CN) (Modified by [Rea_cy](?p=charter_list#Rea_cy&l=zh-CN)) |
+| 谱师 | [嘤箱](?p=charter_list&l=zh-CN#XyX) | [嘤箱](?p=charter_list&l=zh-CN#XyX) (Modified by [Rea_cy](?p=charter_list&l=zh-CN#Rea_cy)) |
 
 ## 解锁方法
 
-阅读剧情收集品[「Rainbow Flavor!」](?p=collectible_list#Rainbow_Flavor!&l=zh-CN)解锁。
+阅读剧情收集品[「Rainbow Flavor!」](?p=collectible_list&l=zh-CN#Rainbow_Flavor!)解锁。
 
 ## 更新记录
 
@@ -57,7 +57,7 @@
 
 ## 音乐
 
-- ![网易云音乐图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[Airy Dream - Bob Hou/DEP/Sakura records official樱花记录 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2073434954)
+- ![网易云音乐图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/netease-cloud-music.ico)[Airy Dream - Bob Hou/DEP/Sakura records official樱花记录 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2073434954)
 
 ## 相关视频
 

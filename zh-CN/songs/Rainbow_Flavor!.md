@@ -12,11 +12,11 @@
 | 曲名 | Rainbow Flavor! |
 | 别名 | 彩虹味 |
 | 授权性质 | 非原创 |
-| 曲师 | [SuggestedCopy7](?p=composer_list#SuggestedCopy7&l=zh-CN) & [Yashu](?p=composer_list#Yashu&l=zh-CN) |
+| 曲师 | [SuggestedCopy7](?p=composer_list&l=zh-CN#SuggestedCopy7) & [Yashu](?p=composer_list&l=zh-CN#Yashu) |
 | 时长 | 02:40 |
 | BPM | 128 |
 | 章节 | [支线一·花火之夏](?p=chapters/Side_Story_I&l=zh-CN) |
-| 曲绘 | [纸箱林Exut](?p=illustrator_list#Exut&l=zh-CN) |
+| 曲绘 | [纸箱林Exut](?p=illustrator_list&l=zh-CN#Exut) |
 
 ## 谱面信息
 
@@ -24,11 +24,11 @@
 | :-: | :-: | :-: |
 | 定数 | 6.3 | 1.5 |
 | 物量 | 483 | 525 |
-| 谱师 | [嘤箱](?p=charter_list#XyX&l=zh-CN) | [嘤箱](?p=charter_list#XyX&l=zh-CN) |
+| 谱师 | [嘤箱](?p=charter_list&l=zh-CN#XyX) | [嘤箱](?p=charter_list&l=zh-CN#XyX) |
 
 ## 解锁方法
 
-阅读剧情收集品[「Summer Dream」](?p=collectible_list#Summer_Dream&l=zh-CN)解锁。
+阅读剧情收集品[「Summer Dream」](?p=collectible_list&l=zh-CN#Summer_Dream)解锁。
 
 ## 更新记录
 
@@ -58,13 +58,13 @@
 
 ## 音乐
 
-- ![网易云音乐图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[Rainbow Flavor!（彩虹的味道） - SuggestedCopy7/亚述 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2039084825)
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【原创萌系电音EP】SuggestedCopy7&YashuUwU—《Rainbow Flavor!》单曲试听~](https://www.bilibili.com/video/BV1RT41187Hi/)
+- ![网易云音乐图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/netease-cloud-music.ico)[Rainbow Flavor!（彩虹的味道） - SuggestedCopy7/亚述 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2039084825)
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【原创萌系电音EP】SuggestedCopy7&YashuUwU—《Rainbow Flavor!》单曲试听~](https://www.bilibili.com/video/BV1RT41187Hi/)
 
 ## 相关视频
 
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Rainbow Flavor! [SY 7.0] 谱面演示](https://www.bilibili.com/video/BV1278RzsEiN/)
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Rainbow Flavor! [EZ 1.5] 谱面演示](https://www.bilibili.com/video/BV1KZ8CztEkJ/)
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Rainbow Flavor! [SY 7.0] 谱面演示](https://www.bilibili.com/video/BV1278RzsEiN/)
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Rainbow Flavor! [EZ 1.5] 谱面演示](https://www.bilibili.com/video/BV1KZ8CztEkJ/)
 
 ## 注释
 
