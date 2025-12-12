@@ -16,7 +16,7 @@
 | 时长 | 02:59 |
 | BPM | 113 |
 | 章节 | [支线一·花火之夏](?p=chapters/Side_Story_I&l=zh-CN) |
-| 曲绘 | [半界](?p=illustrator_list&l=zh-CN#Banjie) vs. [喑暗](?p=illustrator_list&l=zh-CN#Yin'an) |
+| 曲绘 | [半界](?p=illustrator_list&l=zh-CN#Banjie) vs. [喑暗](?p=illustrator_list&l=zh-CN#Yin-an) |
 
 ## 谱面信息
 

@@ -28,7 +28,7 @@
 
 ## 解锁方法
 
-阅读剧情收集品[「梦的彼岸」](?p=collectible_list&l=zh-CN#Meng_de_Bi'an)解锁。
+阅读剧情收集品[「梦的彼岸」](?p=collectible_list&l=zh-CN#Meng_de_Bi-an)解锁。
 
 ## 更新记录
 

@@ -54,7 +54,7 @@
   - [The Fire](?p=songs/The_Fire&l=zh-CN) SP：9.8 （为了谱面与音乐的契合度，The Fire并没有按照定数大小排序）
   - [能量过载-オーバロード-](?p=songs/Nengliang_Guozai-Overload-&l=zh-CN) [SY 9.5]
   - [《Ж》](?p=songs/Convergence&l=zh-CN) [SY 10.5]
-  - [Le Porteur d'Ombre](?p=songs/Le_Porteur_d'Ombre&l=zh-CN) [SY 10.5]
+  - [Le Porteur d'Ombre](?p=songs/Le_Porteur_d-Ombre&l=zh-CN) [SY 10.5]
 
 ## 攻略
 
