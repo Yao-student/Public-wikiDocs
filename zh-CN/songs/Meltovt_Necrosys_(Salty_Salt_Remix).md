@@ -36,8 +36,8 @@
 | :-: | :-: | :-: |
 | 2025/03/29 | v2.0.0 | Steam侧上线曲目 |
 | 2025/04/02 | v2.0.0 | TapTap侧上线曲目 |
-| 2025/05/28 | v2.2.1 | iOS外区侧上线曲目 |
-| 2025/07/21 | v2.4.1 | iOS国区侧上线曲目 |
+| 2025/05/28 | v2.2.1 | App Store外区侧上线曲目 |
+| 2025/07/21 | v2.4.1 | App Store国区侧上线曲目 |
 | 2025/08/16 | v2.5.0 | SY难度定数由9.6改为9.4 |
 
 ## 游戏相关
@@ -57,13 +57,13 @@
 
 ## 音乐
 
-- ![网易云音乐图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/netease-cloud-music.ico)[Meltovt Necrosys (Salty Salt Remix) - Salty Salt/Halv/Notanote - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2714634341)
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【Notanote x Soul Notes】Meltovt Necrosys (Salty Salt Remix) - Salty Salt](https://www.bilibili.com/video/BV1v6NceAEdJ/)
+- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[Meltovt Necrosys (Salty Salt Remix) - Salty Salt/Halv/Notanote - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2714634341)
+- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote x Soul Notes】Meltovt Necrosys (Salty Salt Remix) - Salty Salt](https://www.bilibili.com/video/BV1v6NceAEdJ/)
 
 ## 相关视频
 
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Meltovt Necrosys (Salty Salt Remix) [SY 9.4] 谱面演示 / 蓝莓牛奶 / 咸盐牛奶](https://www.bilibili.com/video/BV1TqVrzjEBa/)
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Meltovt Necrosys (Salty Salt Remix) [EZ 4.0] 谱面演示 / 蓝莓牛奶 / 咸盐牛奶](https://www.bilibili.com/video/BV1mqVrzLEj3/)
+- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Meltovt Necrosys (Salty Salt Remix) [SY 9.4] 谱面演示 / 蓝莓牛奶 / 咸盐牛奶](https://www.bilibili.com/video/BV1TqVrzjEBa/)
+- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Meltovt Necrosys (Salty Salt Remix) [EZ 4.0] 谱面演示 / 蓝莓牛奶 / 咸盐牛奶](https://www.bilibili.com/video/BV1mqVrzLEj3/)
 
 ## 注释
 

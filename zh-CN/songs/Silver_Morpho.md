@@ -11,7 +11,7 @@
 | :-: | :-: |
 | 曲名 | Silver Morpho |
 | 别名 | 银闪蝶 |
-| 授权性质 | 独家 |
+| 授权性质 | 非独占 |
 | 曲师 | [sakakosmos](?p=composer_list&l=zh-CN#sakakosmos) |
 | 时长 | 02:49 |
 | BPM | 75 |
@@ -20,15 +20,22 @@
 
 ## 谱面信息
 
-此部分暂无内容。
+| 信息 | SY |
+| :-: | :-: |
+| 定数 | 6.0 |
+| 物量 | 475 |
+| 谱师 | [xyx](?p=charter_list&l=zh-CN#XyX) |
 
 ## 解锁方法
 
-此部分暂无内容。
+使用600糖果解锁。
 
 ## 更新记录
 
-此部分暂无内容。
+| 时间 | 版本 | 内容 |
+| :-: | :-: | :-: |
+| 2025/12/14 | v2.8.0 | Steam、TapTap侧上线曲目 |
+| 2025/12/16 | v2.8.0 | App Store侧上线曲目 |
 
 ## 游戏相关
 
@@ -180,9 +187,9 @@ Are you goin' down with me?
 
 ## 音乐
 
-- ![网易云音乐图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/netease-cloud-music.ico)[Silver Morpho（银闪蝶） - sakakosmos - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2612128470)
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【官方MV】 《Silver Morpho》（银闪蝶）- sakakosmos【先行主打1】【PROJECT 001】](https://www.bilibili.com/video/BV1sr421M711/)
+- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[Silver Morpho（银闪蝶） - sakakosmos - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2612128470)
+- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【官方MV】 《Silver Morpho》（银闪蝶）- sakakosmos【先行主打1】【PROJECT 001】](https://www.bilibili.com/video/BV1sr421M711/)
 
 ## 相关视频
 
-此部分暂无内容。
+- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Silver Morpho [SY 6.0] 谱面演示](https://www.bilibili.com/video/BV1QLqQB9EEo/)

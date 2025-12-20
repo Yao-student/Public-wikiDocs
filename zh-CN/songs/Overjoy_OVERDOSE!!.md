@@ -20,15 +20,22 @@
 
 ## 谱面信息
 
-此部分暂无内容。
+| 信息 | SY |
+| :-: | :-: |
+| 定数 | 9.1 |
+| 物量 | 897 |
+| 谱师 | [小嘤箱](?p=charter_list&l=zh-CN#XyX) |
 
 ## 解锁方法
 
-此部分暂无内容。
+使用600糖果解锁。
 
 ## 更新记录
 
-此部分暂无内容。
+| 时间 | 版本 | 内容 |
+| :-: | :-: | :-: |
+| 2025/12/14 | v2.8.0 | Steam、TapTap侧上线曲目 |
+| 2025/12/16 | v2.8.0 | App Store侧上线曲目 |
 
 ## 游戏相关
 
@@ -104,26 +111,26 @@ So come back again, okay?
 
 - 翻译：[Shiniborosu](https://music.163.com/&l=zh-CN#/user/home?id=6369836164) (Modified by [大松_Dason](?p=charter_list#Dason))
 
-你好 - 你好 - 你好!
+你好 - 你好 - 你好！
 我是你的多文化BMS虚拟主播，Luna Fozer～！！
 欢迎浏览到我的频道，lovelyrad.io！
 然后就是今天，我写了这首歌，只为了你写的喔
-预…备!
+预…备！
 
-今天大家感觉如何?
+今天大家感觉如何？
 只有你和我，所以请别分享或保存回放
-今天大家感觉如何?
+今天大家感觉如何？
 告诉我怎 怎 怎，现在给我 看 看 看，哦哦
 我想让你们都看向我。（看向我，呀）
 我不会跳舞，但只为你，我会做你说的任何事。
 你不待着陪我玩一会儿吗？（陪我玩）
-告诉我怎 怎 怎，现在给我 看 看 看 (咱们走！)
+告诉我怎 怎 怎，现在给我 看 看 看（咱们走！）
 
 这是Fozer，每一天
 真完美，对我说吧
 别的都不满足，呃呃呃
 按下1号按钮开始（OK）
-忽略“开始”按钮（等等，啥?）
+忽略“开始”按钮（等等，啥？）
 等级是用飞镖或者秘密投票决定的
 
 准备你的公理，一个魔法混合人，一个无情的敌人
@@ -131,8 +138,8 @@ So come back again, okay?
 我还活着，爱着，我在燃烧 燃烧 燃-燃-燃-燃-燃烧
 派对的人安静，don't stop to the club go silent
 
-现在不能放手， 现在来到我身边
-我们再看一遍回放， 只看我
+现在不能放手，现在来到我身边
+我们再看一遍回放，只看我
 答应我，不要错过任何通知。
 一种难以言喻的东西，和我一起大声唱出主题！
 
@@ -150,11 +157,11 @@ So come back again, okay?
 嘿 嘿 嘿 嘿，B-M-S 耶！
 哇～耶～（咱们走！！）
 
-今天大家感觉如何？（今天感觉如何?）
+今天大家感觉如何？（今天感觉如何？）
 只有你和我，所以请别分享或保存回放
 今天大家感觉如何？（你们好吗）
 告诉我怎 怎 怎，现在给我 看 看 看，哦哦
-当我看我的心衰败，就死了 (看它枯萎)
+当我看我的心衰败，就死了（看它枯萎）
 亲属选择，为了你，我会做任何事。
 在我飞走之前，建一个巢。（飞走）
 告诉我怎 怎 怎，现在给我 看 看 看，
@@ -162,10 +169,10 @@ So come back again, okay?
 
 ## 音乐
 
-- ![网易云音乐图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/netease-cloud-music.ico)[Overjoy ★ OVERDOSE!! - BilliumMoto/黒皇帝/Sobrem/Vally.exe - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2106610918)
-- ![YouTube图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/youtube.ico)[【BOF:NT】Overjoy ★ OVERDOSE!!](https://www.youtube.com/watch?v=tbVnVaIE5ys)
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【BOF:NT】Luna Fozer(BilliumMoto & 黒皇帝 & Sobrem) - Overjoy ★ OVERDOSE!!](https://www.bilibili.com/video/BV1W94y1j7Q2/)
+- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[Overjoy ★ OVERDOSE!! - BilliumMoto/黒皇帝/Sobrem/Vally.exe - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2106610918)
+- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/youtube.ico)[【BOF:NT】Overjoy ★ OVERDOSE!!](https://www.youtube.com/watch?v=tbVnVaIE5ys)
+- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【BOF:NT】Luna Fozer(BilliumMoto & 黒皇帝 & Sobrem) - Overjoy ★ OVERDOSE!!](https://www.bilibili.com/video/BV1W94y1j7Q2/)
 
 ## 相关视频
 
-此部分暂无内容。
+- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Overjoy ★ OVERDOSE!! [SY 9.1] 谱面演示](https://www.bilibili.com/video/BV1hLqQB9ECe/)

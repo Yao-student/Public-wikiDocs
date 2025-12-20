@@ -42,7 +42,7 @@
 | [今天不是明天](?p=songs/Jintian_Bushi_Mingtian&l=zh-CN) | [音波狂潮](?p=chapters/LiveMania&l=zh-CN) | **SY** [小嘤箱](?p=charter_list&l=zh-CN#XyX) ≠ [舞仙翼](?p=charter_list&l=zh-CN#wxy) ≠ [zecolost](?p=charter_list&l=zh-CN#zecolost) | 谱师名义用不等于号连接，对应曲名中的“不是” |
 | [甜涩之梦](?p=songs/Tianse_zhi_Meng&l=zh-CN) | [音波狂潮](?p=chapters/LiveMania&l=zh-CN) | **SY** [嘤箱](?p=charter_list&l=zh-CN#XyX)之梦 | 谱师名义模仿曲名 |
 | [恶修女——永火熔铸](?p=songs/Exiunyu_Yonghuo_Rongzhu&l=zh-CN) | [音波狂潮](?p=chapters/LiveMania&l=zh-CN) | **SY** [国际](?p=charter_list&l=zh-CN#Greenball233)[箱](?p=charter_list&l=zh-CN#XyX)[棋](?p=charter_list&l=zh-CN#zecolost) | SY难度谱师名义为“国际象棋”谐音，对应BGA与谱面表演中的国际象棋 |
-| [IGNITE](?p=songs/IGNITE&l=zh-CN) | [音波狂潮](./wiki?p=chapters/LiveMania&l=zh-CN) | **SY** THE NEXT >>> [小嘤箱](.wiki?p=charter_list&l=zh-CN#XyX) + [AwlF](./wiki?p=charter_list&l=zh-CN#AwlF) + [大松](./wiki?p=charter_list&l=zh-CN#Dason)<br>**EZ** [AAA](./wiki?p=charter_list&l=zh-CN#AwlF)_[大松](./wiki?p=charter_list&l=zh-CN#Dason)[嘤箱](.wiki?p=charter_list&l=zh-CN#XyX)批[Fa](./wiki?p=charter_list&l=zh-CN#AwlF) | SY难度谱师名义中的“THE NEXT >>>”代表音波狂潮3.0现场的艺人登场 |
+| [IGNITE](?p=songs/IGNITE&l=zh-CN) | [音波狂潮](./wiki?p=chapters/LiveMania&l=zh-CN) | **SY** THE NEXT >>> [小嘤箱](.wiki?p=charter_list&l=zh-CN#XyX) + [AwlF](./wiki?p=charter_list&l=zh-CN#AwlF) + [大松](./wiki?p=charter_list&l=zh-CN#Dason)<br>**EZ** AAA_[大松](./wiki?p=charter_list&l=zh-CN#Dason)[嘤箱](.wiki?p=charter_list&l=zh-CN#XyX)批[Fa](./wiki?p=charter_list&l=zh-CN#AwlF) | SY难度谱师名义中的“THE NEXT >>>”代表音波狂潮3.0现场的艺人登场 |
 | [Feeling Lonely](?p=songs/Feeling_Lonely&l=zh-CN) | [UXN Records](?p=chapters/UXN_Records&l=zh-CN) | **SY** [Lei motife](?p=charter_list&l=zh-CN#Lei_motife) vs. [qm](?p=charter_list&l=zh-CN#qm) feat. [小嘤箱](?p=charter_list&l=zh-CN#XyX)<br>**TL** [yx](?p=charter_list&l=zh-CN#XyX) | |
 | [Velocity](?p=songs/Velocity&l=zh-CN) | [UXN Records](?p=chapters/UXN_Records&l=zh-CN) | **SY** [福luuuu](?p=charter_list&l=zh-CN#Fulu) & [嘤箱](?p=charter_list&l=zh-CN#XyX)<br>**EZ** [福luuuu](?p=charter_list&l=zh-CN#Fulu) & [嘤箱](?p=charter_list&l=zh-CN#XyX)| |
 | [纸上江山](?p=songs/Zhishang_Jiangshan&l=zh-CN) | [单曲](?p=chapters/Singles&l=zh-CN) | **SY** [纸箱](?p=charter_list&l=zh-CN#XyX)<br>**EZ** [纸箱](?p=charter_list&l=zh-CN#XyX) | 谱师名义中的“纸”模仿曲名 |
@@ -70,6 +70,8 @@
 | [Victory Sense](?p=songs/Victory_Sense&l=zh-CN) | [单曲](?p=chapters/Singles&l=zh-CN) | **SY** [小嘤箱](?p=charter_list&l=zh-CN#XyX)<br>**EZ** [小嘤箱](?p=charter_list&l=zh-CN#XyX) feat. [AwlF](?p=charter_list&l=zh-CN#AwlF) | |
 | [Lapis](?p=songs/Lapis&l=zh-CN) | [单曲](?p=chapters/Singles&l=zh-CN) | **SY** [Lei](?p=charter_list&l=zh-CN#Lei_motife) & [xyx](?p=charter_list&l=zh-CN#XyX) feat. [AwlF](?p=charter_list&l=zh-CN#AwlF)<br>**EZ** [AwlF](?p=charter_list&l=zh-CN#AwlF) feat. [Lei](?p=charter_list&l=zh-CN#Lei_motife) & [xyx](?p=charter_list&l=zh-CN#XyX) | |
 | [Fever Dream](?p=songs/Fever_Dream&l=zh-CN) | [单曲](?p=chapters/Singles&l=zh-CN) | **SY** [xyx](?p=charter_list&l=zh-CN#XyX) & [静似止](?p=charter_list&l=zh-CN#jm333)<br>**EZ** [xyx](?p=charter_list&l=zh-CN#XyX) & [静似止](?p=charter_list&l=zh-CN#jm333) | |
+| [Overjoy ★ OVERDOSE!!](?p=songs/Overjoy_OVERDOSE!!&l=zh-CN) | [单曲](?p=chapters/Singles&l=zh-CN) | **SY** [小嘤箱](?p=charter_list&l=zh-CN#XyX) | |
+| [Silver Morpho](?p=songs/Silver_Morpho&l=zh-CN) | [单曲](?p=chapters/Singles&l=zh-CN) | **SY** [xyx](?p=charter_list&l=zh-CN#XyX) | |
 
 <a id="wxy"></a>
 
@@ -269,7 +271,7 @@
 
 | 曲名 | 所属章节 | 谱师名义 | 备注 |
 | :-: | :-: | :-: | :-: |
-| [IGNITE](?p=songs/IGNITE&l=zh-CN) | [音波狂潮](./wiki?p=chapters/LiveMania&l=zh-CN) | **SY** THE NEXT >>> [小嘤箱](.wiki?p=charter_list&l=zh-CN#XyX) + [AwlF](./wiki?p=charter_list&l=zh-CN#AwlF) + [大松](./wiki?p=charter_list&l=zh-CN#Dason)<br>**EZ** [AAA](./wiki?p=charter_list&l=zh-CN#AwlF)_[大松](./wiki?p=charter_list&l=zh-CN#Dason)[嘤箱](.wiki?p=charter_list&l=zh-CN#XyX)批[Fa](./wiki?p=charter_list&l=zh-CN#AwlF) | SY难度谱师名义中的“THE NEXT >>>”代表音波狂潮3.0现场的艺人登场 |
+| [IGNITE](?p=songs/IGNITE&l=zh-CN) | [音波狂潮](./wiki?p=chapters/LiveMania&l=zh-CN) | **SY** THE NEXT >>> [小嘤箱](.wiki?p=charter_list&l=zh-CN#XyX) + [AwlF](./wiki?p=charter_list&l=zh-CN#AwlF) + [大松](./wiki?p=charter_list&l=zh-CN#Dason)<br>**EZ** AAA_[大松](./wiki?p=charter_list&l=zh-CN#Dason)[嘤箱](.wiki?p=charter_list&l=zh-CN#XyX)批[Fa](./wiki?p=charter_list&l=zh-CN#AwlF) | SY难度谱师名义中的“THE NEXT >>>”代表音波狂潮3.0现场的艺人登场 |
 | [Get Back](?p=songs/Get_Back&l=zh-CN) | [Soul_Notes](./wiki?p=chapters/Soul_Notes&l=zh-CN) | **SY** [乾啊啊啊啊啊](.wiki?p=charter_list&l=zh-CN#qa) & [AwlF](./wiki?p=charter_list&l=zh-CN#AwlF)<br>**EZ** [AwlF](./wiki?p=charter_list&l=zh-CN#AwlF) & [乾啊啊啊啊啊](.wiki?p=charter_list&l=zh-CN#qa) | |
 | [Mizu](?p=songs/Mizu&l=zh-CN) | [单曲](?p=chapters/Singles&l=zh-CN) | **EZ** [二回](?p=charter_list&l=zh-CN#AwlF)：[一曲浮槎云水间](?p=charter_list&l=zh-CN#XyX) | |
 | [Victory Sense](?p=songs/Victory_Sense&l=zh-CN) | [单曲](?p=chapters/Singles&l=zh-CN) | **EZ** [小嘤箱](?p=charter_list&l=zh-CN#XyX) feat. [AwlF](?p=charter_list&l=zh-CN#AwlF) | |
@@ -303,7 +305,7 @@
 
 | 曲名 | 所属章节 | 谱师名义 | 备注 |
 | :-: | :-: | :-: | :-: |
-| [IGNITE](?p=songs/IGNITE&l=zh-CN) | [音波狂潮](./wiki?p=chapters/LiveMania&l=zh-CN) | **SY** THE NEXT >>> [小嘤箱](.wiki?p=charter_list&l=zh-CN#XyX) + [AwlF](./wiki?p=charter_list&l=zh-CN#AwlF) + [大松](./wiki?p=charter_list&l=zh-CN#Dason)<br>**EZ** [AAA](./wiki?p=charter_list&l=zh-CN#AwlF)_[大松](./wiki?p=charter_list&l=zh-CN#Dason)[嘤箱](.wiki?p=charter_list&l=zh-CN#XyX)批[Fa](./wiki?p=charter_list&l=zh-CN#AwlF) | SY难度谱师名义中的“THE NEXT >>>”代表音波狂潮3.0现场的艺人登场 |
+| [IGNITE](?p=songs/IGNITE&l=zh-CN) | [音波狂潮](./wiki?p=chapters/LiveMania&l=zh-CN) | **SY** THE NEXT >>> [小嘤箱](.wiki?p=charter_list&l=zh-CN#XyX) + [AwlF](./wiki?p=charter_list&l=zh-CN#AwlF) + [大松](./wiki?p=charter_list&l=zh-CN#Dason)<br>**EZ** AAA_[大松](./wiki?p=charter_list&l=zh-CN#Dason)[嘤箱](.wiki?p=charter_list&l=zh-CN#XyX)批[Fa](./wiki?p=charter_list&l=zh-CN#AwlF) | SY难度谱师名义中的“THE NEXT >>>”代表音波狂潮3.0现场的艺人登场 |
 
 <a id="SeRazon"></a>
 

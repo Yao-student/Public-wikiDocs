@@ -85,7 +85,7 @@
 | [今天不是明天](?p=songs/Jintian_Bushi_Mingtian&l=zh-CN) | [PIKASONIC](?p=composer_list&l=zh-CN#PIKASONIC) feat. [兰音Reine](?p=composer_list&l=zh-CN#Reine) | [KiTA](?p=illustrator_list&l=zh-CN#KiTA) | v1.5.0 | SY 7.0<br>EZ 4.0 |
 | [甜涩之梦](?p=songs/Tianse_zhi_Meng&l=zh-CN) | [YUC'e](?p=composer_list&l=zh-CN#YUC-e) feat. [早稻叽](?p=composer_list&l=zh-CN#Zaodaoji) | [岚](?p=illustrator_list&l=zh-CN#Lan) | v1.5.0 | SY 5.3 |
 | [恶修女——永火熔铸](?p=songs/Exiunyu_Yonghuo_Rongzhu&l=zh-CN) | [负离子SYNTHETIC](?p=composer_list&l=zh-CN#Fulizi_SYNTHETIC) feat. [黑泽诺亚NOIR](?p=composer_list&l=zh-CN#Noir) | [黑茶](?p=illustrator_list&l=zh-CN#Heicha) | v1.5.0 | SY 6.1<br>TL 7.5 |
-| [IGNITE](?p=songs/IGNITE&l=zh-CN) | [USAO](?p=composer_list&l=zh-CN#USAO) vs. [Massive New Krew](?p=composer_list&l=zh-CN#Massive_New_Krew) | [LiveMania](?p=illustrator_list&l=zh-CN#LAM) | v2.6.0 | SY 9.3<br>EZ 4.5 |
+| [IGNITE](?p=songs/IGNITE&l=zh-CN) | [USAO](?p=composer_list&l=zh-CN#USAO) vs. [Massive New Krew](?p=composer_list&l=zh-CN#Massive_New_Krew) | [LAM](?p=illustrator_list&l=zh-CN#LAM) | v2.6.0 | SY 9.3<br>EZ 4.5 |
 
 ## [UXN Records](?p=chapter/UXN_Records)
 
@@ -117,7 +117,7 @@
 | [life flashes before weeb eyes](?p=songs/life_flashes_before_weeb_eyes&l=zh-CN) | [BilliumMoto](?p=composer_list&l=zh-CN#BilliumMoto) | [半界](?p=illustrator_list&l=zh-CN#Semiryoiki) | v1.1.0 | SY 7.7<br>EZ 4.0 |
 | [浮光 (The History)](?p=songs/The_History&l=zh-CN) | [Jannik](?p=composer_list&l=zh-CN#Jannik) | [半界](?p=illustrator_list&l=zh-CN#Semiryoiki)叫来了[ori](?p=illustrator_list&l=zh-CN#ori) | v1.1.0 | SY 5.9<br>EZ 3.5 |
 | [《Ж》](?p=songs/Convergence&l=zh-CN) | [LYRi "Cyanblue" WHiTE](?p=composer_list&l=zh-CN#tkqn14) x [NIKANON](?p=composer_list&l=zh-CN#NIKANON) | [半界](?p=illustrator_list&l=zh-CN#Semiryoiki) | v1.1.0 | SY 10.5<br>TL 7.8 |
-| [Random](?p=songs/Random&l=zh-CN) | [Sobrem](?p=composer_list&l=zh-CN#Sobrem) × [Silentroom](?p=composer_list&l=zh-CN#Silentroom) | [半界](?p=illustrator_list&l=zh-CN#Semiryoiki) | v1.2.0 | SY 8.4 |
+| [Random](?p=songs/Random&l=zh-CN) | [Sobrem](?p=composer_list&l=zh-CN#Sobrem) × [Silentroom](?p=composer_list&l=zh-CN#Silentroom) | [半界](?p=illustrator_list&l=zh-CN#Semiryoiki) | v1.2.0 | SY 8.4<br>EZ 3.0 |
 | [Abatement](?p=songs/Abatement&l=zh-CN) | [SNKS](?p=composer_list&l=zh-CN#SNKS) & [mimitsu](?p=composer_list&l=zh-CN#mimitsu) | v1.4.0 | [cyana'](?p=illustrator_list&l=zh-CN#cyana') | SY 8.1<br>EZ 2.5 |
 | [self-dissociation](?p=songs/self-dissociation&l=zh-CN) | [Lidelle](?p=composer_list&l=zh-CN#Kurokotei) × [Sobrem](?p=composer_list&l=zh-CN#Sobrem) × [Sennzai](?p=composer_list&l=zh-CN#Sennzai) | [半界](?p=illustrator_list&l=zh-CN#Semiryoiki) | v1.6.0 | SY 9.1<br>EZ 4.5 |
 | [Nakunaru](?p=songs/Nakunaru&l=zh-CN) | [P3T](?p=composer_list&l=zh-CN#P3T) | [Keiby](?p=illustrator_list&l=zh-CN#Keiby) | v1.7.0 | SY 8.0 |
@@ -132,12 +132,14 @@
 | [DayBreak](?p=songs/DayBreak&l=zh-CN) | [shadow_bling](?p=composer_list&l=zh-CN#shadow_bling) & [ТЕЕМСИКЛ](?p=composer_list&l=zh-CN#ТЕЕМSYKL) & [SKa2or](?p=composer_list&l=zh-CN#SKa2or) feat. 左乙ZOEE | [Chen-ing尘音文化](?p=illustrator_list&l=zh-CN#Chen-ing) | v2.6.0 | SY 7.9<br>EZ 5.1 |
 | [幽体離脱](?p=songs/Yuutai_Ridatsu&l=zh-CN) | [きくお](?p=composer_list&l=zh-CN#Kikuo) feat. 初音ミク | [瓶装可乐](?p=illustrator_list&l=zh-CN#BottledSodaa) | v2.6.0 | SY 5.6 |
 | [the world of scarlet](?p=songs/the_world_of_scarlet&l=zh-CN) | [OfficialAz3](?p=composer_list&l=zh-CN#OfficialAz3) | [haohao](?p=illustrator_list&l=zh-CN#haohao) | v2.6.0 | SY 10.0<br>EZ 4.5 |
-| [F℟IEND](?p=songs/FRIEND&l=zh-CN) | [D_AAN](?p=composer_list&l=zh-CN#D_AAN) | [半界](?p=illustrator_list&l=zh-CN#Semiryoiki) & [X-chalk](?p=illustrator_list&l=zh-CN#X-chalk) | v2.7.0 | SY 8.4<br>EZ 4.0 |
+| [F℟IEND](?p=songs/FRIEND&l=zh-CN) | [D_AAN](?p=composer_list&l=zh-CN#D_AAN) | [半界](?p=illustrator_list&l=zh-CN#Semiryoiki) & [X-chalk](?p=illustrator_list&l=zh-CN#X-chalk) | v2.7.0 | SY 8.6<br>EZ 4.0 |
 | [Mizu](?p=songs/Mizu&l=zh-CN) | [Itz咸鱼](?p=composer_list&l=zh-CN#Itz_Xianyu) | [CroxsBOss](?p=illustrator_list&l=zh-CN#CroxsBOss) | v2.7.0 | SY 8.4<br>EZ 3.0 |
 | [Lapis](?p=songs/Lapis&l=zh-CN) | [SHIKI](?p=composer_list&l=zh-CN#SHIKI) | [半界](?p=illustrator_list&l=zh-CN#Semiryoiki) | v2.7.0 | SY 8.6<br>EZ 2.5 |
 | [Victory Sense](?p=songs/Victory_Sense&l=zh-CN) | [KAH](?p=composer_list&l=zh-CN#KAH) | [LUMINESCENCEP](?p=illustrator_list&l=zh-CN#LUMINESCENCEP) feat. [X-chalk](?p=illustrator_list&l=zh-CN#X-chalk) | v2.7.0 | SY 7.7<br>EZ 3.0 |
 | [Fever Dream](?p=songs/Fever_Dream&l=zh-CN) | [Hundotte](?p=composer_list&l=zh-CN#Hundotte) & [BilliumMoto](?p=composer_list&l=zh-CN#BilliumMoto) | [Transendium](?p=illustrator_list&l=zh-CN#Transendium) | v2.7.0 | SY 9.9<br>EZ 4.0 |
 | [Glimmer](?p=songs/Glimmer&l=zh-CN) | [Akiuta](?p=composer_list&l=zh-CN#Akiuta) | [Ameru_nya](?p=illustrator_list&l=zh-CN#Ameru_nya) | v2.7.3 | SY 5.3 |
+| [Overjoy ★ OVERDOSE!!](?p=songs/Overjoy_OVERDOSE!!&l=zh-CN) | Luna Fozer ([BilliumMoto](?p=composer_list&l=zh-CN#BilliumMoto) & [黒皇帝](?p=composer_list&l=zh-CN#Kurokotei) & [Sobrem](?p=composer_list&l=zh-CN#Sobrem) feat. vally.exe) | [Shalink](?p=illustrator_list&l=zh-CN#Shalink) | v2.8.0 | SY 9.1 |
+| [Silver Morpho](?p=songs/Silver_Morpho&l=zh-CN) | [sakakosmos](?p=composer_list&l=zh-CN#sakakosmos) | [sakakosmos](?p=illustrator_list&l=zh-CN#sakakosmos) | v2.8.0 | SY 6.0 |
 
 ## 下架曲目
 
@@ -155,7 +157,5 @@
 | [Crystal Ember](?p=songs/Crystal_Ember&l=zh-CN) | [Ascellia Mio](?p=composer_list&l=zh-CN#Ascellia_Mio) | 未知 | 未知 |
 | [meteor();](?p=songs/meteor();&l=zh-CN) | [ILusMin](?p=composer_list&l=zh-CN#ILusMin) & [ShooTinGStaR](?p=composer_list&l=zh-CN#ShooTinGStaR) | 未知 | 未知 |
 | [ИÖDΣ](?p=songs/NODE&l=zh-CN) | [I](?p=composer_list&l=zh-CN#ILusMin)[C](?p=composer_list&l=zh-CN#CNHKSS)[B](?p=composer_list&l=zh-CN#Brycillum)[M](?p=composer_list&l=zh-CN#NonNam) | （画师名义未知）[JQ.Professor](?p=illustrator_list&l=zh-CN#JQ.Professor) & [Panthullu](?p=illustrator_list&l=zh-CN#Panthullu) | 未知 |
-| [Silver Morpho](?p=songs/Silver_Morpho&l=zh-CN) | [sakakosmos](?p=composer_list&l=zh-CN#sakakosmos) | 未知 | v2.8.0 |
 | [Recordatio Temporis](?p=songs/Recordatio_Temporis&l=zh-CN) | [EOTW433](?p=composer_list&l=zh-CN#EOTW433) | [HOSHILINEARX.](?p=illustrator_list&l=zh-CN#HOSHILINEARX.) | 未知 |
 | [茶靡](?p=songs/Chami&l=zh-CN) | [急冻秋刀鱼](?p=composer_list&l=zh-CN#Jidong_Qiudaoyu) | [Semiryoiki](?p=illustrator_list&l=zh-CN#Semiryoiki) | 未知 |
-| [Overjoy ★ OVERDOSE!!](?p=songs/Overjoy_OVERDOSE!!&l=zh-CN) | Luna Fozer ([BilliumMoto](?p=composer_list&l=zh-CN#BilliumMoto) & [黒皇帝](?p=composer_list&l=zh-CN#Kurokotei) & [Sobrem](?p=composer_list&l=zh-CN#Sobrem) feat. vally.exe) | [Shalink](?p=illustrator_list&l=zh-CN#Shalink) | v2.8.0 |

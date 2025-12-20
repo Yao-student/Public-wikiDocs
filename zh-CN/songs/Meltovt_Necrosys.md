@@ -36,8 +36,8 @@
 | :-: | :-: | :-: |
 | 2025/03/29 | v2.0.0 | Steam侧上线曲目 |
 | 2025/04/02 | v2.0.0 | TapTap侧上线曲目 |
-| 2025/05/28 | v2.2.1 | iOS外区侧上线曲目 |
-| 2025/07/21 | v2.4.1 | iOS国区侧上线曲目 |
+| 2025/05/28 | v2.2.1 | App Store外区侧上线曲目 |
+| 2025/07/21 | v2.4.1 | App Store国区侧上线曲目 |
 | 2025/08/16 | v2.5.0 | EZ难度定数由5.8改为5.3 |
 
 ## 游戏相关
@@ -57,14 +57,14 @@
 
 ## 音乐
 
-- ![网易云音乐图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/netease-cloud-music.ico)[Meltovt Necrosys - Halv - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2671549237)
-- ![YouTube图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/youtube.ico)[【Official】Halv - Meltovt Necrosys【Milthm x Notanote】](https://www.youtube.com/watch?v=CHEdbzhvW-s)
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【Milthm x Notanote】Halv - Meltovt Necrosys](https://www.bilibili.com/video/BV1Cr42187Lk/)
+- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[Meltovt Necrosys - Halv - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2671549237)
+- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/youtube.ico)[【Official】Halv - Meltovt Necrosys【Milthm x Notanote】](https://www.youtube.com/watch?v=CHEdbzhvW-s)
+- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Milthm x Notanote】Halv - Meltovt Necrosys](https://www.bilibili.com/video/BV1Cr42187Lk/)
 
 ## 相关视频
 
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Meltovt Necrosys [SY 10.2] 谱面演示](https://www.bilibili.com/video/BV1PrZRY2EVA/)
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Meltovt Necrosys [EZ 5.8] 谱面演示](https://www.bilibili.com/video/BV116ZRY7Eki/)
+- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Meltovt Necrosys [SY 10.2] 谱面演示](https://www.bilibili.com/video/BV1PrZRY2EVA/)
+- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Meltovt Necrosys [EZ 5.8] 谱面演示](https://www.bilibili.com/video/BV116ZRY7Eki/)
 
 ## 注释
 

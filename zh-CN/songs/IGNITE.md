@@ -16,7 +16,7 @@
 | 时长 | 02:36 |
 | BPM | 200 |
 | 章节 | [音波狂潮](?p=chapters/LiveMania&l=zh-CN) |
-| 曲绘 | [LiveMania](?p=illustrator_list&l=zh-CN#LiveMania) |
+| 曲绘 | [LiveMania](?p=illustrator_list&l=zh-CN#LAM) |
 
 ## 谱面信息
 
@@ -24,7 +24,7 @@
 | :-: | :-: | :-: |
 | 定数 | 9.3 | 4.5 |
 | 物量 | 988 | 885 |
-| 谱师 | THE NEXT >>> [XyX](?p=charter_list&l=zh-CN#XyX) + [AwlF](?p=charter_list&l=zh-CN#AwlF) + [大松_Dason](?p=charter_list&l=zh-CN#Dason) | [AAA](?p=charter_list&l=zh-CN#AwlF)_[Dason](?p=charter_list&l=zh-CN#Dason)[嘤箱](?p=charter_list&l=zh-CN#XyX)批[Fa](?p=charter_list&l=zh-CN#AwlF) |
+| 谱师 | THE NEXT >>> [XyX](?p=charter_list&l=zh-CN#XyX) + [AwlF](?p=charter_list&l=zh-CN#AwlF) + [大松_Dason](?p=charter_list&l=zh-CN#Dason) | AAA_[Dason](?p=charter_list&l=zh-CN#Dason)[嘤箱](?p=charter_list&l=zh-CN#XyX)批[Fa](?p=charter_list&l=zh-CN#AwlF) |
 
 ## 解锁方法
 
@@ -35,6 +35,7 @@
 | 时间 | 版本 | 内容 |
 | :-: | :-: | :-: |
 | 2025/10/01 | v2.6.0 | 上线曲目 |
+| 2025/12/24 | v2.8.0 | 将曲绘名义由LiveMania改为LAM |
 
 ## 游戏相关
 
@@ -139,11 +140,11 @@ The Soundwave will IGNITE!
 
 ## 音乐
 
-- ![网易云音乐图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/netease-cloud-music.ico)[IGNITE - USAO/Massive New Krew - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2128530603)
-- ![YouTube图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/youtube.ico)[USAO & Massive New Krew - IGNITE](https://www.youtube.com/watch?v=EbaaHmy4QCM)
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[USAO & Massive New Krew - IGNITE 【音波狂潮3.0 活动主题曲】](https://www.bilibili.com/video/BV1fr4y1X7nt/)
+- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[IGNITE - USAO/Massive New Krew - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2128530603)
+- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/youtube.ico)[USAO & Massive New Krew - IGNITE](https://www.youtube.com/watch?v=EbaaHmy4QCM)
+- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[USAO & Massive New Krew - IGNITE 【音波狂潮3.0 活动主题曲】](https://www.bilibili.com/video/BV1fr4y1X7nt/)
 
 ## 相关视频
 
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室/这谱咱仨写的】IGNITE [SY 9.3] 谱面演示](https://www.bilibili.com/video/BV14LHxz9EWQ/)
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室/这谱咱仨写的】IGNITE [EZ 4.5] 谱面演示](https://www.bilibili.com/video/BV1snHxznEUu/)
+- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室/这谱咱仨写的】IGNITE [SY 9.3] 谱面演示](https://www.bilibili.com/video/BV14LHxz9EWQ/)
+- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室/这谱咱仨写的】IGNITE [EZ 4.5] 谱面演示](https://www.bilibili.com/video/BV1snHxznEUu/)

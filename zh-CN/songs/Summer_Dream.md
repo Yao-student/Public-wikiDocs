@@ -37,8 +37,8 @@
 | 2024/01/08 | 第二次游戏性测试 | Steam侧上线曲目 |
 | 2025/03/29 | v2.0.0 | SY难度定数由1.5改为2.5 |
 | 2025/04/02 | v2.0.0 | TapTap侧上线曲目 |
-| 2025/05/28 | v2.2.1 | iOS外区侧上线曲目 |
-| 2025/07/21 | v2.4.1 | iOS国区侧上线曲目 |
+| 2025/05/28 | v2.2.1 | App Store外区侧上线曲目 |
+| 2025/07/21 | v2.4.1 | App Store国区侧上线曲目 |
 | 2025/08/16 | v2.5.0 | SY难度定数由2.5改为3.0 |
 
 ## 游戏相关
@@ -195,13 +195,13 @@ Until the end of the world
 
 ## 音乐
 
-- ![网易云音乐图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/netease-cloud-music.ico)[Summer Dream (feat. Chevy) - Kirara Magic/Chevy - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1854644975)<sup><a id="note-1.1" href="#ref-1">[1]</a></sup>
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【清新夏日单曲】Summer Dream (feat. Chevy)【MV】](https://www.bilibili.com/video/BV1yB4y1K7X5/)<sup><a id="note-1.2" href="#ref-1">[1]</a></sup>
+- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[Summer Dream (feat. Chevy) - Kirara Magic/Chevy - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1854644975)<sup><a id="note-1.1" href="#ref-1">[1]</a></sup>
+- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【清新夏日单曲】Summer Dream (feat. Chevy)【MV】](https://www.bilibili.com/video/BV1yB4y1K7X5/)<sup><a id="note-1.2" href="#ref-1">[1]</a></sup>
 
 ## 相关视频
 
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Summer Dream [SY 2.5] 谱面演示](https://www.bilibili.com/video/BV1UkGNzGEPg/)
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【Notanote/不要急挑战（）】Summer Dream SY1 All Perfect](https://www.bilibili.com/video/BV1TY2NYSEyi/)
+- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Summer Dream [SY 2.5] 谱面演示](https://www.bilibili.com/video/BV1UkGNzGEPg/)
+- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote/不要急挑战（）】Summer Dream SY1 All Perfect](https://www.bilibili.com/video/BV1TY2NYSEyi/)
 
 ## 注释
 

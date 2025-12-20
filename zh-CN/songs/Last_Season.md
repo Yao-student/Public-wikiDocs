@@ -36,8 +36,8 @@
 | :-: | :-: | :-: |
 | 2025/03/29 | v2.0.0 | Steam侧上线曲目 |
 | 2025/04/02 | v2.0.0 | TapTap侧上线曲目 |
-| 2025/05/28 | v2.2.1 | iOS外区侧上线曲目 |
-| 2025/07/21 | v2.4.1 | iOS国区侧上线曲目 |
+| 2025/05/28 | v2.2.1 | App Store外区侧上线曲目 |
+| 2025/07/21 | v2.4.1 | App Store国区侧上线曲目 |
 | 2025/08/16 | v2.5.0 | SY难度定数由6.0改为6.2 |
 
 ## 游戏相关
@@ -46,7 +46,7 @@
   > 心中有光的人总在深冬怀揣春天。
   > ——正观新闻《此心光明万物生》
 
-  本动态已删除，但是有[大松_Dason](?p=user_list&l=zh-CN#大松_Dason)在[Notanote官方Discord服务器](https://discord.gg/tCqyBQPg2c)上发送的一张动态[截图](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/Last_Season_leak.png)留存。（[Discord原消息链接](https://discord.com/channels/1094981701190557706/1094982163981684796/1334501924027760711)）
+  本动态已删除，但是有[大松_Dason](?p=user_list&l=zh-CN#大松_Dason)在[Notanote官方Discord服务器](https://discord.gg/tCqyBQPg2c)上发送的一张动态[截图](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/Last_Season_leak.png)留存。（[Discord原消息链接](https://discord.com/channels/1094981701190557706/1094982163981684796/1334501924027760711)）
 
 ## 攻略
 
@@ -56,9 +56,9 @@
 
 ## 音乐
 
-- ![网易云音乐图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/netease-cloud-music.ico)[Last Season - lunari.io/Notanote - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2714634339)
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【Notanote x Soul Notes】Last Season - lunari.io](https://www.bilibili.com/video/BV15GKweNEcq/)
+- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[Last Season - lunari.io/Notanote - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2714634339)
+- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote x Soul Notes】Last Season - lunari.io](https://www.bilibili.com/video/BV15GKweNEcq/)
 
 ## 相关视频
 
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Last Season [SY 6.2] 谱面演示](https://www.bilibili.com/video/BV1N6ZRY7EtU/)
+- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Last Season [SY 6.2] 谱面演示](https://www.bilibili.com/video/BV1N6ZRY7EtU/)

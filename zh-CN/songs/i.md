@@ -42,7 +42,7 @@
 ## 游戏相关
 
 - 本曲收录于专辑[星律回溯 Star Rhythm Collection Vol.1](https://www.bilibili.com/video/BV1dEGvzgEgT/)与[Celestial Evasion “類星逃逸”](https://music.163.com/&l=zh-CN#/album?id=274543457)中，同属于本专辑的[「Crystal Ember」](?p=songs/Crystal_Ember)与[「meteor();」](?p=songs/meteor();&l=zh-CN)也是Notanote原创曲。
-- 本曲曲名指数学中的虚数单位$i$。
+- 本曲曲名指数学中的虚数单位i。
 - 本曲的SP难度原定于v2.6.0上线，但是不小心于v2.5.1提前上线。
 - 本曲的SP难度上线之初谱面延迟错误且相差很大，后于v2.6.0被修正。
 
@@ -58,13 +58,13 @@
 
 ## 音乐
 
-- ![网易云音乐图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/netease-cloud-music.ico)[i - Ωμεγα - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2717010221)
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【Notanote原创曲】i - Ωμεγα](https://www.bilibili.com/video/BV1tuhmz6ETF/)
+- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[i - Ωμεγα - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2717010221)
+- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote原创曲】i - Ωμεγα](https://www.bilibili.com/video/BV1tuhmz6ETF/)
 
 ## 相关视频
 
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】i [SY 6.7] 谱面演示](https://www.bilibili.com/video/BV1ANeqz5EGs/)
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】i [EZ 2.5] 谱面演示](https://www.bilibili.com/video/BV17ieizPEeW/)
+- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】i [SY 6.7] 谱面演示](https://www.bilibili.com/video/BV1ANeqz5EGs/)
+- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】i [EZ 2.5] 谱面演示](https://www.bilibili.com/video/BV17ieizPEeW/)
 
 ## 注释
 

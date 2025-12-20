@@ -52,10 +52,10 @@
 
 ## 音乐
 
-- ![网易云音乐图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/netease-cloud-music.ico)[Get Back（游戏《Phigros》收录曲） - CAP3 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1428353930)
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[Get Back-CAP3](https://www.bilibili.com/video/BV18S411A7Bv/)
+- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[Get Back（游戏《Phigros》收录曲） - CAP3 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1428353930)
+- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[Get Back-CAP3](https://www.bilibili.com/video/BV18S411A7Bv/)
 
 ## 相关视频
 
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Get Back [SY 8.2] 谱面演示](https://www.bilibili.com/video/BV18LHtzaEEj/)
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Get Back [EZ 2.0] 谱面演示](https://www.bilibili.com/video/BV1wuHPzJEcH/)
+- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Get Back [SY 8.2] 谱面演示](https://www.bilibili.com/video/BV18LHtzaEEj/)
+- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Get Back [EZ 2.0] 谱面演示](https://www.bilibili.com/video/BV1wuHPzJEcH/)

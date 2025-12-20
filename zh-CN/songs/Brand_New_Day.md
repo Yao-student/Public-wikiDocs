@@ -36,8 +36,8 @@
 | :-: | :-: | :-: |
 | 2024/01/08 | 第二次游戏性测试 | Steam侧上线曲目 |
 | 2025/04/02 | v2.0.0 | TapTap侧上线曲目 |
-| 2025/05/28 | v2.2.1 | iOS外区侧上线曲目 |
-| 2025/07/21 | v2.4.1 | iOS国区侧上线曲目 |
+| 2025/05/28 | v2.2.1 | App Store外区侧上线曲目 |
+| 2025/07/21 | v2.4.1 | App Store国区侧上线曲目 |
 | 2025/08/16 | v2.5.0 | SY难度定数由6.0改为5.1 |
 
 ## 游戏相关
@@ -103,8 +103,8 @@
 
 ## 音乐
 
-- ![网易云音乐图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/netease-cloud-music.ico)[Brand New Day - 猎影双煞NonNam/FrostOwl - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2079106190)
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【新音游 Notanote / Ace Studio】Brand New Day [ft. 赫瑞 & 诺塔]](https://www.bilibili.com/video/BV1jp4y177Bo/)
+- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[Brand New Day - 猎影双煞NonNam/FrostOwl - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2079106190)
+- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【新音游 Notanote / Ace Studio】Brand New Day [ft. 赫瑞 & 诺塔]](https://www.bilibili.com/video/BV1jp4y177Bo/)
 
 ## 相关视频
 

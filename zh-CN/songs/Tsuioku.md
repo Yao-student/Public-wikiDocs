@@ -44,6 +44,7 @@
 | 2025/07/21 | v2.4.1 | App Store国区侧上线曲目 |
 | 2025/08/16 | v2.5.0 | SY难度定数由5.3改为5.4 |
 | 2025/09/13 | v2.5.1 | 增加TL难度 |
+| 2025/12/24 | v2.8.0 | 将TL难度谱面的开始提示文字由白色改为黑色 |
 
 ## 游戏相关
 
@@ -201,14 +202,14 @@
 
 ## 音乐
 
-- ![网易云音乐图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/netease-cloud-music.ico)[追憶 (feat. nakotanmaru) - PIKASONIC / なこたんまる - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1869161372)<sup><a id="note-1.1" href="#ref-1">[1]</a></sup>
-- ![YouTube图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/youtube.ico)[PIKASONIC - 追憶 (feat.nakotanmaru)](https://www.youtube.com/watch?v=8TpMs2oS5u0)<sup><a id="note-1.2" href="#ref-1">[1]</a></sup>
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[PIKASONIC - 追憶 (feat.nakotanmaru)](https://www.bilibili.com/video/BV1C3411R7c2/)<sup><a id="note-1.3" href="#ref-1">[1]</a></sup>
+- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[追憶 (feat. nakotanmaru) - PIKASONIC / なこたんまる - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1869161372)<sup><a id="note-1.1" href="#ref-1">[1]</a></sup>
+- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/youtube.ico)[PIKASONIC - 追憶 (feat.nakotanmaru)](https://www.youtube.com/watch?v=8TpMs2oS5u0)<sup><a id="note-1.2" href="#ref-1">[1]</a></sup>
+- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[PIKASONIC - 追憶 (feat.nakotanmaru)](https://www.bilibili.com/video/BV1C3411R7c2/)<sup><a id="note-1.3" href="#ref-1">[1]</a></sup>
 
 ## 相关视频
 
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】追憶 [SY 5.4] 谱面演示](https://www.bilibili.com/video/BV1negZzrECL/)
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】追憶 [EZ 3.0] 谱面演示](https://www.bilibili.com/video/BV1pYgZzGEcM/)
+- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】追憶 [SY 5.4] 谱面演示](https://www.bilibili.com/video/BV1negZzrECL/)
+- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】追憶 [EZ 3.0] 谱面演示](https://www.bilibili.com/video/BV1pYgZzGEcM/)
 
 ## 注释
 

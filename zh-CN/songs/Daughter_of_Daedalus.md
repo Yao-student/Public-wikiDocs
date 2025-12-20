@@ -37,11 +37,12 @@
 | 2025/08/16 | v2.5.0 | Steam、TapTap侧上线曲目 |
 | 2025/08/18 | v2.5.0 | App Store侧上线曲目 |
 | 2025/09/13 | v2.5.1 | SY难度定数由6.7改为7.1 |
+| 2025/10/01 | v2.6.0 | 更改曲绘（微调） |
 
 ## 游戏相关
 
 - 本曲的所有难度谱面原来均存在超出曲目时间的note，后于v2.5.1被修正。
-- ~~本曲的SY难度谱面物量为<p style="color: #BA6B00;">1145</p>。~~
+- ~~本曲的SY难度谱面物量为<span style="color: #BA6B00;">1145</span>。~~
 
 ## 攻略
 
@@ -59,10 +60,10 @@
 
 ## 音乐
 
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【Notanote原创曲】Daughter of Daedalus - tn-shi](https://www.bilibili.com/video/BV1MyvPzaErG/)
+- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote原创曲】Daughter of Daedalus - tn-shi](https://www.bilibili.com/video/BV1MyvPzaErG/)
 
 ## 相关视频
 
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Daughter of Daedalus [SY 7.1] 谱面演示 / DOD](https://www.bilibili.com/video/BV1p6J9zWET8/)
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Daughter of Daedalus [SY+ 9.6] 谱面演示 / DOD](https://www.bilibili.com/video/BV1XEJ9zBEDy/)
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Daughter of Daedalus [EZ 2.0] 谱面演示 / DOD](https://www.bilibili.com/video/BV1YEJ9zBEUv/)
+- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Daughter of Daedalus [SY 7.1] 谱面演示 / DOD](https://www.bilibili.com/video/BV1p6J9zWET8/)
+- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Daughter of Daedalus [SY+ 9.6] 谱面演示 / DOD](https://www.bilibili.com/video/BV1XEJ9zBEDy/)
+- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Daughter of Daedalus [EZ 2.0] 谱面演示 / DOD](https://www.bilibili.com/video/BV1YEJ9zBEUv/)

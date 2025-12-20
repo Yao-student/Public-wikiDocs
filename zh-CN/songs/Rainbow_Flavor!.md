@@ -37,8 +37,8 @@
 | 2024/01/08 | 第二次游戏性测试 | Steam侧上线曲目 |
 | 2025/03/29 | v2.0.0 | SY难度定数由7.2改为7.0 |
 | 2025/04/02 | v2.0.0 | TapTap侧上线曲目 |
-| 2025/05/28 | v2.2.1 | iOS外区侧上线曲目 |
-| 2025/07/21 | v2.4.1 | iOS国区侧上线曲目 |
+| 2025/05/28 | v2.2.1 | App Store外区侧上线曲目 |
+| 2025/07/21 | v2.4.1 | App Store国区侧上线曲目 |
 | 2025/08/16 | v2.5.0 | SY难度定数由7.0改为6.3 |
 | 2025/09/13 | v2.5.1 | 更改曲绘<sup><a id="note1" href="#ref-1">[1]</a></sup> |
 
@@ -58,13 +58,13 @@
 
 ## 音乐
 
-- ![网易云音乐图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/netease-cloud-music.ico)[Rainbow Flavor!（彩虹的味道） - SuggestedCopy7/亚述 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2039084825)
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【原创萌系电音EP】SuggestedCopy7&YashuUwU—《Rainbow Flavor!》单曲试听~](https://www.bilibili.com/video/BV1RT41187Hi/)
+- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[Rainbow Flavor!（彩虹的味道） - SuggestedCopy7/亚述 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2039084825)
+- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【原创萌系电音EP】SuggestedCopy7&YashuUwU—《Rainbow Flavor!》单曲试听~](https://www.bilibili.com/video/BV1RT41187Hi/)
 
 ## 相关视频
 
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Rainbow Flavor! [SY 7.0] 谱面演示](https://www.bilibili.com/video/BV1278RzsEiN/)
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Yao-student/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Rainbow Flavor! [EZ 1.5] 谱面演示](https://www.bilibili.com/video/BV1KZ8CztEkJ/)
+- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Rainbow Flavor! [SY 7.0] 谱面演示](https://www.bilibili.com/video/BV1278RzsEiN/)
+- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Rainbow Flavor! [EZ 1.5] 谱面演示](https://www.bilibili.com/video/BV1KZ8CztEkJ/)
 
 ## 注释
 
