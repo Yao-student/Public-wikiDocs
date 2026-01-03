@@ -41,6 +41,7 @@
 
 - 本曲是BOF:NT个人战第11名。
 - 本曲的歌词混合了英语、法语、日语、韩语。
+- 本曲的[官方谱面预览](https://www.bilibili.com/video/BV1hLqQB9ECe/)结尾藏了人机验证动画，暗示之后公布的[三相奇谈联动](?p=chapters/Threefold_Recital&l=zh-CN)，人机验证对应的是《三相奇谈》第三章中的“吾非机关人”。
 
 ## 攻略
 

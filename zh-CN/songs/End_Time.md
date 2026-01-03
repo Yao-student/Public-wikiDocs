@@ -41,6 +41,7 @@
 
 - 本曲是BOF2006个人战第37名。
 - 本曲是Notanote第一个拥有谱面异象的曲目。在解锁过程中，游玩Moondread后再游玩End Time即可触发异象。
+    - 重玩异象的方法为：在设置中将亮度、对比度、饱和度中任意一项调至100%或-100%。
 - 本曲的三张谱面为[JMY](?p=charter_list&l=zh-CN#JMY)与[SiLENTORANGE](?p=charter_list&l=zh-CN#SiLENTORANGE)在Notanote中第一次亮相的谱面。
 
 ## 攻略

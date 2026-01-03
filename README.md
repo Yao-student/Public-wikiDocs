@@ -9,7 +9,6 @@ This is the official wiki of Notanote.
 
 ```tree
 Public-wikiDocs/
-├──main.html                               # The webpage source code
 ├──locales.json                            # The language list
 └──(Languages)
     ├──Folder.json                         # Set the left side navigation bar and entries titles
