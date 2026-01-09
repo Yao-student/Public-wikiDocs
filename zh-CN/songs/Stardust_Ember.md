@@ -41,7 +41,7 @@
 ## 游戏相关
 
 - 本曲是与[维度坍缩](https://space.bilibili.com/448965502)联动的原创曲。
-- 本曲被联动至Berry Melody。
+- 本曲为Berry Melody联动提供曲。
 
 ## 攻略
 
@@ -55,10 +55,10 @@
 
 ## 音乐
 
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[Stardust Ember - RAI/维度坍缩 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2156135247)
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【联动原创曲】Stardust Ember - RAI](https://www.bilibili.com/video/BV1g1421D7x1/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[Stardust Ember - RAI/维度坍缩 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2156135247)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【联动原创曲】Stardust Ember - RAI](https://www.bilibili.com/video/BV1g1421D7x1/)
 
 ## 相关视频
 
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Stardust Ember [SY 8.5] 谱面演示](https://www.bilibili.com/video/BV14bKWzVEkY/)
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Stardust Ember [EZ 4.5] 谱面演示](https://www.bilibili.com/video/BV1woKpzNE91/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Stardust Ember [SY 8.5] 谱面演示](https://www.bilibili.com/video/BV14bKWzVEkY/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Stardust Ember [EZ 4.5] 谱面演示](https://www.bilibili.com/video/BV1woKpzNE91/)
